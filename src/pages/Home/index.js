@@ -1,7 +1,9 @@
 import React from "react";
 import {
+  IonButtons,
   IonContent,
   IonHeader,
+  IonMenuButton,
   IonTitle,
   IonToolbar,
   IonPage,
@@ -12,6 +14,9 @@ const Home = () => {
     <IonPage>
       <IonHeader>
         <IonToolbar>
+          <IonButtons slot="start">
+            <IonMenuButton />
+          </IonButtons>
           <IonTitle>Introduction</IonTitle>
         </IonToolbar>
       </IonHeader>

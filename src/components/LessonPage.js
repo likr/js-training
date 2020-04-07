@@ -1,10 +1,12 @@
 import React, { useState } from "react";
 import {
+  IonButtons,
   IonContent,
   IonHeader,
   IonItem,
   IonLabel,
   IonList,
+  IonMenuButton,
   IonTitle,
   IonToolbar,
   IonPage,
@@ -47,6 +49,9 @@ const LessonPage = ({
     <IonPage>
       <IonHeader>
         <IonToolbar>
+          <IonButtons slot="start">
+            <IonMenuButton />
+          </IonButtons>
           <IonTitle>{title}</IonTitle>
         </IonToolbar>
       </IonHeader>
