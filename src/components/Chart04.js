@@ -22,7 +22,7 @@ const Chart = ({ data }) => {
         tickSize: 5,
         tickPadding: 5,
         tickRotation: 0,
-        legend: "weight",
+        legend: "Sepal Length",
         legendPosition: "middle",
         legendOffset: 46,
       }}
@@ -31,7 +31,7 @@ const Chart = ({ data }) => {
         tickSize: 5,
         tickPadding: 5,
         tickRotation: 0,
-        legend: "size",
+        legend: "Petal Width",
         legendPosition: "middle",
         legendOffset: -60,
       }}
