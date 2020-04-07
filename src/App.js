@@ -15,16 +15,26 @@ import {
 import { IonReactRouter } from "@ionic/react-router";
 
 import Home from "./pages/Home";
-import Lecture1 from "./pages/Lecture1";
-import Lecture2 from "./pages/Lecture2";
-import Lecture3 from "./pages/Lecture3";
-import Lecture4 from "./pages/Lecture4";
-import Lecture5 from "./pages/Lecture5";
-import Lecture6 from "./pages/Lecture6";
-import Lecture7 from "./pages/Lecture7";
-import Lecture8 from "./pages/Lecture8";
-import Lecture9 from "./pages/Lecture9";
-import Lecture10 from "./pages/Lecture10";
+import Lesson01 from "./pages/Lesson01";
+import Lesson02 from "./pages/Lesson02";
+import Lesson03 from "./pages/Lesson03";
+import Lesson04 from "./pages/Lesson04";
+import Lesson05 from "./pages/Lesson05";
+import Lesson06 from "./pages/Lesson06";
+import Lesson07 from "./pages/Lesson07";
+import Lesson08 from "./pages/Lesson08";
+import Lesson09 from "./pages/Lesson09";
+import Lesson10 from "./pages/Lesson10";
+import Answer01 from "./pages/Answer01";
+import Answer02 from "./pages/Answer02";
+import Answer03 from "./pages/Answer03";
+import Answer04 from "./pages/Answer04";
+import Answer05 from "./pages/Answer05";
+import Answer06 from "./pages/Answer06";
+import Answer07 from "./pages/Answer07";
+import Answer08 from "./pages/Answer08";
+import Answer09 from "./pages/Answer09";
+import Answer10 from "./pages/Answer10";
 
 const App = () => {
   return (
@@ -40,31 +50,41 @@ const App = () => {
             <IonContent>
               <IonList>
                 <IonItem href="/">Home</IonItem>
-                <IonItem href="/lecture1">Lecture1</IonItem>
-                <IonItem href="/lecture2">Lecture2</IonItem>
-                <IonItem href="/lecture3">Lecture3</IonItem>
-                <IonItem href="/lecture4">Lecture4</IonItem>
-                <IonItem href="/lecture5">Lecture5</IonItem>
-                <IonItem href="/lecture6">Lecture6</IonItem>
-                <IonItem href="/lecture7">Lecture7</IonItem>
-                <IonItem href="/lecture8">Lecture8</IonItem>
-                <IonItem href="/lecture9">Lecture9</IonItem>
-                <IonItem href="/lecture10">Lecture10</IonItem>
+                <IonItem href="/lesson01">Lesson01</IonItem>
+                <IonItem href="/lesson02">Lesson02</IonItem>
+                <IonItem href="/lesson03">Lesson03</IonItem>
+                <IonItem href="/lesson04">Lesson04</IonItem>
+                <IonItem href="/lesson05">Lesson05</IonItem>
+                <IonItem href="/lesson06">Lesson06</IonItem>
+                <IonItem href="/lesson07">Lesson07</IonItem>
+                <IonItem href="/lesson08">Lesson08</IonItem>
+                <IonItem href="/lesson09">Lesson09</IonItem>
+                <IonItem href="/lesson10">Lesson10</IonItem>
               </IonList>
             </IonContent>
           </IonMenu>
           <IonRouterOutlet id="main">
             <Route path="/" component={Home} exact />
-            <Route path="/lecture1" component={Lecture1} />
-            <Route path="/lecture2" component={Lecture2} />
-            <Route path="/lecture3" component={Lecture3} />
-            <Route path="/lecture4" component={Lecture4} />
-            <Route path="/lecture5" component={Lecture5} />
-            <Route path="/lecture6" component={Lecture6} />
-            <Route path="/lecture7" component={Lecture7} />
-            <Route path="/lecture8" component={Lecture8} />
-            <Route path="/lecture9" component={Lecture9} />
-            <Route path="/lecture10" component={Lecture10} />
+            <Route path="/lesson01" component={Lesson01} />
+            <Route path="/lesson02" component={Lesson02} />
+            <Route path="/lesson03" component={Lesson03} />
+            <Route path="/lesson04" component={Lesson04} />
+            <Route path="/lesson05" component={Lesson05} />
+            <Route path="/lesson06" component={Lesson06} />
+            <Route path="/lesson07" component={Lesson07} />
+            <Route path="/lesson08" component={Lesson08} />
+            <Route path="/lesson09" component={Lesson09} />
+            <Route path="/lesson10" component={Lesson10} />
+            <Route path="/answer01" component={Answer01} />
+            <Route path="/answer02" component={Answer02} />
+            <Route path="/answer03" component={Answer03} />
+            <Route path="/answer04" component={Answer04} />
+            <Route path="/answer05" component={Answer05} />
+            <Route path="/answer06" component={Answer06} />
+            <Route path="/answer07" component={Answer07} />
+            <Route path="/answer08" component={Answer08} />
+            <Route path="/answer09" component={Answer09} />
+            <Route path="/answer10" component={Answer10} />
           </IonRouterOutlet>
         </IonSplitPane>
       </IonReactRouter>

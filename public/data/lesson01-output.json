@@ -1,0 +1,20 @@
+[
+  { "name": "哲学科", "count": 88 },
+  { "name": "史学科", "count": 133 },
+  { "name": "国文学科", "count": 133 },
+  { "name": "中国語中国文化学科", "count": 70 },
+  { "name": "英文学科", "count": 133 },
+  { "name": "ドイツ文学科", "count": 80 },
+  { "name": "社会学科", "count": 210 },
+  { "name": "社会福祉学科", "count": 60 },
+  { "name": "教育学科", "count": 120 },
+  { "name": "体育学科", "count": 200 },
+  { "name": "心理学科", "count": 130 },
+  { "name": "地理学科", "count": 80 },
+  { "name": "地球科学科", "count": 80 },
+  { "name": "数学科", "count": 73 },
+  { "name": "情報科学科", "count": 80 },
+  { "name": "物理学科", "count": 70 },
+  { "name": "生命科学科", "count": 70 },
+  { "name": "化学科", "count": 90 }
+]

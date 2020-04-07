@@ -23,6 +23,8 @@
   "dependencies": {
     "@ionic/react": "^5.0.7",
     "@ionic/react-router": "^5.0.7",
+    "@nivo/bar": "^0.61.1",
+    "markdown-it": "^10.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.1.2"
