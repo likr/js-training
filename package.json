@@ -1,0 +1,42 @@
+{
+  "name": "js-training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "react-scripts build",
+    "start": "react-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/likr-boilerplate/js-training.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/likr-boilerplate/js-training/issues"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.4",
+    "react-scripts": "^3.4.1"
+  },
+  "dependencies": {
+    "@ionic/react": "^5.0.7",
+    "@ionic/react-router": "^5.0.7",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-router-dom": "^5.1.2"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
