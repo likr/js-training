@@ -14,10 +14,10 @@ const Answer = () => {
   return (
     <AnswerPage
       answer={answer}
-      dataUrl="data/lesson01.json"
+      dataUrl="data/chs-capacity.json"
       convertData={convertData}
       lessonUrl="/lesson01"
-      title="Lesson01 - Answer"
+      title="Lesson 01 - Answer"
       Chart={Chart}
     />
   );

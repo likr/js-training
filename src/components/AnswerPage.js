@@ -28,11 +28,13 @@ const AnswerPage = ({
   const [text, setText] = useState(null);
 
   useIonViewWillEnter(() => {
-    fetch(dataUrl)
-      .then((response) => response.json())
-      .then((data) => {
-        setData(convertData(data));
-      });
+    if (dataUrl) {
+      fetch(dataUrl)
+        .then((response) => response.json())
+        .then((data) => {
+          setData(convertData(data));
+        });
+    }
   }, [dataUrl, convertData]);
 
   useIonViewWillEnter(() => {

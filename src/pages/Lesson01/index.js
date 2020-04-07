@@ -4,8 +4,7 @@ import Chart from "../../components/Chart01";
 import instruction from "./instruction.md";
 
 const convertData = (input) => {
-  // ここを作りましょう！
-  return [];
+  return []; // ここを作りましょう！
 };
 
 const Lesson = () => {
@@ -13,9 +12,9 @@ const Lesson = () => {
     <LessonPage
       answerUrl="/answer01"
       convertData={convertData}
-      dataUrl="data/lesson01.json"
+      dataUrl="data/chs-capacity.json"
       instruction={instruction}
-      title="Lesson01"
+      title="Lesson 01"
       Chart={Chart}
     />
   );

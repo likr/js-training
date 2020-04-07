@@ -4,18 +4,17 @@ import Chart from "../../components/Chart02";
 import instruction from "./instruction.md";
 
 const convertData = (input) => {
-  // ここを作りましょう！
-  return [];
+  return []; // ここを作りましょう！
 };
 
 const Lesson = () => {
   return (
     <LessonPage
-      dataUrl="data/lesson02.json"
+      dataUrl="data/qiita-tags.json"
       answerUrl="/answer02"
       convertData={convertData}
       instruction={instruction}
-      title="Lesson02"
+      title="Lesson 02"
       Chart={Chart}
     />
   );

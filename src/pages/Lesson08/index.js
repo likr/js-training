@@ -1,19 +1,19 @@
 import React from "react";
 import LessonPage from "../../components/LessonPage";
 import Chart from "../../components/Chart08";
+import instruction from "./instruction.md";
 
 const convertData = (input) => {
-  // ここを作りましょう！
-  return [];
+  return []; // ここを作りましょう！
 };
 
 const Lesson = () => {
   return (
     <LessonPage
-      dataUrl="data/lesson08.json"
       answerUrl="/answer08"
       convertData={convertData}
-      title="Lesson08"
+      instruction={instruction}
+      title="Lesson 08"
       Chart={Chart}
     />
   );

@@ -24,11 +24,13 @@ const LessonPage = ({
   const [text, setText] = useState("");
 
   useIonViewWillEnter(() => {
-    fetch(dataUrl)
-      .then((response) => response.json())
-      .then((data) => {
-        setData(convertData(data));
-      });
+    if (dataUrl) {
+      fetch(dataUrl)
+        .then((response) => response.json())
+        .then((data) => {
+          setData(convertData(data));
+        });
+    }
   }, [dataUrl, convertData]);
 
   useIonViewWillEnter(() => {
