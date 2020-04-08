@@ -12,6 +12,7 @@ const Lesson = () => {
     <LessonPage
       answerUrl="/answer05"
       convertData={convertData}
+      dataUrl="data/size-and-weight.json"
       instruction={instruction}
       title="Lesson 05"
       Chart={Chart}

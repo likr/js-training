@@ -5,7 +5,7 @@ const Chart = ({ data }) => {
   return (
     <ResponsiveScatterPlot
       data={data}
-      margin={{ top: 60, right: 140, bottom: 70, left: 90 }}
+      margin={{ top: 60, right: 40, bottom: 70, left: 90 }}
       xScale={{ type: "linear", min: "auto", max: "auto" }}
       xFormat={(e) => {
         return e + " kg";
@@ -37,11 +37,11 @@ const Chart = ({ data }) => {
       }}
       legends={[
         {
-          anchor: "bottom-right",
-          direction: "column",
+          anchor: "top-left",
+          direction: "row",
           justify: false,
-          translateX: 130,
-          translateY: 0,
+          translateX: 0,
+          translateY: -30,
           itemWidth: 100,
           itemHeight: 12,
           itemsSpacing: 5,
