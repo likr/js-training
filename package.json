@@ -24,6 +24,7 @@
     "@ionic/react": "^5.0.7",
     "@ionic/react-router": "^5.0.7",
     "@nivo/bar": "^0.61.1",
+    "@nivo/parallel-coordinates": "^0.61.0",
     "@nivo/scatterplot": "^0.61.1",
     "highlight.js": "^9.18.1",
     "markdown-it": "^10.0.0",
