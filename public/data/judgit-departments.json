@@ -1,0 +1,7166 @@
+[
+  {
+    "projectName": "地方教育費及び行政の実態調査",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "調査企画課"
+  },
+  {
+    "projectName": "外国教育事情等調査",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "調査企画課"
+  },
+  {
+    "projectName": "学校基本調査",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "調査企画課"
+  },
+  {
+    "projectName": "学校保健統計調査",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "調査企画課"
+  },
+  {
+    "projectName": "学校教員統計調査",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "調査企画課"
+  },
+  {
+    "projectName": "政府統計共同利用システムの整備",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "調査企画課"
+  },
+  {
+    "projectName": "教育改革の総合的推進に関する調査研究",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "調査企画課"
+  },
+  {
+    "projectName": "社会教育調査",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "調査企画課"
+  },
+  {
+    "projectName": "学校から社会・職業への移行に係る縦断調査",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "調査企画課"
+  },
+  {
+    "projectName": "全国学力・学習状況調査の実施",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "調査企画課"
+  },
+  {
+    "projectName": "学力調査を活用した専門的な課題分析に関する調査研究",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "調査企画課"
+  },
+  {
+    "projectName": "政策研究機能高度化推進経費",
+    "ministry": "文部科学省",
+    "bureau": "国立教育政策研究所",
+    "department": "研究企画開発部"
+  },
+  {
+    "projectName": "国際研究協力経費",
+    "ministry": "文部科学省",
+    "bureau": "国立教育政策研究所",
+    "department": "国際研究・協力部"
+  },
+  {
+    "projectName": "海外子女教育推進体制の整備",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "教育改革・国際課"
+  },
+  {
+    "projectName": "海外子女教育活動の助成",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "教育改革・国際課"
+  },
+  {
+    "projectName": "在外教育施設教員派遣事業等",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "教育改革・国際課"
+  },
+  {
+    "projectName": "青少年の国際交流の推進",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "教育改革・国際課"
+  },
+  {
+    "projectName": "社会教育を推進するための指導者の資質向上等",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "教育人材政策課"
+  },
+  {
+    "projectName": "司書教諭及び学校司書の資質の向上等を通じた学校図書館改革",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "教育人材政策課"
+  },
+  {
+    "projectName": "大学における教員の現職教育への支援",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "教育人材政策課"
+  },
+  {
+    "projectName": "教員資格認定試験",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "教育人材政策課"
+  },
+  {
+    "projectName": "現職教員の新たな免許状取得を促進する講習等開発事業",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "教育人材政策課"
+  },
+  {
+    "projectName": "教員の養成・採用・研修の一体的改革推進事業",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "教育人材政策課"
+  },
+  {
+    "projectName": "独立行政法人教職員支援機構運営費交付金に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "教育人材政策課"
+  },
+  {
+    "projectName": "独立行政法人教職員支援機構施設整備に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "教育人材政策課"
+  },
+  {
+    "projectName": "生涯学習施策に関する調査研究",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "生涯学習推進課"
+  },
+  {
+    "projectName": "高等学校卒業程度認定試験等",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "生涯学習推進課"
+  },
+  {
+    "projectName": "放送大学学園補助",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "生涯学習推進課"
+  },
+  {
+    "projectName": "職業実践専門課程等を通じた専修学校の質保証・向上の推進",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "生涯学習推進課"
+  },
+  {
+    "projectName": "専門学校生への効果的な経済的支援の在り方に関する実証研究事業",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "生涯学習推進課"
+  },
+  {
+    "projectName": "専修学校による地域産業中核的人材養成事業",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "生涯学習推進課"
+  },
+  {
+    "projectName": "専修学校グローバル化対応推進支援事業",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "生涯学習推進課"
+  },
+  {
+    "projectName": "専修学校と地域の連携深化による職業教育魅力発信力強化事業",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "生涯学習推進課"
+  },
+  {
+    "projectName": "社会人の学びの情報アクセス改善に向けた実践研究",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "生涯学習推進課"
+  },
+  {
+    "projectName": "職業実践力育成プログラム認定制度に係る事務費",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "生涯学習推進課"
+  },
+  {
+    "projectName": "学びを通じた地域振興に係る重点研究",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "地域学習推進課"
+  },
+  {
+    "projectName": "学校を核とした地域力強化プラン",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "地域学習推進課"
+  },
+  {
+    "projectName": "地域の教育資源を活用した教育格差解消プラン",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "地域学習推進課"
+  },
+  {
+    "projectName": "家庭教育支援推進事業",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "地域学習推進課"
+  },
+  {
+    "projectName": "体験活動推進プロジェクト等の充実",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "地域学習推進課"
+  },
+  {
+    "projectName": "子供の読書活動の推進",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "地域学習推進課"
+  },
+  {
+    "projectName": "協働による地域とともにある学校づくりの推進",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "地域学習推進課"
+  },
+  {
+    "projectName": "公立社会教育施設災害復旧事業",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "地域学習推進課"
+  },
+  {
+    "projectName": "独立行政法人国立青少年教育振興機構運営費交付金に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "地域学習推進課"
+  },
+  {
+    "projectName": "独立行政法人国立青少年教育振興機構施設整備に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "地域学習推進課"
+  },
+  {
+    "projectName": "社会教育実践研究センター",
+    "ministry": "文部科学省",
+    "bureau": "国立教育政策研究所",
+    "department": "社会教育実践研究センター"
+  },
+  {
+    "projectName": "若年者の消費者教育の推進に関する集中強化プラン",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "男女共同参画共生社会学習・安全課"
+  },
+  {
+    "projectName": "男女共同参画推進のための学び・キャリア形成支援事業",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "男女共同参画共生社会学習・安全課"
+  },
+  {
+    "projectName": "学校卒業後における障害者の学びの支援に関する実践研究事業",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "男女共同参画共生社会学習・安全課"
+  },
+  {
+    "projectName": "学校安全推進事業",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "男女共同参画共生社会学習・安全課"
+  },
+  {
+    "projectName": "災害共済給付事業",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "男女共同参画共生社会学習・安全課"
+  },
+  {
+    "projectName": "青少年を取り巻く有害環境対策の推進",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "男女共同参画共生社会学習・安全課"
+  },
+  {
+    "projectName": "帰国・外国人児童生徒等教育の推進",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "男女共同参画共生社会学習・安全課"
+  },
+  {
+    "projectName": "独立行政法人国立女性教育会館運営費交付金に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "男女共同参画共生社会学習・安全課"
+  },
+  {
+    "projectName": "独立行政法人国立女性教育会館施設整備に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "男女共同参画共生社会学習・安全課"
+  },
+  {
+    "projectName": "教育課程の基準の改善",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "教育課程課"
+  },
+  {
+    "projectName": "学習指導要領等の編集改訂等",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "教育課程課"
+  },
+  {
+    "projectName": "環境教育の実践普及",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "教育課程課"
+  },
+  {
+    "projectName": "教科書の検定調査発行供給等",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "教科書課"
+  },
+  {
+    "projectName": "産業教育総合推進事業",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "参事官（高校担当）"
+  },
+  {
+    "projectName": "産業教育設備費補助",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "参事官（高校担当）"
+  },
+  {
+    "projectName": "学校における放射線に関する教育の支援",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "教育課程課"
+  },
+  {
+    "projectName": "高等学校等の新たな教育改革に向けた調査研究事業",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "初等中等教育企画課"
+  },
+  {
+    "projectName": "補習等のための指導員等派遣事業",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "財務課"
+  },
+  {
+    "projectName": "小・中・高等学校を通じた英語教育強化事業",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "情報教育・外国語教育課"
+  },
+  {
+    "projectName": "スーパーグローバルハイスクール",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "参事官（高校担当）"
+  },
+  {
+    "projectName": "スーパー・プロフェッショナル・ハイスクール",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "参事官（高校担当）"
+  },
+  {
+    "projectName": "新学習指導要領の円滑な実施に向けた取組の推進",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "教育課程課"
+  },
+  {
+    "projectName": "高等学校における次世代の学習ニーズを踏まえた指導の充実事業",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "参事官（高等学校担当）"
+  },
+  {
+    "projectName": "高校生の基礎学力の定着に向けた学習改善のための研究開発事業",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "参事官（高等学校担当）"
+  },
+  {
+    "projectName": "広域通信制高等学校における教育の質の確保のための研究開発事業",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "参事官（高等学校担当）"
+  },
+  {
+    "projectName": "教育用コンテンツ奨励事業",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "情報教育・外国語教育課"
+  },
+  {
+    "projectName": "ＩＣＴを活用した教育推進自治体応援事業",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "情報教育・外国語教育課"
+  },
+  {
+    "projectName": "情報モラル教育推進事業",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "情報教育・外国語教育課"
+  },
+  {
+    "projectName": "次世代の教育情報化推進事業",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "情報教育・外国語教育課"
+  },
+  {
+    "projectName": "次世代学校支援モデル構築事業",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "情報教育・外国語教育課"
+  },
+  {
+    "projectName": "学校ＩＣＴ環境整備促進実証研究事業",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "情報教育・外国語教育課"
+  },
+  {
+    "projectName": "教育課程研究センター",
+    "ministry": "文部科学省",
+    "bureau": "国立教育政策研究所",
+    "department": "教育課程研究センター"
+  },
+  {
+    "projectName": "教育研究情報化推進事業",
+    "ministry": "文部科学省",
+    "bureau": "国立教育政策研究所",
+    "department": "研究企画開発部"
+  },
+  {
+    "projectName": "生徒指導等に関する調査研究",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "児童生徒課"
+  },
+  {
+    "projectName": "人権教育開発事業",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "児童生徒課"
+  },
+  {
+    "projectName": "いじめ対策・不登校支援等総合推進事業",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "児童生徒課"
+  },
+  {
+    "projectName": "道徳教育の抜本的改善・充実",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "教育課程課"
+  },
+  {
+    "projectName": "将来の在り方・生き方を主体的に考えられる若者を育むキャリア教育推進事業",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "児童生徒課"
+  },
+  {
+    "projectName": "我が国の伝統・文化教育の充実に係る調査研究",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "教育課程課"
+  },
+  {
+    "projectName": "生徒指導・進路指導研究センター",
+    "ministry": "文部科学省",
+    "bureau": "国立教育政策研究所",
+    "department": "生徒指導・進路指導研究センター"
+  },
+  {
+    "projectName": "学校保健推進事業",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "健康教育・食育課"
+  },
+  {
+    "projectName": "学校給食・食育総合推進事業",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "健康教育・食育課"
+  },
+  {
+    "projectName": "日本学校保健会補助",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "健康教育・食育課"
+  },
+  {
+    "projectName": "自律的、組織的な学校運営体制の構築\n※公プロを踏まえ分割",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "財務課"
+  },
+  {
+    "projectName": "地方教育行政推進事業",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "初等中等教育企画課"
+  },
+  {
+    "projectName": "全国優秀教員顕彰事業",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "財務課"
+  },
+  {
+    "projectName": "公立学校共済組合普及指導監査等",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "財務課"
+  },
+  {
+    "projectName": "義務教育費国庫負担金及び標準法実施等",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "財務課"
+  },
+  {
+    "projectName": "教育政策形成に関する実証研究",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "財務課"
+  },
+  {
+    "projectName": "文教施設に関する整備指針等の策定",
+    "ministry": "文部科学省",
+    "bureau": "大臣官房文教施設企画・防災部",
+    "department": "施設企画課"
+  },
+  {
+    "projectName": "文教施設の防災対策の強化・推進",
+    "ministry": "文部科学省",
+    "bureau": "大臣官房文教施設企画・防災部",
+    "department": "参事官（施設防災担当）"
+  },
+  {
+    "projectName": "文教施設の環境対策の推進",
+    "ministry": "文部科学省",
+    "bureau": "大臣官房文教施設企画・防災部",
+    "department": "施設企画課"
+  },
+  {
+    "projectName": "公立学校施設整備費",
+    "ministry": "文部科学省",
+    "bureau": "大臣官房文教施設企画・防災部",
+    "department": "施設助成課"
+  },
+  {
+    "projectName": "公立学校施設災害復旧費",
+    "ministry": "文部科学省",
+    "bureau": "大臣官房文教施設企画・防災部",
+    "department": "参事官（施設防災担当）"
+  },
+  {
+    "projectName": "文教施設研究センター",
+    "ministry": "文部科学省",
+    "bureau": "国立教育政策研究所",
+    "department": "文教施設研究センター"
+  },
+  {
+    "projectName": "へき地児童生徒援助費等補助",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "財務課"
+  },
+  {
+    "projectName": "要保護児童生徒援助費補助等",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "修学支援プロジェクトチーム"
+  },
+  {
+    "projectName": "アイヌ子弟高等学校等進学奨励費補助（高校・高専）",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "修学支援プロジェクトチーム"
+  },
+  {
+    "projectName": "高校生等への修学支援",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "修学支援プロジェクトチーム"
+  },
+  {
+    "projectName": "被災児童生徒就学支援等事業",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "修学支援プロジェクトチーム"
+  },
+  {
+    "projectName": "私立小中学校等に通う児童生徒への経済的支援に関する実証事業",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "修学支援プロジェクトチーム"
+  },
+  {
+    "projectName": "アイヌ子弟高等学校等進学奨励費補助（大学）",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "学生・留学生課"
+  },
+  {
+    "projectName": "幼稚園教育内容・方法の改善充実",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "幼児教育課"
+  },
+  {
+    "projectName": "幼稚園就園奨励費補助",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "幼児教育課"
+  },
+  {
+    "projectName": "認定こども園等への財政支援",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "幼児教育課"
+  },
+  {
+    "projectName": "幼児教育の質向上推進プラン",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "幼児教育課"
+  },
+  {
+    "projectName": "幼児教育研究センター",
+    "ministry": "文部科学省",
+    "bureau": "国立教育政策研究所",
+    "department": "幼児教育研究センター"
+  },
+  {
+    "projectName": "特別支援教育充実事業",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "特別支援教育課"
+  },
+  {
+    "projectName": "切れ目ない支援体制整備充実事業費補助",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "特別支援教育課"
+  },
+  {
+    "projectName": "特別支援教育設備整備費等補助",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "特別支援教育課"
+  },
+  {
+    "projectName": "特別支援教育就学奨励費負担等",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "特別支援教育課"
+  },
+  {
+    "projectName": "独立行政法人国立特別支援教育総合研究所運営費交付金に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "特別支援教育課"
+  },
+  {
+    "projectName": "独立行政法人国立特別支援教育総合研究所施設整備に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "特別支援教育課"
+  },
+  {
+    "projectName": "義務教育費国庫負担金に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "財務課"
+  },
+  {
+    "projectName": "国立大学法人等施設事務経費",
+    "ministry": "文部科学省",
+    "bureau": "大臣官房文教施設企画・防災部",
+    "department": "計画課"
+  },
+  {
+    "projectName": "大学等施設の整備に係る基準等の策定",
+    "ministry": "文部科学省",
+    "bureau": "大臣官房文教施設企画・防災部",
+    "department": "参事官（施設防災担当）"
+  },
+  {
+    "projectName": "国立大学法人等施設整備（文教施設費）",
+    "ministry": "文部科学省",
+    "bureau": "大臣官房文教施設企画・防災部",
+    "department": "計画課"
+  },
+  {
+    "projectName": "博士課程教育リーディングプログラム",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "大学振興課"
+  },
+  {
+    "projectName": "成長分野を支える情報技術人材の育成拠点の形成（enPiT）",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "専門教育課"
+  },
+  {
+    "projectName": "多様な新ニーズに対応する「がん専門医療人材（がんプロフェッショナル）」養成プラン",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "医学教育課"
+  },
+  {
+    "projectName": "卓越大学院プログラム",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "大学振興課"
+  },
+  {
+    "projectName": "未来価値創造人材育成プログラム",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "専門教育課"
+  },
+  {
+    "projectName": "高等教育改革の総合的な推進等",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "高等教育企画課"
+  },
+  {
+    "projectName": "課題解決型高度医療人材養成プログラム",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "医学教育課"
+  },
+  {
+    "projectName": "大学改革研究委託事業",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "大学振興課"
+  },
+  {
+    "projectName": "大学の世界展開力強化事業",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "高等教育企画課"
+  },
+  {
+    "projectName": "国立大学改革強化推進事業",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "国立大学法人支援課"
+  },
+  {
+    "projectName": "大学教育再生加速プログラム「高大接続改革推進事業」",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "大学振興課"
+  },
+  {
+    "projectName": "スーパーグローバル大学創成支援事業",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "高等教育企画課"
+  },
+  {
+    "projectName": "地（知）の拠点大学による地方創生推進事業",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "地域学習推進課"
+  },
+  {
+    "projectName": "大学における医療人養成の在り方に関する調査研究",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "医学教育課"
+  },
+  {
+    "projectName": "大学入学者選抜改革推進委託事業",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "大学振興課"
+  },
+  {
+    "projectName": "「大学入学共通テスト」準備事業",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "大学振興課"
+  },
+  {
+    "projectName": "獣医学アドバンスト教育プログラム構築推進委託事業",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "専門教育課"
+  },
+  {
+    "projectName": "基礎研究医養成活性化プログラム",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "医学教育課"
+  },
+  {
+    "projectName": "社会で活躍する障害学生支援プラットフォーム形成事業",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "学生・留学生課"
+  },
+  {
+    "projectName": "独立行政法人大学改革支援・学位授与機構運営費交付金に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "高等教育企画課（企画係・放送大学係）"
+  },
+  {
+    "projectName": "独立行政法人国立高等専門学校機構運営費交付金に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "専門教育課"
+  },
+  {
+    "projectName": "国立大学法人船舶建造に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "専門教育課"
+  },
+  {
+    "projectName": "国立大学法人の運営に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "国立大学法人支援課"
+  },
+  {
+    "projectName": "国立大学法人における設備等の整備",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "国立大学法人支援課"
+  },
+  {
+    "projectName": "国立大学法人における先端研究の推進",
+    "ministry": "文部科学省",
+    "bureau": "研究振興局",
+    "department": "学術機関課"
+  },
+  {
+    "projectName": "国立大学法人施設整備（大型特別機械整備費等（最先端等））",
+    "ministry": "文部科学省",
+    "bureau": "研究振興局",
+    "department": "学術機関課"
+  },
+  {
+    "projectName": "関係機関の情報セキュリティ人材育成\n（大学等に対するサイバーセキュリティ人材育成研修の実施）",
+    "ministry": "文部科学省",
+    "bureau": "大臣官房政策課",
+    "department": "大臣官房政策課"
+  },
+  {
+    "projectName": "育英事業に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "学生・留学生課"
+  },
+  {
+    "projectName": "独立行政法人日本学生支援機構運営費交付金に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "学生・留学生課"
+  },
+  {
+    "projectName": "私立幼稚園施設整備費補助",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "幼児教育課"
+  },
+  {
+    "projectName": "私立高等学校産業教育施設整備費補助",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "参事官（高校担当）"
+  },
+  {
+    "projectName": "日本私立学校振興・共済事業団補助（基礎年金等）",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局私学部",
+    "department": "私学行政課私学共済室"
+  },
+  {
+    "projectName": "私立大学等研究設備整備等",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "私学助成課"
+  },
+  {
+    "projectName": "私立大学等経常費補助",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "私学助成課"
+  },
+  {
+    "projectName": "私立高等学校等経常費助成費等補助",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "私学助成課"
+  },
+  {
+    "projectName": "私立学校施設高度化推進事業費補助",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "私学助成課"
+  },
+  {
+    "projectName": "私立学校教員研修事業費等補助",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "私学助成課"
+  },
+  {
+    "projectName": "私立学校行政事務処理等",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "私学行政課"
+  },
+  {
+    "projectName": "私立学校教育研究装置等施設整備費補助",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "私学助成課"
+  },
+  {
+    "projectName": "私立学校施設災害復旧",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "私学助成課"
+  },
+  {
+    "projectName": "私立学校体育等諸施設整備費補助",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "参事官（地域振興担当）付"
+  },
+  {
+    "projectName": "地域イノベーション戦略支援プログラム",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策局",
+    "department": "産業連携・地域支援課"
+  },
+  {
+    "projectName": "先端融合領域イノベーション創出拠点形成プログラム",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策局",
+    "department": "産業連携・地域支援課"
+  },
+  {
+    "projectName": "イノベーション創出の総合的推進",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策局",
+    "department": "産業連携・地域支援課"
+  },
+  {
+    "projectName": "大学等シーズ・ニーズ創出強化支援事業",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策局",
+    "department": "産業連携・地域支援課"
+  },
+  {
+    "projectName": "研究交流促進事業の推進",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策局",
+    "department": "産業連携・地域支援課"
+  },
+  {
+    "projectName": "産学官連携リスクマネジメントモデル事業",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策局",
+    "department": "産業連携・地域支援課"
+  },
+  {
+    "projectName": "オープンイノベーション機構の整備",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策局",
+    "department": "産業連携・地域支援課"
+  },
+  {
+    "projectName": "地域イノベーション・エコシステム形成プログラム",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策局",
+    "department": "産業連携・地域支援課"
+  },
+  {
+    "projectName": "地域科学技術実証拠点整備事業",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策局",
+    "department": "産業連携・地域支援課"
+  },
+  {
+    "projectName": "国立研究開発法人科学技術振興機構運営費交付金に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策局",
+    "department": "人材政策課"
+  },
+  {
+    "projectName": "国立研究開発法人科学技術振興機構施設整備に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策局",
+    "department": "人材政策課"
+  },
+  {
+    "projectName": "国立研究開発法人理化学研究所運営費交付金に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "研究振興局",
+    "department": "基礎研究振興課"
+  },
+  {
+    "projectName": "国立研究開発法人理化学研究所施設整備に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "研究振興局",
+    "department": "基礎研究振興課"
+  },
+  {
+    "projectName": "国際科学技術センター",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策局",
+    "department": "科学技術・学術戦略官付（国際担当）"
+  },
+  {
+    "projectName": "ＯＥＣＤが実施する地球規模課題の解決に向けた取組への拠出",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策局",
+    "department": "科学技術・学術戦略官付（国際担当）"
+  },
+  {
+    "projectName": "ＯＥＣＤ／ＧＳＦ分担金",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策局",
+    "department": "科学技術・学術戦略官付（国際担当）"
+  },
+  {
+    "projectName": "科学技術国際活動の推進",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策局",
+    "department": "科学技術・学術戦略官付（国際担当）"
+  },
+  {
+    "projectName": "科学技術国際活動の推進事務費",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策局",
+    "department": "科学技術・学術戦略官付（国際担当）"
+  },
+  {
+    "projectName": "独立行政法人日本学術振興会運営費交付金に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "研究振興局",
+    "department": "振興企画課"
+  },
+  {
+    "projectName": "研究開発管理システム運営",
+    "ministry": "文部科学省",
+    "bureau": "大臣官房政策課",
+    "department": "大臣官房政策課"
+  },
+  {
+    "projectName": "研究及び開発の向上に関する評価環境の戦略的構築",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策局",
+    "department": "企画評価課"
+  },
+  {
+    "projectName": "政策の企画立案等に必要な国内外の動向調査・分析等",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策局",
+    "department": "企画評価課"
+  },
+  {
+    "projectName": "科学技術イノベーション政策における政策のための科学の推進",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策局",
+    "department": "企画評価課"
+  },
+  {
+    "projectName": "科学技術に関する研究不正対応及び理解増進",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策局",
+    "department": "人材政策課"
+  },
+  {
+    "projectName": "競争的資金調整経費",
+    "ministry": "文部科学省",
+    "bureau": "研究振興局",
+    "department": "振興企画課"
+  },
+  {
+    "projectName": "イノベーション創出のメカニズムに係る基盤的研究",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策研究所",
+    "department": "NISTEP"
+  },
+  {
+    "projectName": "科学技術システムの現状と課題に係る基盤的調査研究",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策研究所",
+    "department": "NISTEP"
+  },
+  {
+    "projectName": "科学技術イノベーション政策の科学の推進に資する基盤的調査研究",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策研究所",
+    "department": "NISTEP"
+  },
+  {
+    "projectName": "社会的課題対応型科学技術に係る調査研究",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策研究所",
+    "department": "NISTEP"
+  },
+  {
+    "projectName": "スーパーサイエンスハイスクールにかかる事務費",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "教育課程課"
+  },
+  {
+    "projectName": "理科教育等設備整備費補助等",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "教育課程課"
+  },
+  {
+    "projectName": "科学技術に関する人材の養成・活躍促進",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策局",
+    "department": "人材政策課"
+  },
+  {
+    "projectName": "次世代アントレプレナー育成事業（EDGE-NEXT）",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策局",
+    "department": "産業連携・地域政策課"
+  },
+  {
+    "projectName": "科学技術分野の文部科学大臣表彰",
+    "ministry": "文部科学省",
+    "bureau": "研究振興局",
+    "department": "振興企画課"
+  },
+  {
+    "projectName": "世界トップレベル研究拠点プログラム",
+    "ministry": "文部科学省",
+    "bureau": "研究振興局",
+    "department": "基礎研究振興課"
+  },
+  {
+    "projectName": "学術研究機関調査支援事業",
+    "ministry": "文部科学省",
+    "bureau": "研究振興局",
+    "department": "学術機関課"
+  },
+  {
+    "projectName": "科学官の運営等",
+    "ministry": "文部科学省",
+    "bureau": "研究振興局",
+    "department": "振興企画課学術企画室"
+  },
+  {
+    "projectName": "科学研究情報発信基盤の強化",
+    "ministry": "文部科学省",
+    "bureau": "研究振興局",
+    "department": "学術基盤整備室"
+  },
+  {
+    "projectName": "科学研究費助成事業",
+    "ministry": "文部科学省",
+    "bureau": "研究振興局",
+    "department": "学術研究助成課"
+  },
+  {
+    "projectName": "特色ある共同研究拠点の整備の推進事業",
+    "ministry": "文部科学省",
+    "bureau": "研究振興局",
+    "department": "学術機関課"
+  },
+  {
+    "projectName": "研究大学強化促進事業",
+    "ministry": "文部科学省",
+    "bureau": "研究振興局",
+    "department": "学術研究助成課"
+  },
+  {
+    "projectName": "大学が保管するアイヌ遺骨の返還に向けた手続等に関する調査研究",
+    "ministry": "文部科学省",
+    "bureau": "研究振興局",
+    "department": "学術機関課"
+  },
+  {
+    "projectName": "日本学士院会員年金の支給等に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "研究振興局",
+    "department": "振興企画課"
+  },
+  {
+    "projectName": "先端研究基盤共用促進事業",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策局",
+    "department": "研究開発基盤課"
+  },
+  {
+    "projectName": "大型放射光施設（ＳＰｒｉｎｇ－８）及びＸ線自由電子レーザー施設（ＳＡＣＬＡ）の整備・共用",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策局",
+    "department": "研究開発基盤課"
+  },
+  {
+    "projectName": "大強度陽子加速器施設（Ｊ－ＰＡＲＣ）の整備・共用",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策局",
+    "department": "研究開発基盤課"
+  },
+  {
+    "projectName": "官民地域パートナーシップによる次世代放射光施設の推進",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策局",
+    "department": "研究開発基盤課"
+  },
+  {
+    "projectName": "革新的ハイパフォーマンス・コンピューティング・インフラ（ＨＰＣＩ）の構築",
+    "ministry": "文部科学省",
+    "bureau": "研究振興局",
+    "department": "参事官（情報担当）"
+  },
+  {
+    "projectName": "スーパーコンピュータ「富岳」（ポスト「京」）の開発",
+    "ministry": "文部科学省",
+    "bureau": "研究振興局",
+    "department": "参事官（情報担当）"
+  },
+  {
+    "projectName": "基礎研究振興・研究環境整備経費",
+    "ministry": "文部科学省",
+    "bureau": "研究振興局",
+    "department": "基礎研究振興課"
+  },
+  {
+    "projectName": "国立研究開発法人理化学研究所設備整備費補助",
+    "ministry": "文部科学省",
+    "bureau": "研究振興局",
+    "department": "基礎研究振興課"
+  },
+  {
+    "projectName": "現代型食生活のための食品成分情報取得・活用等の推進",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策局",
+    "department": "政策課"
+  },
+  {
+    "projectName": "光・量子科学研究拠点形成に向けた基盤技術開発等",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策局",
+    "department": "研究開発基盤課"
+  },
+  {
+    "projectName": "先端基盤技術研究開発推進経費",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策局",
+    "department": "研究開発基盤課"
+  },
+  {
+    "projectName": "光・量子飛躍フラッグシッププログラム（Q-LEAP)",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策局",
+    "department": "研究開発基盤課量子研究推進室"
+  },
+  {
+    "projectName": "ムーンショット型研究開発プログラム",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策局",
+    "department": "研究開発基盤課"
+  },
+  {
+    "projectName": "国立研究開発法人量子科学技術研究開発機構運営費交付金に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策局",
+    "department": "研究開発基盤課"
+  },
+  {
+    "projectName": "国立研究開発法人量子科学技術研究開発機構施設整備に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策局\n研究開発局",
+    "department": "研究開発基盤課\n\n研究開発戦略官\n（核融合・原子力国際協力担当）付"
+  },
+  {
+    "projectName": "先端加速器共通基盤技術研究開発費補助金",
+    "ministry": "文部科学省",
+    "bureau": "研究振興局",
+    "department": "基礎研究振興課"
+  },
+  {
+    "projectName": "ナノテクノロジー・材料科学技術の戦略的研究開発・基盤整備",
+    "ministry": "文部科学省",
+    "bureau": "研究振興局",
+    "department": "参事官（ナノテクノロジー・物質・材料担当）"
+  },
+  {
+    "projectName": "AIP:人工知能/ビッグデータ/IoT/サイバーセキュリティ統合プロジェクト（次世代人工知能技術等研究開発拠点形成事業費補助金）",
+    "ministry": "文部科学省",
+    "bureau": "研究振興局",
+    "department": "参事官（情報担当）"
+  },
+  {
+    "projectName": "Society5.0実現化研究拠点支援事業",
+    "ministry": "文部科学省",
+    "bureau": "研究振興局",
+    "department": "参事官（情報担当）"
+  },
+  {
+    "projectName": "数学アドバンストイノベーションプラットフォーム",
+    "ministry": "文部科学省",
+    "bureau": "研究振興局",
+    "department": "基礎研究振興課"
+  },
+  {
+    "projectName": "国立研究開発法人物質・材料研究機構設備整備費補助",
+    "ministry": "文部科学省",
+    "bureau": "研究振興局",
+    "department": "参事官（ナノテクノロジー・物質・材料担当）付"
+  },
+  {
+    "projectName": "国立研究開発法人物質・材料研究機構運営費交付金に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "研究振興局",
+    "department": "参事官（ナノテクノロジー・物質・材料担当）付"
+  },
+  {
+    "projectName": "国立研究開発法人物質・材料研究機構施設整備に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "研究振興局",
+    "department": "参事官（ナノテクノロジー・物質・材料担当）付"
+  },
+  {
+    "projectName": "気候変動適応戦略イニシアチブ",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "環境エネルギー課"
+  },
+  {
+    "projectName": "地球観測衛星システムの開発に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "宇宙開発利用課"
+  },
+  {
+    "projectName": "海底地震・津波観測網の構築・運用",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "地震・防災研究課"
+  },
+  {
+    "projectName": "地球観測に関する政府間会合（GEO）",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "環境エネルギー課"
+  },
+  {
+    "projectName": "環境分野の研究開発の推進",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "環境エネルギー課"
+  },
+  {
+    "projectName": "国際熱核融合実験炉計画の推進に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "研究開発戦略官（核融合・原子力国際協力担当）付"
+  },
+  {
+    "projectName": "幅広いアプローチ（ＢＡ）活動の推進に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "研究開発戦略官（核融合・原子力国際協力担当）付"
+  },
+  {
+    "projectName": "省エネルギー社会の実現に資する次世代半導体研究開発",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "環境エネルギー課"
+  },
+  {
+    "projectName": "首都圏を中心としたレジリエンス総合力向上プロジェクト",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "地震・防災研究課"
+  },
+  {
+    "projectName": "核融合分野の研究開発推進事務",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "研究開発戦略官（核融合・原子力国際協力担当）付"
+  },
+  {
+    "projectName": "国立研究開発法人量子科学技術研究開発機構設備整備費補助",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策局",
+    "department": "研究開発基盤課量子研究推進室"
+  },
+  {
+    "projectName": "ライフサイエンス研究開発推進経費",
+    "ministry": "文部科学省",
+    "bureau": "研究振興局",
+    "department": "ライフサイエンス課"
+  },
+  {
+    "projectName": "医療分野の研究開発の推進",
+    "ministry": "文部科学省",
+    "bureau": "研究振興局",
+    "department": "ライフサイエンス課"
+  },
+  {
+    "projectName": "国立研究開発行政法人日本医療研究開発機構運営費交付金に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "研究振興局",
+    "department": "ライフサイエンス課"
+  },
+  {
+    "projectName": "地震防災研究戦略プロジェクト",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "地震・防災研究課"
+  },
+  {
+    "projectName": "地震調査研究推進本部",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "地震・防災研究課"
+  },
+  {
+    "projectName": "次世代火山研究・人材育成総合プロジェクト",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "地震・防災研究課"
+  },
+  {
+    "projectName": "国立研究開発法人防災科学技術研究所運営費交付金に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "地震・防災研究課"
+  },
+  {
+    "projectName": "国立研究開発法人防災科学技術研究所施設整備に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "地震・防災研究課"
+  },
+  {
+    "projectName": "国立研究開発法人防災科学技術研究所設備整備費補助",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "地震・防災研究課"
+  },
+  {
+    "projectName": "北極域研究推進プロジェクト",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "海洋地球課"
+  },
+  {
+    "projectName": "海洋生物資源確保技術高度化",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "海洋地球課"
+  },
+  {
+    "projectName": "海洋分野の研究開発の推進事務",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "海洋地球課"
+  },
+  {
+    "projectName": "海洋情報把握技術開発",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "海洋地球課"
+  },
+  {
+    "projectName": "国際宇宙ステーション開発に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "宇宙開発利用課"
+  },
+  {
+    "projectName": "宇宙・航空科学技術推進の調整に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "宇宙開発利用課"
+  },
+  {
+    "projectName": "宇宙・航空分野の戦略的研究開発・国際展開の推進",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "宇宙開発利用課"
+  },
+  {
+    "projectName": "基幹ロケット高度化の推進",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "宇宙開発利用課"
+  },
+  {
+    "projectName": "原子力研究開発の推進事務",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "原子力課"
+  },
+  {
+    "projectName": "経済協力開発機構原子力機関（ＯＥＣＤ／ＮＥＡ）共同事業参加",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "研究開発戦略官（核融合・原子力国際協力担当）付"
+  },
+  {
+    "projectName": "放射性廃棄物減容化研究開発の推進",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "原子力課"
+  },
+  {
+    "projectName": "国際原子力人材育成イニシアティブ",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "原子力課"
+  },
+  {
+    "projectName": "核不拡散・核セキュリティ関連業務",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "研究開発戦略官（核融合・原子力国際協力担当）付"
+  },
+  {
+    "projectName": "英知を結集した原子力科学技術・人材育成推進事業",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "原子力課"
+  },
+  {
+    "projectName": "国立研究開発法人日本原子力研究開発機構設備整備費",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "原子力課"
+  },
+  {
+    "projectName": "放射線利用技術等国際交流事業委託費",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "研究開発戦略官（核融合・原子力国際協力担当）付"
+  },
+  {
+    "projectName": "核燃料サイクル関係推進調整等委託費",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "研究開発戦略官（核燃料サイクル・廃止措置担当）付"
+  },
+  {
+    "projectName": "電源地域産業育成支援補助金",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "原子力課"
+  },
+  {
+    "projectName": "電源地域振興促進事業費補助金\n（特別電源所在県科学技術振興事業補助金）",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "原子力課"
+  },
+  {
+    "projectName": "原子力発電施設等研修事業費補助金",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "研究開発戦略官（核燃料サイクル・廃止措置担当）付"
+  },
+  {
+    "projectName": "電源立地地域対策交付金、交付金事務等交付金",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "原子力課"
+  },
+  {
+    "projectName": "広報・調査等交付金",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "原子力課"
+  },
+  {
+    "projectName": "放射線利用・原子力基盤技術試験研究推進交付金",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "原子力課"
+  },
+  {
+    "projectName": "原子力・エネルギー教育支援事業交付金",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "原子力課"
+  },
+  {
+    "projectName": "核燃料サイクル関係推進調整等交付金",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "研究開発戦略官（核燃料サイクル・廃止措置担当）付"
+  },
+  {
+    "projectName": "経済協力開発機構原子力機関拠出金",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "研究開発戦略官（核融合・原子力国際協力担当）付"
+  },
+  {
+    "projectName": "原子力平和利用確保調査委託費",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "研究開発戦略官（核融合・原子力国際協力担当）付"
+  },
+  {
+    "projectName": "原子力システム研究開発委託費",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "原子力課"
+  },
+  {
+    "projectName": "原子力平和利用調査等事業拠出金",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "研究開発戦略官（核融合・原子力国際協力担当）付"
+  },
+  {
+    "projectName": "国立研究開発法人日本原子力研究開発機構施設整備費（エネ特）",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "原子力課"
+  },
+  {
+    "projectName": "南極地域観測事業に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "海洋地球課"
+  },
+  {
+    "projectName": "国立研究開発法人海洋研究開発機構運営費交付金に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "海洋地球課"
+  },
+  {
+    "projectName": "国立研究開発法人海洋研究開発機構船舶建造に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "海洋地球課"
+  },
+  {
+    "projectName": "国立研究開発法人海洋研究開発機構設備整備費補助",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "海洋地球課"
+  },
+  {
+    "projectName": "国立研究開発法人宇宙航空研究開発機構運営費交付金に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "宇宙開発利用課"
+  },
+  {
+    "projectName": "国立研究開発法人宇宙航空研究開発機構施設整備に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "宇宙開発利用課"
+  },
+  {
+    "projectName": "国立研究開発法人日本原子力研究開発機構運営費交付金に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "原子力課"
+  },
+  {
+    "projectName": "国立研究開発法人日本原子力研究開発機構施設整備に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "原子力課"
+  },
+  {
+    "projectName": "全国体力・運動能力、運動習慣等調査",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "政策課学校体育室"
+  },
+  {
+    "projectName": "中学校・高等学校スポーツ活動振興事業",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "政策課 学校体育室"
+  },
+  {
+    "projectName": "学校における体育活動での事故防止対策推進事業",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "政策課学校体育室"
+  },
+  {
+    "projectName": "武道等指導充実・資質向上支援事業",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "政策課学校体育室"
+  },
+  {
+    "projectName": "日本スポーツ協会補助",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "健康スポーツ課"
+  },
+  {
+    "projectName": "生涯スポーツ振興事業",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "健康スポーツ課"
+  },
+  {
+    "projectName": "スポーツ政策の基礎的調査及び広報活動の実施",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "政策課"
+  },
+  {
+    "projectName": "スポーツによる地域活性化推進事業（運動・スポーツ習慣化促進事業）",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "健康スポーツ課"
+  },
+  {
+    "projectName": "スポーツによる地域活性化推進事業（スポーツによるまちづくり・地域活性化活動支援事業）",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "参事官（地域振興担当）付"
+  },
+  {
+    "projectName": "体育・スポーツ施設に関する調査研究",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "参事官（地域振興担当）付"
+  },
+  {
+    "projectName": "スポーツキャリアサポート戦略",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "参事官（民間スポーツ担当）付"
+  },
+  {
+    "projectName": "日本武道館補助",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "政策課学校体育室"
+  },
+  {
+    "projectName": "子供の運動習慣アップ支援事業",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "健康スポーツ課"
+  },
+  {
+    "projectName": "学校における体育・スポーツ資質向上等推進事業",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "政策課学校体育室"
+  },
+  {
+    "projectName": "スポーツ施設の個別施設計画策定支援事業",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "参事官（地域振興担当）付"
+  },
+  {
+    "projectName": "大学スポーツ振興の推進事業",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "参事官（地域振興担当）付"
+  },
+  {
+    "projectName": "スポーツ人口拡大に向けた官民連携プロジェクト",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "健康スポーツ課"
+  },
+  {
+    "projectName": "スポーツ活動支援事業",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "健康スポーツ課"
+  },
+  {
+    "projectName": "運動部活動改革プラン",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "政策課 学校体育室"
+  },
+  {
+    "projectName": "ストック適正化における大規模施設の方向性検討",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "参事官（地域振興担当）付"
+  },
+  {
+    "projectName": "全国障害者スポーツ大会開催事業（地方スポーツ振興費補助）",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "健康スポーツ課"
+  },
+  {
+    "projectName": "日本障がい者スポーツ協会補助",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "健康スポーツ課"
+  },
+  {
+    "projectName": "2019年ラグビーワールドカップ普及啓発事業",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "国際課"
+  },
+  {
+    "projectName": "スポーツ国際展開基盤形成事業",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "国際課"
+  },
+  {
+    "projectName": "スポーツ・フォー・トゥモロー等推進プログラム",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "オリンピック・パラリンピック課"
+  },
+  {
+    "projectName": "スポーツ産業の成長促進事業",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "参事官（民間スポーツ担当）付"
+  },
+  {
+    "projectName": "スポーツツーリズム・ムーブメント創出事業",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "参事官（地域振興担当）付"
+  },
+  {
+    "projectName": "Specialプロジェクト2020",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "健康スポーツ課"
+  },
+  {
+    "projectName": "障害者スポーツ推進プロジェクト",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "健康スポーツ課"
+  },
+  {
+    "projectName": "女性スポーツ推進事業",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "参事官（民間スポーツ担当）付"
+  },
+  {
+    "projectName": "ハイパフォーマンス・サポート事業",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "競技スポーツ課"
+  },
+  {
+    "projectName": "スポーツ研究イノベーション拠点形成プロジェクト",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "競技スポーツ課"
+  },
+  {
+    "projectName": "ハイパフォーマンスセンターの基盤整備",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "競技スポーツ課"
+  },
+  {
+    "projectName": "ナショナルトレーニングセンター競技別強化拠点機能強化事業",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "競技スポーツ課"
+  },
+  {
+    "projectName": "競技力向上支援体制の充実",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "競技スポーツ課"
+  },
+  {
+    "projectName": "国民体育大会開催事業",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "競技スポーツ課"
+  },
+  {
+    "projectName": "日本オリンピック委員会補助",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "競技スポーツ課"
+  },
+  {
+    "projectName": "女性アスリートの育成・支援プロジェクト",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "競技スポーツ課"
+  },
+  {
+    "projectName": "ナショナルトレーニングセンターの拡充整備",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "競技スポーツ課"
+  },
+  {
+    "projectName": "独立行政法人日本スポーツ振興センター運営費交付金に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "政策課"
+  },
+  {
+    "projectName": "スポーツ仲裁活動推進事業",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "参事官（民間スポーツ担当）付"
+  },
+  {
+    "projectName": "ドーピング防止活動推進事業",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "国際課"
+  },
+  {
+    "projectName": "世界ドーピング防止機構等関係経費",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "国際課"
+  },
+  {
+    "projectName": "世界ドーピング防止機構拠出金",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "国際課"
+  },
+  {
+    "projectName": "スポーツ界のコンプライアンス強化事業",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "参事官（民間スポーツ担当）付"
+  },
+  {
+    "projectName": "文化功労者年金の支給に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "大臣官房人事課",
+    "department": "大臣官房人事課"
+  },
+  {
+    "projectName": "舞台芸術創造力向上・発信プラン",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "参事官（芸術文化担当）付"
+  },
+  {
+    "projectName": "芸術祭・芸術選奨",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "参事官（芸術文化担当）付"
+  },
+  {
+    "projectName": "国民文化祭",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "参事官（芸術文化担当）"
+  },
+  {
+    "projectName": "全国高等学校総合文化祭",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "参事官（芸術文化担当）"
+  },
+  {
+    "projectName": "文化芸術創造拠点形成事業",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "参事官（芸術文化担当）\n参事官（文化創造担当）"
+  },
+  {
+    "projectName": "劇場・音楽堂等機能強化推進事業",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "企画調整課"
+  },
+  {
+    "projectName": "日本映画の創造・交流・発信",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "参事官（芸術文化担当）"
+  },
+  {
+    "projectName": "若手映画作家等の育成",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "参事官（芸術文化担当）"
+  },
+  {
+    "projectName": "メディア芸術の創造・発信プラン",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "参事官（芸術文化担当）"
+  },
+  {
+    "projectName": "メディア芸術の人材育成",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "参事官（芸術文化担当）"
+  },
+  {
+    "projectName": "新進芸術家等の人材育成",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "参事官（芸術文化担当）"
+  },
+  {
+    "projectName": "東アジア文化交流推進プロジェクト事業",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "文化経済・国際課"
+  },
+  {
+    "projectName": "文化芸術の海外発信拠点形成事業",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "地域文化創生本部"
+  },
+  {
+    "projectName": "国際文化ネットワークの構築及び文化多様性の保護・促進への対応",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "文化経済・国際課"
+  },
+  {
+    "projectName": "国際文化交流・協力推進事業",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "文化経済・国際課"
+  },
+  {
+    "projectName": "芸術家・文化人等による文化発信推進事業－文化庁「文化交流使」の派遣等－",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "文化経済・国際課"
+  },
+  {
+    "projectName": "芸術文化の世界への発信と新たな展開",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "参事官（芸術文化担当）付"
+  },
+  {
+    "projectName": "国語施策の充実",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "国語課"
+  },
+  {
+    "projectName": "外国人に対する日本語教育の推進",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "国語課"
+  },
+  {
+    "projectName": "文化財保護共通費",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "文化資源活用課"
+  },
+  {
+    "projectName": "有形文化財",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "文化財第二課"
+  },
+  {
+    "projectName": "無形文化財",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "文化財第一課"
+  },
+  {
+    "projectName": "文化財保護対策の検討等",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "文化財第一課\n文化創造担当"
+  },
+  {
+    "projectName": "伝統文化親子教室事業",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "参事官（文化創造担当）"
+  },
+  {
+    "projectName": "鑑賞・体験機会等充実のための事業推進",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "政策課\n文化財第一課\n文化資源活用課\n芸術文化担当"
+  },
+  {
+    "projectName": "世界遺産普及活用・推薦のための事業推進",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "文化資源活用課"
+  },
+  {
+    "projectName": "アイヌ関連施策の推進",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "企画調整課"
+  },
+  {
+    "projectName": "国宝重要文化財等の買上げ",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "文化財第一課"
+  },
+  {
+    "projectName": "模写模造",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "文化財第一課\n文化資源活用課"
+  },
+  {
+    "projectName": "文化財管理及び保存活用等",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "文化財第二課"
+  },
+  {
+    "projectName": "国宝・重要文化財等の保存整備等",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "文化資源活用課"
+  },
+  {
+    "projectName": "地域文化財総合活用推進事業",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "文化資源活用課\n地域文化創生本部"
+  },
+  {
+    "projectName": "日本の美再発見！文化財美術工芸品魅力開花推進事業",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "文化財第一課"
+  },
+  {
+    "projectName": "美しい日本探訪のための文化財建造物魅力向上促進事業",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "文化資源活用課"
+  },
+  {
+    "projectName": "国産良質材使用推進・供給地活性化事業",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "文化資源活用課"
+  },
+  {
+    "projectName": "史跡等の買上げ",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "文化財第二課"
+  },
+  {
+    "projectName": "文化財の国際協力の推進",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "文化資源活用課\n文化財第一課"
+  },
+  {
+    "projectName": "平城及び飛鳥・藤原宮跡等の買上",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "文化財第二課"
+  },
+  {
+    "projectName": "平城宮跡地等整備費",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "文化財第二課"
+  },
+  {
+    "projectName": "文化財建造物等を活用した地域活性化事業",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "文化財第二課"
+  },
+  {
+    "projectName": "文化財等の多言語解説整備支援事業",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "文化資源活用課"
+  },
+  {
+    "projectName": "文化政策企画立案",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "地域文化創生本部\n参事官（芸術文化担当）\n文化経済・国際課"
+  },
+  {
+    "projectName": "文化芸術創造都市の推進",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "参事官（文化創造担当）"
+  },
+  {
+    "projectName": "文化関係資料のアーカイブの構築に関する調査研究",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "参事官（芸術文化担当）"
+  },
+  {
+    "projectName": "著作権行政の充実",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "著作権課"
+  },
+  {
+    "projectName": "著作権施策の推進",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "著作権課"
+  },
+  {
+    "projectName": "宗務行政の推進",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "宗務課"
+  },
+  {
+    "projectName": "近現代建築資料等の収集・保存",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "文化財第二課"
+  },
+  {
+    "projectName": "博物館を中核とした文化クラスター形成事業",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "企画調整課"
+  },
+  {
+    "projectName": "美術館・歴史博物館活動の充実",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "企画調整課"
+  },
+  {
+    "projectName": "博物館ネットワークによる未来へのレガシー継承・発信事業",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "企画調整課"
+  },
+  {
+    "projectName": "日本芸術院会員年金の支給等に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "日本芸術院"
+  },
+  {
+    "projectName": "独立行政法人国立科学博物館運営費交付金に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "企画調整課"
+  },
+  {
+    "projectName": "独立行政法人国立科学博物館施設整備に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "企画調整課"
+  },
+  {
+    "projectName": "独立行政法人国立美術館運営費交付金に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "企画調整課"
+  },
+  {
+    "projectName": "独立行政法人国立美術館施設整備に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "企画調整課"
+  },
+  {
+    "projectName": "独立行政法人国立文化財機構運営費交付金に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "企画調整課"
+  },
+  {
+    "projectName": "独立行政法人国立文化財機構施設整備に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "企画調整課"
+  },
+  {
+    "projectName": "独立行政法人日本芸術文化振興会運営費交付金に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "企画調整課"
+  },
+  {
+    "projectName": "独立行政法人日本芸術文化振興会施設整備に必要な経費",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "企画調整課"
+  },
+  {
+    "projectName": "国際教育交流事業の振興",
+    "ministry": "文部科学省",
+    "bureau": "大臣官房国際課",
+    "department": "大臣官房国際課"
+  },
+  {
+    "projectName": "学者・教職員等の交流",
+    "ministry": "文部科学省",
+    "bureau": "大臣官房国際課",
+    "department": "大臣官房国際課"
+  },
+  {
+    "projectName": "国際業務研修の実施",
+    "ministry": "文部科学省",
+    "bureau": "大臣官房国際課",
+    "department": "大臣官房国際課"
+  },
+  {
+    "projectName": "国際バカロレア事業への拠出",
+    "ministry": "文部科学省",
+    "bureau": "大臣官房国際課",
+    "department": "大臣官房国際課"
+  },
+  {
+    "projectName": "新時代の教育のための国際協働",
+    "ministry": "文部科学省",
+    "bureau": "大臣官房国際課",
+    "department": "大臣官房国際課"
+  },
+  {
+    "projectName": "オーストラリア科学奨学生の派遣（隔年実施事業）",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "教育改革・国際課"
+  },
+  {
+    "projectName": "社会総がかりで行う高校生留学促進事業",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "教育改革・国際課"
+  },
+  {
+    "projectName": "アジア高校生架け橋プロジェクト",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "教育改革・国際課"
+  },
+  {
+    "projectName": "留学生の受入・派遣体制の改善充実等",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "学生・留学生課"
+  },
+  {
+    "projectName": "国費外国人留学生制度",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "学生・留学生課"
+  },
+  {
+    "projectName": "外国政府派遣留学生の予備教育等留学生受入促進事業",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "学生・留学生課"
+  },
+  {
+    "projectName": "日本台湾交流協会",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "学生・留学生課"
+  },
+  {
+    "projectName": "日本留学海外拠点連携推進事業",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "学生・留学生課"
+  },
+  {
+    "projectName": "日本人の海外留学促進事業",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "学生・留学生課"
+  },
+  {
+    "projectName": "大学等の海外留学支援制度",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "学生・留学生課"
+  },
+  {
+    "projectName": "留学生就職促進プログラム",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "学生・留学生課"
+  },
+  {
+    "projectName": "ＯＥＣＤ／ＣＥＲＩ分担金",
+    "ministry": "文部科学省",
+    "bureau": "大臣官房国際課",
+    "department": "大臣官房国際課"
+  },
+  {
+    "projectName": "日本・ＯＥＣＤ事業協力信託基金拠出金",
+    "ministry": "文部科学省",
+    "bureau": "大臣官房国際課",
+    "department": "大臣官房国際課"
+  },
+  {
+    "projectName": "日本・国際連合大学共同研究事業拠出金",
+    "ministry": "文部科学省",
+    "bureau": "大臣官房国際課",
+    "department": "大臣官房国際課"
+  },
+  {
+    "projectName": "国際機関における事業への参加",
+    "ministry": "文部科学省",
+    "bureau": "大臣官房国際課",
+    "department": "大臣官房国際課"
+  },
+  {
+    "projectName": "東アジア関係諸機関との連携強化",
+    "ministry": "文部科学省",
+    "bureau": "大臣官房国際課",
+    "department": "大臣官房国際課"
+  },
+  {
+    "projectName": "日本型教育の海外展開",
+    "ministry": "文部科学省",
+    "bureau": "大臣官房国際課",
+    "department": "大臣官房国際課"
+  },
+  {
+    "projectName": "日本ユネスコ国内委員会運営",
+    "ministry": "文部科学省",
+    "bureau": "国際統括官付",
+    "department": "国際統括官付"
+  },
+  {
+    "projectName": "ユネスコ会議関係共通経費",
+    "ministry": "文部科学省",
+    "bureau": "国際統括官付",
+    "department": "国際統括官付"
+  },
+  {
+    "projectName": "ユネスコ事業への協力",
+    "ministry": "文部科学省",
+    "bureau": "国際統括官付",
+    "department": "国際統括官付"
+  },
+  {
+    "projectName": "日本／ユネスコパートナーシップ事業",
+    "ministry": "文部科学省",
+    "bureau": "国際統括官付",
+    "department": "国際統括官付"
+  },
+  {
+    "projectName": "ユネスコ国内委員会の連携強化",
+    "ministry": "文部科学省",
+    "bureau": "国際統括官付",
+    "department": "国際統括官付"
+  },
+  {
+    "projectName": "ユネスコ技術援助専門家の派遣",
+    "ministry": "文部科学省",
+    "bureau": "国際統括官付",
+    "department": "国際統括官付"
+  },
+  {
+    "projectName": "ユネスコ活動の助成",
+    "ministry": "文部科学省",
+    "bureau": "国際統括官付",
+    "department": "国際統括官付"
+  },
+  {
+    "projectName": "グローバル人材の育成に向けたESDの推進",
+    "ministry": "文部科学省",
+    "bureau": "国際統括官付",
+    "department": "国際統括官付"
+  },
+  {
+    "projectName": "国際成人力調査",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "調査企画課"
+  },
+  {
+    "projectName": "教員・学習に関する国際調査",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "教育人材政策課"
+  },
+  {
+    "projectName": "国際幼児教育・保育従事者調査等",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "幼児教育課"
+  },
+  {
+    "projectName": "国連大学の施設整備",
+    "ministry": "文部科学省",
+    "bureau": "大臣官房国際課",
+    "department": "大臣官房国際課"
+  },
+  {
+    "projectName": "国立アイヌ民族博物館の施設整備",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "企画調整課"
+  },
+  {
+    "projectName": "日本芸術院施設整備費",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "日本芸術院"
+  },
+  {
+    "projectName": "ＥＢＰＭをはじめとした統計改革を推進するための調査研究",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "調査企画課"
+  },
+  {
+    "projectName": "教員免許の適切な管理への支援",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "教育人材政策課"
+  },
+  {
+    "projectName": "専修学校リカレント教育総合推進プロジェクト",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "生涯学習推進課"
+  },
+  {
+    "projectName": "学びを通じたステップアップ支援促進事業",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "生涯学習推進課"
+  },
+  {
+    "projectName": "学びを通じた社会参画の推進に関する実証研究事業",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "地域学習推進課"
+  },
+  {
+    "projectName": "次世代のライフプランニング教育推進事業",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "男女共同参画共生社会学習・安全課"
+  },
+  {
+    "projectName": "新時代の学びにおける先端技術導入実証研究事業",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "情報教育・外国語教育課"
+  },
+  {
+    "projectName": "基礎学力に課題を抱える児童生徒への支援の充実",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "教育課程課"
+  },
+  {
+    "projectName": "地域との協働による高等学校教育改革推進事業",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "参事官（高等学校担当）"
+  },
+  {
+    "projectName": "WWL(ワールド・ワイド・ラーニング）コンソーシアム構築支援事業",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "参事官（高等学校担当）"
+  },
+  {
+    "projectName": "幼児教育実践の質向上総合プラン",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "幼児教育課"
+  },
+  {
+    "projectName": "医療データ人材育成拠点形成事業",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "医学教育課"
+  },
+  {
+    "projectName": "高等教育負担軽減推進委託費",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "高等教育段階の教育費負担軽減新制度プロジェクトチーム"
+  },
+  {
+    "projectName": "高等教育負担軽減実施体制整備費補助金",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "高等教育段階の教育費負担軽減新制度プロジェクトチーム"
+  },
+  {
+    "projectName": "科学技術イノベーションによる地域社会課題解決(DESIGN-i)",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策局",
+    "department": "産業連携・地域支援課"
+  },
+  {
+    "projectName": "イノベーションマネジメントハブ形成支援事業",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策局",
+    "department": "産業連携・地域支援課"
+  },
+  {
+    "projectName": "世界で活躍できる研究者戦略育成事業",
+    "ministry": "文部科学省",
+    "bureau": "科学技術・学術政策局",
+    "department": "人材政策課"
+  },
+  {
+    "projectName": "仮払資金の貸付制度の創設に係る対応",
+    "ministry": "文部科学省",
+    "bureau": "研究開発局",
+    "department": "参事官（原子力損害賠償担当）付"
+  },
+  {
+    "projectName": "ストック適正化による持続可能な地域スポーツ環境の確保",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "参事官（地域振興担当）付"
+  },
+  {
+    "projectName": "独立行政法人日本スポーツ振興センター研究施設整備費補助金",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "競技スポーツ課"
+  },
+  {
+    "projectName": "世界ドーピング防止機構常任理事会開催経費",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "国際課"
+  },
+  {
+    "projectName": "芸術家・文化人等による日本文化発信・相互交流事業",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "文化経済・国際課"
+  },
+  {
+    "projectName": "文化経済戦略推進事業",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "文化経済・国際課"
+  },
+  {
+    "projectName": "SDGs達成の担い手育成（ＥＳＤ）推進事業",
+    "ministry": "文部科学省",
+    "bureau": "国際統括官付",
+    "department": "国際統括官付"
+  },
+  {
+    "projectName": "日本学士院会館施設整備",
+    "ministry": "文部科学省",
+    "bureau": "研究振興局",
+    "department": "振興企画課"
+  },
+  {
+    "projectName": "学校教育における外部人材の活用促進事業",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "教育人材政策課"
+  },
+  {
+    "projectName": "専修学校における先端技術利活用実証研究",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "生涯学習推進課"
+  },
+  {
+    "projectName": "大学等におけるリカレント講座の持続可能な運営モデル構築",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "生涯学習推進課"
+  },
+  {
+    "projectName": "図書館における障害者利用の促進",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "地域学習推進課"
+  },
+  {
+    "projectName": "学校図書館総合推進事業",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "地域学習推進課"
+  },
+  {
+    "projectName": "女性の多様なチャレンジに寄り添う学びと社会参画支援事業",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "男女共同参画共生社会学習・安全課"
+  },
+  {
+    "projectName": "自律的、組織的な学校運営体制の構築\n（学校における働き方改革推進事業）",
+    "ministry": "文部科学省",
+    "bureau": "初等中等教育局",
+    "department": "財務課"
+  },
+  {
+    "projectName": "出口一体型地方創生人材養成システム構築事業",
+    "ministry": "文部科学省",
+    "bureau": "総合教育政策局",
+    "department": "地域学習推進課"
+  },
+  {
+    "projectName": "知識集約型社会を支える人材育成事業",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "大学振興課"
+  },
+  {
+    "projectName": "人文・社会科学系大学院リカレント機能高度化プログラム",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "大学振興課"
+  },
+  {
+    "projectName": "「大学入学共通テスト」等実施事業",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "高等教育局大学振興課大学入試室"
+  },
+  {
+    "projectName": "リカレント・ファシリテート人材育成システム構築事業",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "専門教育課"
+  },
+  {
+    "projectName": "国際法律プロフェッション育成プログラム",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "専門教育課"
+  },
+  {
+    "projectName": "保健医療分野におけるAI研究開発加速に向けた人材養成産学協働プロジェクト",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "医学教育課"
+  },
+  {
+    "projectName": "障害のある学生の就労等促進事業",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "学生・留学生課"
+  },
+  {
+    "projectName": "創発的研究支援事業",
+    "ministry": "文部科学省",
+    "bureau": "研究振興局",
+    "department": "基礎研究振興課基礎研究推進室"
+  },
+  {
+    "projectName": "人文学・社会科学を軸とした学術知統合プロジェクト",
+    "ministry": "文部科学省",
+    "bureau": "研究振興局",
+    "department": "振興企画課学術企画室"
+  },
+  {
+    "projectName": "Sport in Life推進プロジェクト",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "健康スポーツ課"
+  },
+  {
+    "projectName": "諸外国の大学スポーツ振興策等に関する調査研究",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "参事官（地域振興担当）付"
+  },
+  {
+    "projectName": "「スポーツ資源」を活用したインバウンド拡大の環境整備",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "参事官（地域振興担当）付"
+  },
+  {
+    "projectName": "独立行政法人日本スポーツ振興センター施設整備費補助金",
+    "ministry": "文部科学省",
+    "bureau": "スポーツ庁",
+    "department": "政策課"
+  },
+  {
+    "projectName": "博物館文化拠点機能強化プラン",
+    "ministry": "文部科学省",
+    "bureau": "文化庁",
+    "department": "企画調整課"
+  },
+  {
+    "projectName": "留学生政策の推進に係る調査研究",
+    "ministry": "文部科学省",
+    "bureau": "高等教育局",
+    "department": "学生・留学生課"
+  },
+  {
+    "projectName": "ユネスコ未来共創プラットフォーム～世界と地域をつなぐユネスコ活動の推進～",
+    "ministry": "文部科学省",
+    "bureau": "文部科学省",
+    "department": "国際統括官付"
+  },
+  {
+    "projectName": "特定事業等促進円滑化業務事務費（補助金）",
+    "ministry": "経済産業省",
+    "bureau": "経済産業政策局",
+    "department": "産業資金課\n産業創造課"
+  },
+  {
+    "projectName": "グローバル・スタートアップ・エコシステム強化事業\n（旧称：グローバル・ベンチャー・エコシステム強化事業）",
+    "ministry": "経済産業省",
+    "bureau": "経済産業政策局\n商務情報政策局\n産業技術環境局",
+    "department": "新規事業創造推進室\n情報経済課\n技術振興・大学連携推進課"
+  },
+  {
+    "projectName": "女性活躍推進のための基盤整備事業",
+    "ministry": "経済産業省",
+    "bureau": "経済産業政策局\n産業技術環境局",
+    "department": "経済社会政策室\n大学連携推進室"
+  },
+  {
+    "projectName": "グローバル・ベンチャー・エコシステム加速化事業",
+    "ministry": "経済産業省",
+    "bureau": "経済産業政策局\n商務情報政策局\n貿易経済協力局",
+    "department": "新規事業創造推進室\n情報技術利用促進課\n情報経済課\n投資促進課"
+  },
+  {
+    "projectName": "海底熱水鉱床生産技術及び銅鉱石不純物低減技術開発等調査事業",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "鉱物資源課"
+  },
+  {
+    "projectName": "技術開発調査等の推進",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "技術政策企画室"
+  },
+  {
+    "projectName": "三次元造形技術を核としたものづくり革命プログラム",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局\n産業技術環境局",
+    "department": "素形材産業室\n産業機械課\n計量行政室"
+  },
+  {
+    "projectName": "インフラ維持管理・更新等の社会課題対応システム開発プロジェクト",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局\n製造産業局",
+    "department": "産業技術プロジェクト推進室\nロボット政策室"
+  },
+  {
+    "projectName": "次世代人工知能・ロボット中核技術開発",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "産業技術プロジェクト推進室"
+  },
+  {
+    "projectName": "航空機用先進システム基盤技術開発",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "航空機武器宇宙産業課"
+  },
+  {
+    "projectName": "ロボット介護機器等福祉用具開発標準化事業（旧ロボット介護機器・福祉用具開発標準化事業（課題解決型福祉用具実用化開発支援事業））",
+    "ministry": "経済産業省",
+    "bureau": "商務・サービスグループ",
+    "department": "ヘルスケア産業課医療・福祉機器産業室"
+  },
+  {
+    "projectName": "ロボット活用型市場化適用技術開発プロジェクト",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "産業機械課 ロボット政策室"
+  },
+  {
+    "projectName": "廃炉・汚染水対策事業",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "原子力発電所事故収束対応室"
+  },
+  {
+    "projectName": "放射性物質研究拠点施設等運営事業",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "原子力発電所事故収束対応室"
+  },
+  {
+    "projectName": "国際研究開発事業",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "総務課　国際室"
+  },
+  {
+    "projectName": "IoT推進のための新産業モデル創出基盤整備事業",
+    "ministry": "経済産業省",
+    "bureau": "商務情報政策局",
+    "department": "情報産業課"
+  },
+  {
+    "projectName": "中堅・中小企業への橋渡し研究開発促進事業",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "技術振興・大学連携推進課"
+  },
+  {
+    "projectName": "研究開発型スタートアップ支援事業",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "技術振興・大学連携推進課"
+  },
+  {
+    "projectName": "AIチップ開発加速のための検証環境整備事業",
+    "ministry": "経済産業省",
+    "bureau": "商務情報政策局",
+    "department": "情報産業課"
+  },
+  {
+    "projectName": "新産業創出に向けた新技術先導研究プログラム",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "産業技術プロジェクト推進室"
+  },
+  {
+    "projectName": "AIチップ開発加速のためのイノベーション推進事業",
+    "ministry": "経済産業省",
+    "bureau": "商務情報政策局",
+    "department": "情報産業課"
+  },
+  {
+    "projectName": "ムーンショット型研究開発事業",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "研究開発課\n産業技術プロジェクト推進室\nエネルギー・環境イノベーション戦略室"
+  },
+  {
+    "projectName": "戦略的国際標準化加速事業",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "基準認証政策課"
+  },
+  {
+    "projectName": "国際度量衡中央事務局分担金",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "計量行政室"
+  },
+  {
+    "projectName": "国際標準化機構分担金",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "国際標準課"
+  },
+  {
+    "projectName": "国際電気標準会議分担金",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "国際電気標準課"
+  },
+  {
+    "projectName": "計量制度国際機構分担金",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "計量行政室"
+  },
+  {
+    "projectName": "国際標準化機構拠出金",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "国際標準課"
+  },
+  {
+    "projectName": "経済産業統計の整備",
+    "ministry": "経済産業省",
+    "bureau": "大臣官房調査統計グループ",
+    "department": "総合調整室"
+  },
+  {
+    "projectName": "未来医療を実現する医療機器・システム研究開発事業",
+    "ministry": "経済産業省",
+    "bureau": "商務・サービスグループ",
+    "department": "ヘルスケア産業課医療・福祉機器産業室"
+  },
+  {
+    "projectName": "次世代治療・診断実現のための創薬基盤技術開発事業",
+    "ministry": "経済産業省",
+    "bureau": "商務・サービスグループ",
+    "department": "生物化学産業課"
+  },
+  {
+    "projectName": "再生医療・遺伝子治療の産業化に向けた基盤技術開発事業",
+    "ministry": "経済産業省",
+    "bureau": "商務・サービスグループ",
+    "department": "生物化学産業課"
+  },
+  {
+    "projectName": "宇宙産業技術情報基盤整備研究開発事業(SERVISプロジェクト)",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "宇宙産業室"
+  },
+  {
+    "projectName": "生体機能国際協力基礎研究事業",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "総務課　国際室"
+  },
+  {
+    "projectName": "健康・医療情報を活用したヘルスケア・イノベーション基盤整備事業",
+    "ministry": "経済産業省",
+    "bureau": "商務・サービスグループ",
+    "department": "ヘルスケア産業課"
+  },
+  {
+    "projectName": "経済協力開発機構鉄鋼委員会分担金",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "金属課"
+  },
+  {
+    "projectName": "国際ゴム研究会分担金",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "素材産業課"
+  },
+  {
+    "projectName": "商鉱工業統計調査（（項）ものづくり産業振興費）",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "金属課\n素材産業課\n素形材産業室"
+  },
+  {
+    "projectName": "地方皮革産業振興対策事業（補助金）",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "生活製品課"
+  },
+  {
+    "projectName": "製造基盤技術実態等調査",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "総務課"
+  },
+  {
+    "projectName": "ものづくり日本大賞関連実施事業",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "ものづくり政策審議室"
+  },
+  {
+    "projectName": "皮革産振興対策事業（補助金）",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "生活製品課"
+  },
+  {
+    "projectName": "皮革産業振興対策調査等（委託費）",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "生活製品課"
+  },
+  {
+    "projectName": "伝統的工芸品産業支援補助金",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "生活製品課\n伝統的工芸品産業室"
+  },
+  {
+    "projectName": "伝統的工芸品産業振興補助金",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "生活製品課\n伝統的工芸品産業室"
+  },
+  {
+    "projectName": "医工連携事業化推進事業",
+    "ministry": "経済産業省",
+    "bureau": "商務・サービスグループ",
+    "department": "ヘルスケア産業課医療・福祉機器産業室"
+  },
+  {
+    "projectName": "政府衛星データのオープン＆フリー化及びデータ利用環境整備・データ利用促進事業費",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "宇宙産業室"
+  },
+  {
+    "projectName": "衛星データ統合活用実証事業費",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "宇宙産業室"
+  },
+  {
+    "projectName": "ロボット介護機器等福祉用具開発標準化事業\n（旧ロボット介護機器・福祉用具開発標準化事業）",
+    "ministry": "経済産業省",
+    "bureau": "商務・サービスグループ",
+    "department": "ヘルスケア産業課医療・福祉機器産業室"
+  },
+  {
+    "projectName": "産学連携デジタルものづくり中核人材育成事業費",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "ものづくり政策審議室"
+  },
+  {
+    "projectName": "製造業の緊急時対応力を高める事業継続計画策定支援事業",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "総務課"
+  },
+  {
+    "projectName": "製造業における外国人材技能水準確保事業",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局\n経済産業政策局",
+    "department": "製造産業局総務課\n産業人材政策室"
+  },
+  {
+    "projectName": "平成３０年度テクノロジーの進歩に伴う工業用アルコール市場への影響調査",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "素材産業課　アルコール室"
+  },
+  {
+    "projectName": "電子経済産業省構築事業（事務費）",
+    "ministry": "経済産業省",
+    "bureau": "大臣官房",
+    "department": "情報システム厚生課"
+  },
+  {
+    "projectName": "我が国におけるデータ駆動型社会に係る基盤整備",
+    "ministry": "経済産業省",
+    "bureau": "商務情報政策局",
+    "department": "総務課"
+  },
+  {
+    "projectName": "情報処理実態調査（事務費）",
+    "ministry": "経済産業省",
+    "bureau": "商務情報政策局",
+    "department": "総務課"
+  },
+  {
+    "projectName": "経済産業省デジタルプラットフォーム構築事業\n（旧名：電子経済産業省構築事業）",
+    "ministry": "経済産業省",
+    "bureau": "商務情報政策局",
+    "department": "総務課情報プロジェクト室"
+  },
+  {
+    "projectName": "旅費等内部管理業務共通システムの最適化事業（事務費）",
+    "ministry": "経済産業省",
+    "bureau": "大臣官房",
+    "department": "情報システム厚生課"
+  },
+  {
+    "projectName": "IoTを活用した新市場創出促進事業",
+    "ministry": "経済産業省",
+    "bureau": "商務情報政策局",
+    "department": "情報産業課"
+  },
+  {
+    "projectName": "産業データ共有促進事業",
+    "ministry": "経済産業省",
+    "bureau": "商務情報政策局",
+    "department": "情報経済課"
+  },
+  {
+    "projectName": "AIシステム共同開発の支援事業",
+    "ministry": "経済産業省",
+    "bureau": "商務情報政策局",
+    "department": "情報経済課"
+  },
+  {
+    "projectName": "生活空間におけるサイバー／フィジカル融合促進事業費",
+    "ministry": "経済産業省",
+    "bureau": "商務情報政策局",
+    "department": "情報産業課"
+  },
+  {
+    "projectName": "産学連携サービス経営人材育成事業",
+    "ministry": "経済産業省",
+    "bureau": "商務・サービスグループ",
+    "department": "サービス政策課"
+  },
+  {
+    "projectName": "健康寿命延伸産業創出推進事業",
+    "ministry": "経済産業省",
+    "bureau": "商務・サービスグループ",
+    "department": "ヘルスケア産業課"
+  },
+  {
+    "projectName": "学びと社会の連携促進事業",
+    "ministry": "経済産業省",
+    "bureau": "商務・サービスグループ\n中小企業庁",
+    "department": "サービス政策課 教育産業室\n経営支援課\n創業・新事業促進課"
+  },
+  {
+    "projectName": "地域文化資源活用空間創出事業",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁\n地域経済産業グループ",
+    "department": "商業課\n中心市街地活性化室"
+  },
+  {
+    "projectName": "国際ヘルスケア拠点構築促進事業",
+    "ministry": "経済産業省",
+    "bureau": "商務・サービスグループ",
+    "department": "ヘルスケア産業課"
+  },
+  {
+    "projectName": "クリエイターを中心としたグローバルコンテンツエコシステム創出事業",
+    "ministry": "経済産業省",
+    "bureau": "商務情報政策局",
+    "department": "コンテンツ産業課"
+  },
+  {
+    "projectName": "コンテンツ海外展開促進事業（新コンテンツ創造環境整備事業）（旧　コンテンツ産業新展開強化事業）",
+    "ministry": "経済産業省",
+    "bureau": "商務情報政策局",
+    "department": "コンテンツ産業課"
+  },
+  {
+    "projectName": "博覧会国際事務局（ＢＩＥ）分担金",
+    "ministry": "経済産業省",
+    "bureau": "商務・サービスグループ",
+    "department": "博覧会推進室"
+  },
+  {
+    "projectName": "国際博覧会事業",
+    "ministry": "経済産業省",
+    "bureau": "商務・サービスグループ",
+    "department": "博覧会推進室"
+  },
+  {
+    "projectName": "インバウンド型クールジャパンビジネス環境整備事業",
+    "ministry": "経済産業省",
+    "bureau": "商務・サービスグループ\n製造産業局",
+    "department": "クールジャパン政策課\n生活製品課"
+  },
+  {
+    "projectName": "業種連携型クールジャパン発信・展開支援事業",
+    "ministry": "経済産業省",
+    "bureau": "商務・サービスグループ\n商務情報政策局",
+    "department": "クールジャパン政策課\nコンテンツ産業課"
+  },
+  {
+    "projectName": "コンテンツグローバル需要創出等促進事業",
+    "ministry": "経済産業省",
+    "bureau": "商務情報政策局",
+    "department": "コンテンツ産業課"
+  },
+  {
+    "projectName": "中小企業等の技術情報管理状況等調査事業",
+    "ministry": "経済産業省",
+    "bureau": "貿易経済協力局",
+    "department": "安全保障貿易管理課"
+  },
+  {
+    "projectName": "サイバーセキュリティ経済基盤構築事業",
+    "ministry": "経済産業省",
+    "bureau": "商務情報政策局",
+    "department": "サイバーセキュリティ課"
+  },
+  {
+    "projectName": "産業系サイバーセキュリティ推進事業",
+    "ministry": "経済産業省",
+    "bureau": "商務情報政策局",
+    "department": "サイバーセキュリティ課"
+  },
+  {
+    "projectName": "休廃止鉱山鉱害防止等工事費補助事業",
+    "ministry": "経済産業省",
+    "bureau": "産業保安グループ",
+    "department": "鉱山·火薬類監理官付"
+  },
+  {
+    "projectName": "事務費（義務）賠償償還及払戻金",
+    "ministry": "経済産業省",
+    "bureau": "産業保安グループ",
+    "department": "鉱山・火薬類監理官付石炭保安室"
+  },
+  {
+    "projectName": "高圧ガス設備の耐震補強支援事業",
+    "ministry": "経済産業省",
+    "bureau": "産業保安グループ",
+    "department": "高圧ガス保安室"
+  },
+  {
+    "projectName": "産業保安等技術基準策定研究開発等",
+    "ministry": "経済産業省",
+    "bureau": "産業保安グループ",
+    "department": "保安課"
+  },
+  {
+    "projectName": "内外一体の経済成長戦略構築にかかる国際経済調査事業",
+    "ministry": "経済産業省",
+    "bureau": "通商政策局",
+    "department": "通政局総務課\n貿易局総務課　等"
+  },
+  {
+    "projectName": "経済協力開発機構科学技術産業局等拠出金",
+    "ministry": "経済産業省",
+    "bureau": "通商政策局",
+    "department": "国際経済課"
+  },
+  {
+    "projectName": "東アジア経済統合研究協力拠出金",
+    "ministry": "経済産業省",
+    "bureau": "通商政策局",
+    "department": "アジア大洋州課"
+  },
+  {
+    "projectName": "アジア太平洋経済協力推進拠出金",
+    "ministry": "経済産業省",
+    "bureau": "通商政策局",
+    "department": "アジア太平洋地域協力推進室"
+  },
+  {
+    "projectName": "日韓産業技術協力共同事業体拠出金",
+    "ministry": "経済産業省",
+    "bureau": "経済産業省",
+    "department": "韓国室"
+  },
+  {
+    "projectName": "日・ＥＵ産業協力促進事業",
+    "ministry": "経済産業省",
+    "bureau": "通商政策局",
+    "department": "欧州課"
+  },
+  {
+    "projectName": "ロシア・中央アジア地域等貿易投資促進事業",
+    "ministry": "経済産業省",
+    "bureau": "通商政策局",
+    "department": "欧州課"
+  },
+  {
+    "projectName": "北東アジア経済交流等事業",
+    "ministry": "経済産業省",
+    "bureau": "通商政策局",
+    "department": "北東アジア課"
+  },
+  {
+    "projectName": "新市場進出等支援事業",
+    "ministry": "経済産業省",
+    "bureau": "通商政策局",
+    "department": "欧州課"
+  },
+  {
+    "projectName": "原産地証明書電子申請手続きに関する調査事業",
+    "ministry": "経済産業省",
+    "bureau": "貿易経済協力局",
+    "department": "貿易振興課"
+  },
+  {
+    "projectName": "日・欧州連合相互投資促進による地域経済活性化事業",
+    "ministry": "経済産業省",
+    "bureau": "貿易経済協力局",
+    "department": "投資促進課"
+  },
+  {
+    "projectName": "質の高いインフラ詳細事業実施可能性調査事業",
+    "ministry": "経済産業省",
+    "bureau": "貿易経済協力局",
+    "department": "貿易振興課"
+  },
+  {
+    "projectName": "メガFTA推進のための日・ASEAN産業協力事業費",
+    "ministry": "経済産業省",
+    "bureau": "通商政策局",
+    "department": "アジア大洋州課\n経済連携課"
+  },
+  {
+    "projectName": "日・ＡＳＥＡＮ貿易投資観光促進センター拠出金",
+    "ministry": "経済産業省",
+    "bureau": "通商政策局",
+    "department": "アジア大洋州課"
+  },
+  {
+    "projectName": "アジア太平洋経済協力拠出金",
+    "ministry": "経済産業省",
+    "bureau": "通商政策局",
+    "department": "アジア太平洋地域協力推進室"
+  },
+  {
+    "projectName": "APECビジネス諮問委員会拠出金",
+    "ministry": "経済産業省",
+    "bureau": "通商政策局",
+    "department": "アジア太平洋地域協力推進室"
+  },
+  {
+    "projectName": "日・ＡＳＥＡＮ経済産業協力拠出金",
+    "ministry": "経済産業省",
+    "bureau": "通商政策局",
+    "department": "アジア大洋州課"
+  },
+  {
+    "projectName": "国際連合工業開発機関拠出金",
+    "ministry": "経済産業省",
+    "bureau": "貿易経済協力局",
+    "department": "技術・人材協力課"
+  },
+  {
+    "projectName": "質の高いインフラの海外展開に向けた事業実施可能性調査事業",
+    "ministry": "経済産業省",
+    "bureau": "貿易経済協力局",
+    "department": "貿易振興課"
+  },
+  {
+    "projectName": "技術協力活用型・新興国市場開拓事業",
+    "ministry": "経済産業省",
+    "bureau": "貿易経済協力局、通商政策局",
+    "department": "技術・人材協力課\n貿易振興課\nアジア大洋州課"
+  },
+  {
+    "projectName": "経済協力開発機構開発センター拠出金",
+    "ministry": "経済産業省",
+    "bureau": "貿易経済協力局",
+    "department": "貿易振興課"
+  },
+  {
+    "projectName": "株式会社日本貿易保険への交付金",
+    "ministry": "経済産業省",
+    "bureau": "貿易経済協力局",
+    "department": "通商金融課"
+  },
+  {
+    "projectName": "中堅・中小企業海外展開等支援事業",
+    "ministry": "経済産業省",
+    "bureau": "貿易経済協力局",
+    "department": "貿易振興課\n投資促進課"
+  },
+  {
+    "projectName": "貿易管理対策事業\n（旧：安全保障貿易管理対策事業）",
+    "ministry": "経済産業省",
+    "bureau": "貿易経済協力局貿易管理部",
+    "department": "安全保障貿易管理政策課\n特殊関税等調査室"
+  },
+  {
+    "projectName": "貿易管理対策事業",
+    "ministry": "経済産業省",
+    "bureau": "貿易経済協力局貿易管理部",
+    "department": "安全保障貿易管理政策課"
+  },
+  {
+    "projectName": "リバース・エンジニアリング対策事業費",
+    "ministry": "経済産業省",
+    "bureau": "貿易経済協力局貿易管理部",
+    "department": "安全保障貿易管理政策課"
+  },
+  {
+    "projectName": "サービス等生産性向上IT導入支援事業",
+    "ministry": "経済産業省",
+    "bureau": "商務・サービスグループ",
+    "department": "サービス政策課"
+  },
+  {
+    "projectName": "小規模事業者経営改善資金融資事業",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁経営支援部",
+    "department": "小規模企業振興課"
+  },
+  {
+    "projectName": "中小企業再生支援・事業引継ぎ支援事業",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁事業環境部",
+    "department": "金融課\n財務課"
+  },
+  {
+    "projectName": "中小企業・小規模事業者ワンストップ総合支援事業",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁",
+    "department": "経営支援課\n金融課\n小規模企業振興課"
+  },
+  {
+    "projectName": "戦略的基盤技術高度化・連携支援事業",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁\n産業技術環境局",
+    "department": "経営支援部　技術・経営革新課\n大学連携推進室"
+  },
+  {
+    "projectName": "小規模事業対策推進事業",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁経営支援部",
+    "department": "小規模企業振興課"
+  },
+  {
+    "projectName": "中小企業連携組織対策事業",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁",
+    "department": "経営支援課"
+  },
+  {
+    "projectName": "地域・まちなか商業活性化支援事業",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁経営支援部\n地域経済産業グループ",
+    "department": "商業課\n中心市街地活性化室"
+  },
+  {
+    "projectName": "ふるさと名物応援事業",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁\n商務・サービスG\n製造産業局",
+    "department": "創業・新事業促進課\n財務課\nクールジャパン政策課\n生活製品課　伝統的工芸品産業室"
+  },
+  {
+    "projectName": "中小企業・小規模事業者人材対策事業",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁　　　　　　　　　　　　　　　　　　　　商務・サービスグループ\n製造産業局\n地域経済産業グループ",
+    "department": "中小企業庁　経営支援課\n商務・サービスグループ　\n製造局　総務課\n製造局　自動車課\n中小企業庁　小規模企業振興課\n中心市街地活性化室\n中小企業庁新事業促進課"
+  },
+  {
+    "projectName": "事業承継・世代交代集中支援事業",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁",
+    "department": "財務課"
+  },
+  {
+    "projectName": "中小企業・小規模事業者決済情報管理調査事業",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁",
+    "department": "技術・経営革新課"
+  },
+  {
+    "projectName": "小規模事業者支援パッケージ事業",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁経営支援部",
+    "department": "小規模企業振興課"
+  },
+  {
+    "projectName": "ものづくり・商業・サービス経営力向上支援事業",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁",
+    "department": "技術・経営革新課"
+  },
+  {
+    "projectName": "認定支援機関による経営改善計画策定支援事業",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁事業環境部",
+    "department": "金融課"
+  },
+  {
+    "projectName": "ニューツーリズム商品開発等支援事業",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁",
+    "department": "創業・新事業促進課"
+  },
+  {
+    "projectName": "地域創業活性化支援事業",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁",
+    "department": "創業・新事業促進課\n産業人材政策室\n新規事業創造推進室"
+  },
+  {
+    "projectName": "中小企業生産性革命推進事業",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁、商務サービスグループ",
+    "department": "技術・経営革新課\n小規模企業振興課\nサービス政策課"
+  },
+  {
+    "projectName": "中小企業等強靱化対策事業",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁",
+    "department": "経営安定対策室"
+  },
+  {
+    "projectName": "中小企業サイバーセキュリティ対策支援促進事業（サイバーセキュリティ強靱化対策事業）",
+    "ministry": "経済産業省",
+    "bureau": "商務情報政策局",
+    "department": "サイバーセキュリティ課"
+  },
+  {
+    "projectName": "中国地方等の魅力発信による消費拡大事業",
+    "ministry": "経済産業省",
+    "bureau": "商務・サービスグループ",
+    "department": "クールジャパン政策課"
+  },
+  {
+    "projectName": "被災地域販路開拓支援事業",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁経営支援部",
+    "department": "小規模企業振興課"
+  },
+  {
+    "projectName": "北海道の魅力発信による消費拡大事業",
+    "ministry": "経済産業省",
+    "bureau": "商務・サービスグループ\n中小企業庁",
+    "department": "クールジャパン政策課\n創業・新事業促進課\n小規模企業振興課\n商業課"
+  },
+  {
+    "projectName": "日本政策金融公庫補給金",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁事業環境部",
+    "department": "金融課"
+  },
+  {
+    "projectName": "危機対応円滑化業務支援事業",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁事業環境部",
+    "department": "金融課"
+  },
+  {
+    "projectName": "中小企業信用補完制度関連補助・出資事業",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁事業環境部",
+    "department": "金融課"
+  },
+  {
+    "projectName": "中小企業実態調査委託費",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁",
+    "department": "調査室\n地域経済産業政策課\n総合調整室"
+  },
+  {
+    "projectName": "中小企業・小規模事業者海外展開戦略支援事業",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁\n通商政策局\n商務・サービスG\n貿易経済協力局\n貿易管理部",
+    "department": "創業・新事業促進課\n通商政策局総務課\nクールジャパン政策課\n投資促進課\n原産地証明室"
+  },
+  {
+    "projectName": "日本政策金融公庫出資金（中小企業者向け）",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁事業環境部",
+    "department": "金融課"
+  },
+  {
+    "projectName": "中小企業組合等共同施設等災害復旧事業等",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁",
+    "department": "経営支援課\n小規模企業振興課\n商業課"
+  },
+  {
+    "projectName": "中小企業組合等共同施設等災害復旧事業等",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁",
+    "department": "経営支援課"
+  },
+  {
+    "projectName": "商店街災害復旧等事業",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁",
+    "department": "商業課"
+  },
+  {
+    "projectName": "人権教育・啓発活動支援事業",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁",
+    "department": "財務課"
+  },
+  {
+    "projectName": "中小企業取引対策事業",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁",
+    "department": "事業環境部取引課"
+  },
+  {
+    "projectName": "消費税軽減税率対応（委託費・補助金）",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁",
+    "department": "財務課\n小規模企業振興課\n商業課\n経営支援課"
+  },
+  {
+    "projectName": "中小企業消費税軽減税率対策事業",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁",
+    "department": "財務課"
+  },
+  {
+    "projectName": "消費税転嫁状況監視・検査体制強化等事業",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁",
+    "department": "事業環境部　取引課"
+  },
+  {
+    "projectName": "工業用水道事業",
+    "ministry": "経済産業省",
+    "bureau": "地域経済産業グループ",
+    "department": "地域産業基盤整備課"
+  },
+  {
+    "projectName": "地域経済牽引事業・地域中核企業等支援事業",
+    "ministry": "経済産業省",
+    "bureau": "地域経済産業グループ",
+    "department": "地域企業高度化推進課"
+  },
+  {
+    "projectName": "商工鉱業統計調査費\n（（項）地域経済産業活性化対策費）",
+    "ministry": "経済産業省",
+    "bureau": "地域経済産業G",
+    "department": "地方調整室"
+  },
+  {
+    "projectName": "地域における中小企業の生産性向上のための共同基盤事業",
+    "ministry": "経済産業省",
+    "bureau": "地域経済産業グループ",
+    "department": "地域企業高度化推進課"
+  },
+  {
+    "projectName": "工業用水道事業におけるＰＰＰ／ＰＦＩ促進事業",
+    "ministry": "経済産業省",
+    "bureau": "地域経済産業グループ",
+    "department": "地域産業基盤整備課"
+  },
+  {
+    "projectName": "地域未来オープンイノベーション・プラットフォーム構築事業",
+    "ministry": "経済産業省",
+    "bureau": "地域経済産業グループ\n産業技術環境局",
+    "department": "地域企業高度化推進課\n大学連携推進室"
+  },
+  {
+    "projectName": "災害対応ロボット・ドローン実証施設整備事業",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "産業機械課ロボット政策室"
+  },
+  {
+    "projectName": "石油資源を遠隔探知するためのハイパースペクトルセンサの研究開発事業費",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "宇宙産業室"
+  },
+  {
+    "projectName": "銅原料からの不純物低減技術開発",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "資源・燃料部鉱物資源課"
+  },
+  {
+    "projectName": "石油・ガス供給等に係る保安対策調査等委託費",
+    "ministry": "経済産業省",
+    "bureau": "産業保安グループ",
+    "department": "保安課"
+  },
+  {
+    "projectName": "高圧エネルギーガス設備に対する耐震補強支援事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "産業保安グループ",
+    "department": "高圧ガス保安室"
+  },
+  {
+    "projectName": "希少金属備蓄対策事業",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "鉱物資源課"
+  },
+  {
+    "projectName": "希少金属資源開発推進基盤整備事業",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "鉱物資源課"
+  },
+  {
+    "projectName": "国際エネルギー情勢調査研究委託費",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "国際課"
+  },
+  {
+    "projectName": "国際エネルギーフォーラム拠出金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "国際課"
+  },
+  {
+    "projectName": "国際エネルギー機関拠出金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "国際課"
+  },
+  {
+    "projectName": "東アジア経済統合研究協力拠出金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "国際課"
+  },
+  {
+    "projectName": "アジア太平洋エネルギー研究センター拠出金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "国際課"
+  },
+  {
+    "projectName": "国家備蓄石油増強対策事業（石油分）",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石油精製備蓄課"
+  },
+  {
+    "projectName": "土地借料",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石油流通課\n石油精製備蓄課"
+  },
+  {
+    "projectName": "株式売払手数料",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石油・天然ガス課"
+  },
+  {
+    "projectName": "石油天然ガス開発関連の政府の保有資産評価委託費",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石油・天然ガス課"
+  },
+  {
+    "projectName": "緊急時放出に備えた国家備蓄石油及び国家備蓄施設の管理委託費（石油分）",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石油精製備蓄課"
+  },
+  {
+    "projectName": "緊急時放出に備えた国家備蓄石油及び国家備蓄施設の管理委託費（石油ガス分）",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石油流通課"
+  },
+  {
+    "projectName": "石油ガス販売事業者の経営及び販売実態に関する調査",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石油流通課"
+  },
+  {
+    "projectName": "燃料安定供給対策に関する調査等委託費",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　長官官房",
+    "department": "総務課"
+  },
+  {
+    "projectName": "平常時及び緊急時における石油需給動向等調査事業費",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "資源・燃料部政策課"
+  },
+  {
+    "projectName": "産油国共同石油備蓄事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石油精製備蓄課"
+  },
+  {
+    "projectName": "潤滑油の品質確保事業等への支援事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石油精製備蓄課"
+  },
+  {
+    "projectName": "石油製品品質確保事業",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石油流通課"
+  },
+  {
+    "projectName": "石油ガスの流通合理化及び取引の適正化等に関する支援事業費",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石油流通課"
+  },
+  {
+    "projectName": "災害時に備えた地域におけるエネルギー供給拠点の整備事業費",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石油流通課"
+  },
+  {
+    "projectName": "大規模石油災害対応体制整備事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石油精製備蓄課"
+  },
+  {
+    "projectName": "石油貯蔵施設立地対策等交付金\n石油貯蔵施設立地対策等交付金事務等交付金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石油精製備蓄課"
+  },
+  {
+    "projectName": "国有資産所在市町村交付金（石油ガス分）",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石油流通課"
+  },
+  {
+    "projectName": "国有資産所在市町村・都道府県交付金（石油分）",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石油精製備蓄課"
+  },
+  {
+    "projectName": "石油・石油ガス備蓄増強利子補給金（石油分）",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石油精製備蓄課"
+  },
+  {
+    "projectName": "石油・石油ガス備蓄増強利子補給金（石油ガス分）",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石油流通課"
+  },
+  {
+    "projectName": "国内の石油天然ガス開発等の資金借入に係る利子補給金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "石油・天然ガス課"
+  },
+  {
+    "projectName": "石油備蓄事業補給金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石油精製備蓄課"
+  },
+  {
+    "projectName": "石油製品の卸・小売価格モニタリング調査",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石油流通課"
+  },
+  {
+    "projectName": "石油精製に係る諸外国における技術動向・規制動向等の調査・分析委託費",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石油精製備蓄課"
+  },
+  {
+    "projectName": "離島・SS過疎地等における石油製品の流通合理化支援事業費\n（旧：離島・SS過疎地における石油製品の流通合理化支援事業費）",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石油流通課"
+  },
+  {
+    "projectName": "離島のガソリン流通コスト対策事業費",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石油流通課"
+  },
+  {
+    "projectName": "石油産業の海外展開に向けた資金借入に係る利子補給金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石油精製備蓄課"
+  },
+  {
+    "projectName": "産炭国に対する石炭採掘・保安に関する技術移転等事業",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石炭課"
+  },
+  {
+    "projectName": "石油天然ガス権益・安定供給の確保に向けた資源国との関係強化支援事業費",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "石油・天然ガス課\n石油精製備蓄課\n石油流通課\n中東アフリカ課\nロシア・中央アジア・コーカサス室"
+  },
+  {
+    "projectName": "災害時に備えた社会的重要インフラへの自衛的な燃料備蓄の推進事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部\n商務情報政策局\n商務・流通サービスグループ\n中小企業庁　事業環境部\n資源エネルギー庁　電力・ガス事業部",
+    "department": "石油流通課\n情報産業課\n消費・流通政策課\n経営安定対策室\n政策課"
+  },
+  {
+    "projectName": "石油コンビナートの生産性向上及び強靱化推進事業費",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石油精製備蓄課"
+  },
+  {
+    "projectName": "石油天然ガス田の探鉱・資産買収等事業に対する出資金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石油・天然ガス課"
+  },
+  {
+    "projectName": "石油・天然ガス開発や権益確保に資する技術開発等の促進事業",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石油・天然ガス課"
+  },
+  {
+    "projectName": "石油・天然ガスの権益確保に向けた海外の地質構造調査や情報収集等事業",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石油・天然ガス課"
+  },
+  {
+    "projectName": "石油及び石油ガス備蓄事業の実施に係る運営費交付金（石油分）",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石油精製備蓄課"
+  },
+  {
+    "projectName": "石油及び石油ガス備蓄事業の実施に係る運営費交付金（石油ガス分）",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石油流通課"
+  },
+  {
+    "projectName": "海外炭の開発支援事業",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石炭課"
+  },
+  {
+    "projectName": "地方における都市ガス事業の天然ガス化促進対策費補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　電力・ガス事業部",
+    "department": "ガス市場整備室"
+  },
+  {
+    "projectName": "天然ガス等利用設備資金に係る利子補給金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　電力・ガス事業部",
+    "department": "ガス市場整備室"
+  },
+  {
+    "projectName": "都市ガス製造所等非常用自家発電設備導入等支援事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　電力・ガス事業部",
+    "department": "ガス市場整備室"
+  },
+  {
+    "projectName": "高効率な石油精製技術の基礎となる石油の構造分析・反応解析等に係る研究開発委託費",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石油精製備蓄課"
+  },
+  {
+    "projectName": "高効率な石油精製技術に係る研究開発支援事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石油精製備蓄課"
+  },
+  {
+    "projectName": "石油製品安定供給確保支援事業",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石油流通課"
+  },
+  {
+    "projectName": "石油製品安定供給確保支援事業",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石油流通課"
+  },
+  {
+    "projectName": "国際非鉄金属研究会分担金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "鉱物資源課"
+  },
+  {
+    "projectName": "国内石油天然ガスに係る地質調査・メタンハイドレートの研究開発等委託費\n国内石油天然ガスに係る地質調査事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石油・天然ガス課"
+  },
+  {
+    "projectName": "独立行政法人石油天然ガス・金属鉱物資源機構船舶建造費補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "石油・天然ガス課"
+  },
+  {
+    "projectName": "廃止石油坑井封鎖事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "産業保安グループ",
+    "department": "鉱山・火薬類監理官付"
+  },
+  {
+    "projectName": "鉱区情報等のデータ利活用の促進事業",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "資源・燃料部政策課"
+  },
+  {
+    "projectName": "石油等製品販売業早期復旧支援事業",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁資源・燃料部",
+    "department": "石油流通課"
+  },
+  {
+    "projectName": "地熱発電や地中熱等の導入拡大に向けた技術開発事業（JOGMEC交付金）",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "政策課"
+  },
+  {
+    "projectName": "質の高いエネルギーインフラの海外展開に向けた事業実施可能性調査事業",
+    "ministry": "経済産業省",
+    "bureau": "貿易経済協力局",
+    "department": "貿易振興課"
+  },
+  {
+    "projectName": "革新的なエネルギー技術の国際共同研究開発事業費",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "総務課　国際室"
+  },
+  {
+    "projectName": "電気機器性能の向上に向けた次世代パワーエレクトロニクス技術開発事業",
+    "ministry": "経済産業省",
+    "bureau": "商務情報政策局",
+    "department": "情報産業課"
+  },
+  {
+    "projectName": "エネルギー・環境分野の中長期的課題解決に資する新技術先導研究プログラム",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "エネルギー・環境イノベーション戦略室"
+  },
+  {
+    "projectName": "水素エネルギー製造・貯蔵・利用等に関する先進的技術開発事業",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "エネルギー・環境イノベーション戦略室"
+  },
+  {
+    "projectName": "輸送機器の抜本的な軽量化に資する新構造材料等の技術開発事業",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局、製造産業局",
+    "department": "産業技術プロジェクト推進室\n金属課金属技術室\n素材産業課\n自動車課\n航空機武器宇宙産業課"
+  },
+  {
+    "projectName": "高機能なリグノセルロースナノファイバーの一貫製造プロセスと部材化技術の開発事業",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "素材産業課"
+  },
+  {
+    "projectName": "次世代構造部材・システム技術に関する開発事業",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "航空機武器宇宙産業課"
+  },
+  {
+    "projectName": "未利用熱エネルギーの革新的な活用技術研究開発事業",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "金属課金属技術室"
+  },
+  {
+    "projectName": "宇宙太陽光発電における無線送受電技術の高効率化に向けた研究開発事業委託費",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "宇宙産業室"
+  },
+  {
+    "projectName": "環境調和型プロセス技術の開発事業\n(旧：環境調和型製鉄プロセス技術の開発事業)",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "金属課金属技術室"
+  },
+  {
+    "projectName": "省エネ型化学品製造プロセス技術の開発事業",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "素材産業課"
+  },
+  {
+    "projectName": "印刷技術による省エネ型電子デバイス製造プロセス技術の開発事業",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局\n商務情報政策局",
+    "department": "素材産業課\n情報産業課"
+  },
+  {
+    "projectName": "省エネ型電子デバイス材料の評価技術の開発事業",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "素材産業課\n自動車課\n化学物質管理課"
+  },
+  {
+    "projectName": "超低消費電力型光エレクトロニクスの実装に向けた技術開発事業",
+    "ministry": "経済産業省",
+    "bureau": "商務情報政策局",
+    "department": "情報産業課"
+  },
+  {
+    "projectName": "省エネルギー等に関する国際標準の獲得・普及促進事業委託費",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "基準認証政策課"
+  },
+  {
+    "projectName": "省エネルギー型建設機械導入補助事業",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "産業機械課"
+  },
+  {
+    "projectName": "発電所の環境影響評価審査に係る調査委託費",
+    "ministry": "経済産業省",
+    "bureau": "産業保安グループ",
+    "department": "電力安全課"
+  },
+  {
+    "projectName": "エネルギー需給構造高度化対策に関する調査等委託費（旧：エネルギー戦略立案のための調査・エネルギー教育等の推進事業委託費）",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　長官官房",
+    "department": "総務課"
+  },
+  {
+    "projectName": "エネルギー需給に関する統計整備等のための調査委託費",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "長官官房総務課戦略企画室"
+  },
+  {
+    "projectName": "国際エネルギー機関拠出金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "国際課"
+  },
+  {
+    "projectName": "アジア太平洋経済協力拠出金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "国際課"
+  },
+  {
+    "projectName": "東アジア経済統合研究協力拠出金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "国際課"
+  },
+  {
+    "projectName": "アジア太平洋エネルギー研究センター拠出金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "国際課"
+  },
+  {
+    "projectName": "新エネルギー等の導入促進のための基礎調査委託費",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "省エネルギー・新エネルギー部\n政策課"
+  },
+  {
+    "projectName": "固定価格買取制度等の効率的・安定的な運用のための業務委託費",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "新エネルギー課"
+  },
+  {
+    "projectName": "新エネルギー等の導入促進のための広報等事業委託費",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "新エネルギー課"
+  },
+  {
+    "projectName": "燃料電池の利用拡大に向けたエネファーム等導入支援事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "新エネルギーシステム課\n水素・燃料電池戦略室"
+  },
+  {
+    "projectName": "国際再生可能エネルギー機関分担金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "政策課国際室"
+  },
+  {
+    "projectName": "国際再生可能エネルギー機関拠出金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "政策課国際室"
+  },
+  {
+    "projectName": "燃料電池自動車の普及促進に向けた水素ステーション整備事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "新エネルギーシステム課\n水素・燃料電池戦略室"
+  },
+  {
+    "projectName": "固定価格買取制度における賦課金特例制度の施行のための事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "新エネルギー課"
+  },
+  {
+    "projectName": "風力発電のための送電網整備等の実証事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "新エネルギー課"
+  },
+  {
+    "projectName": "地域の特性を活かしたエネルギーの地産地消促進事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "新エネルギーシステム課\n新エネルギー課"
+  },
+  {
+    "projectName": "省エネルギー促進に向けた広報事業委託費",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部\n電力・ガス事業部",
+    "department": "省エネルギー課\n熱供給産業室"
+  },
+  {
+    "projectName": "省エネルギー政策立案のための調査委託費",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "省エネルギー課"
+  },
+  {
+    "projectName": "電力需給対策広報調査事業委託費",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "省エネルギー課"
+  },
+  {
+    "projectName": "新興国等におけるエネルギー使用合理化等に資する事業委託費",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "政策課国際室"
+  },
+  {
+    "projectName": "省エネルギー投資促進に向けた支援補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "省エネルギー課"
+  },
+  {
+    "projectName": "中小企業等に対する省エネルギー診断事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "省エネルギー課"
+  },
+  {
+    "projectName": "エネルギー使用合理化特定設備等資金利子補給金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "省エネルギー課"
+  },
+  {
+    "projectName": "省エネルギー設備投資に係る利子補給金助成事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "省エネルギー課"
+  },
+  {
+    "projectName": "洋上風力発電等の導入拡大に向けた研究開発事業（旧：洋上風力発電等のコスト低減に向けた研究開発事業）",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "新エネルギー課"
+  },
+  {
+    "projectName": "新エネルギー等のシーズ発掘・事業化に向けた技術研究開発事業",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "新エネルギー課"
+  },
+  {
+    "projectName": "革新的な省エネルギー技術の開発促進事業",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "省エネルギー課"
+  },
+  {
+    "projectName": "エネルギー消費の効率化等に資する我が国技術の国際実証事業",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー部・新エネルギー部",
+    "department": "政策課国際室"
+  },
+  {
+    "projectName": "地熱発電や地中熱等の導入拡大に向けた技術開発事業(NEDO交付金)",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁省エネルギー・新エネルギー部、産業技術環境局",
+    "department": "新エネルギー課、エネルギー・環境イノベーション戦略室"
+  },
+  {
+    "projectName": "分散型エネルギーの導入促進に向けた次世代電力網構築のための実証事業",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "新エネルギー課"
+  },
+  {
+    "projectName": "電力系統の出力変動に対応するための技術研究開発事業",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "新エネルギー課"
+  },
+  {
+    "projectName": "バイオ燃料の生産システム構築のための技術開発事業",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "資源・燃料部　政策課"
+  },
+  {
+    "projectName": "地中熱などの再生可能エネルギー熱利用のコスト低減に向けた技術開発事業",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "新エネルギー課"
+  },
+  {
+    "projectName": "地域で自立したバイオマスエネルギーの活用モデルを確立するための実証事業",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "新エネルギー課"
+  },
+  {
+    "projectName": "次世代燃料電池の実用化に向けた低コスト化・耐久性向上等のための研究開発事業",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "新エネルギーシステム課\n水素・燃料電池戦略室"
+  },
+  {
+    "projectName": "未利用エネルギーを活用した水素サプライチェーン構築実証事業",
+    "ministry": "経済産業省",
+    "bureau": "経済産業省　資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "新エネルギーシステム課\n水素・燃料電池戦略室"
+  },
+  {
+    "projectName": "再生可能エネルギーの大量導入に向けた次世代型の電力制御技術開発事業（旧　次世代型の洋上直流送電システムの開発事業）",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "新エネルギー課"
+  },
+  {
+    "projectName": "太陽光発電のコスト低減や信頼性向上等に向けた技術開発事業",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁省エネルギー・新エネルギー部",
+    "department": "新エネルギー課"
+  },
+  {
+    "projectName": "災害時にも再生可能エネルギーを供給力として稼働可能とするための蓄電池等補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "政策課\n新エネルギー課"
+  },
+  {
+    "projectName": "分解軽油の利用による自動車等への影響分析・評価事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石油精製備蓄課"
+  },
+  {
+    "projectName": "地熱発電の資源量調査・理解促進事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "政策課"
+  },
+  {
+    "projectName": "地熱発電に対する理解促進事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "政策課"
+  },
+  {
+    "projectName": "海洋鉱物資源開発に向けた資源量評価・生産技術等調査事業委託費",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "鉱物資源課"
+  },
+  {
+    "projectName": "鉱物資源開発の推進のための探査等事業委託費",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "鉱物資源課"
+  },
+  {
+    "projectName": "天然ガスの高度利用に係る事業環境等の調査委託費",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　電力・ガス事業部",
+    "department": "ガス市場整備室"
+  },
+  {
+    "projectName": "中小水力発電開発費等補助金",
+    "ministry": "経済産業省",
+    "bureau": "経済産業省　資源エネルギー庁\n電力・ガス事業部",
+    "department": "電力基盤整備課\n電力供給室"
+  },
+  {
+    "projectName": "中小水力発電事業利子補給金助成事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "経済産業省　資源エネルギー庁\n電力・ガス事業部",
+    "department": "電力基盤整備課\n電力供給室"
+  },
+  {
+    "projectName": "計算科学等による先端的な機能性材料の技術開発事業",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "素材産業課"
+  },
+  {
+    "projectName": "高効率･高輝度な次世代レーザー技術の開発事業",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "産業技術プロジェクト推進室"
+  },
+  {
+    "projectName": "高温超電導の実用化促進に資する技術開発事業",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "エネルギー・環境イノベーション戦略室"
+  },
+  {
+    "projectName": "省エネルギー型製造プロセスの実現に向けた３Ｄプリンタの造形技術開発・実用化事業",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "素形材産業室"
+  },
+  {
+    "projectName": "革新型蓄電池実用化のための基盤技術の開発事業",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "自動車課"
+  },
+  {
+    "projectName": "植物等の生物を用いた高機能品生産技術の開発事業",
+    "ministry": "経済産業省",
+    "bureau": "商務・サービスグループ",
+    "department": "生物化学産業課"
+  },
+  {
+    "projectName": "高度な自動走行・MaaS等の社会実装に向けた研究開発・実証事業費",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局\n国土交通省　自動車局",
+    "department": "自動車課\n技術政策課"
+  },
+  {
+    "projectName": "クリーンエネルギー自動車導入事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "自動車課"
+  },
+  {
+    "projectName": "電気自動車・プラグインハイブリッド自動車の充電インフラ整備事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "自動車課"
+  },
+  {
+    "projectName": "IoTを活用した社会インフラ等の高度化推進事業",
+    "ministry": "経済産業省",
+    "bureau": "商務情報政策局",
+    "department": "情報産業課"
+  },
+  {
+    "projectName": "新エネルギー等の保安規制高度化事業",
+    "ministry": "経済産業省",
+    "bureau": "産業保安グループ",
+    "department": "保安課"
+  },
+  {
+    "projectName": "需要家側エネルギーリソースを活用したバーチャルパワープラント構築実証事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "新エネルギーシステム課"
+  },
+  {
+    "projectName": "福島沖での浮体式洋上風力発電システムの実証研究事業委託費",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "新エネルギー課"
+  },
+  {
+    "projectName": "水力発電の導入促進のための事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部\n電力・ガス事業部",
+    "department": "新エネルギー課\n電力基盤整備課電力供給室"
+  },
+  {
+    "projectName": "微細藻類を活用したバイオ燃料生産のための実証事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "資源・燃料部　政策課"
+  },
+  {
+    "projectName": "カーボンリサイクル・次世代火力発電の技術開発事業",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石炭課"
+  },
+  {
+    "projectName": "エネルギー構造高度化・転換理解促進事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "原子力立地政策室／原子力広報室"
+  },
+  {
+    "projectName": "大規模インフラの維持管理・更新等のための高性能モニタリングシステムの研究開発事業",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "産業技術プロジェクト推進室"
+  },
+  {
+    "projectName": "ロボット・ドローンが活躍する省エネルギー社会の実現プロジェクト",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "産業機械課"
+  },
+  {
+    "projectName": "カーボンリサイクル・先進的な火力発電技術等の海外展開推進事業",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石炭課"
+  },
+  {
+    "projectName": "トラック・船舶等の運輸部門における省エネルギー対策事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁省エネルギー・新エネルギー部、\n国土交通省自動車局、\n国土交通省海事局、",
+    "department": "省エネルギー課、\n自動車局貨物課、\n自動車局整備課、\n海事局海洋・環境政策課"
+  },
+  {
+    "projectName": "福島県における再生可能エネルギーの導入促進のための支援事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "新エネルギー課"
+  },
+  {
+    "projectName": "再生可能エネルギー事業の資金環境を整備するための利子補給金助成事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "新エネルギー課"
+  },
+  {
+    "projectName": "天然ガスの環境調和等に資する利用促進事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　電力・ガス事業部",
+    "department": "ガス市場整備室"
+  },
+  {
+    "projectName": "社会経済活動の維持に資する天然ガス利用設備導入支援事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　電力・ガス事業部",
+    "department": "ガス市場整備室"
+  },
+  {
+    "projectName": "省エネルギー設備の導入・運用改善による中小企業等の生産性革命促進事業",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "省エネルギー課"
+  },
+  {
+    "projectName": "再生可能エネルギー出力制御量低減のための技術開発事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "新エネルギー課"
+  },
+  {
+    "projectName": "福島県における再生可能エネルギー由来水素製造実証のための発電設備整備支援事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "新エネルギーシステム課\n水素・燃料電池戦略室"
+  },
+  {
+    "projectName": "休廃止鉱山の鉱害防止に係るエネルギー使用合理化事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "産業保安グループ",
+    "department": "鉱山·火薬類監理官付"
+  },
+  {
+    "projectName": "休廃止鉱山における坑廃水処理の高度化調査研究事業",
+    "ministry": "経済産業省",
+    "bureau": "産業保安グループ",
+    "department": "鉱山・火薬類監理官付"
+  },
+  {
+    "projectName": "次世代人工知能・ロボットの中核となるインテグレート技術開発事業",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局,製造産業局",
+    "department": "産業技術プロジェクト推進室\n自動車課\n産業機械課"
+  },
+  {
+    "projectName": "省エネ化・低温室効果を達成できる次世代冷媒・冷凍空調技術及び評価手法の開発事業",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "化学物質管理課オゾン層保護等推進室"
+  },
+  {
+    "projectName": "省エネ製品開発の加速化に向けた複合計測分析システム研究開発事業",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "産業機械課"
+  },
+  {
+    "projectName": "高効率・高速処理を可能とするAIチップ・次世代コンピューティングの技術開発事業",
+    "ministry": "経済産業省",
+    "bureau": "商務情報政策局",
+    "department": "情報産業課"
+  },
+  {
+    "projectName": "次世代自動車等の開発加速化に係るシミュレーション基盤構築事業",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "自動車課"
+  },
+  {
+    "projectName": "超高圧水素技術等を活用した低コスト水素供給インフラ構築に向けた研究開発事業",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "新エネルギーシステム課\n水素・燃料電池戦略室"
+  },
+  {
+    "projectName": "北方四島における風力発電実現可能性調査事業",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "省エネルギー・新エネルギー部\n政策課"
+  },
+  {
+    "projectName": "海洋エネルギー発電技術の早期実用化に向けた研究開発事業",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "新エネルギー課"
+  },
+  {
+    "projectName": "再生可能エネルギー出力制御量低減のための技術開発事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "新エネルギー課"
+  },
+  {
+    "projectName": "原子力発電施設等の周辺地域における大規模開発地区への企業立地促進事業費",
+    "ministry": "経済産業省",
+    "bureau": "地域経済産業グループ",
+    "department": "地域産業基盤整備課"
+  },
+  {
+    "projectName": "電力需給・系統関連調査委託費",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "電力基盤整備課"
+  },
+  {
+    "projectName": "原子力の利用状況等に関する調査委託費",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "原子力政策課　原子力技術室"
+  },
+  {
+    "projectName": "低レベル放射性廃棄物の処分に関する技術開発委託費",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "放射性廃棄物対策課"
+  },
+  {
+    "projectName": "高レベル放射性廃棄物等の地層処分に関する技術開発委託費",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "放射性廃棄物対策課"
+  },
+  {
+    "projectName": "放射性廃棄物共通技術調査等委託費",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "放射性廃棄物対策課"
+  },
+  {
+    "projectName": "海外におけるウラン探鉱支援事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "原子力政策課　原子力国際協力推進室"
+  },
+  {
+    "projectName": "国際原子力機関知識管理プロジェクト拠出金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "原子力政策課　原子力国際協力推進室"
+  },
+  {
+    "projectName": "原子力の安全性向上に資する共通基盤整備のための技術開発委託費",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "原子力政策課　原子力技術室"
+  },
+  {
+    "projectName": "原子力の安全性向上に資する技術開発事業\n（旧：原子力の安全性向上に資する技術開発費補助金）",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "原子力政策課　原子力技術室"
+  },
+  {
+    "projectName": "高速炉の国際協力等に関する技術開発委託費",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "原子力政策課　原子力技術室"
+  },
+  {
+    "projectName": "原子力の安全性向上を担う人材の育成事業委託費",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "原子力政策課　原子力技術室"
+  },
+  {
+    "projectName": "放射性廃棄物の減容化に向けたガラス固化技術の基盤研究委託事業",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁電力・ガス事業部",
+    "department": "原子力立地・核燃料サイクル産業課"
+  },
+  {
+    "projectName": "電源地域振興特別融資促進事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "経済産業省　資源エネルギー庁　\n電力・ガス事業部",
+    "department": "電力基盤整備課"
+  },
+  {
+    "projectName": "原子力発電施設等周辺地域企業立地支援事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "経済産業省　資源エネルギー庁　\n電力・ガス事業部",
+    "department": "電力基盤整備課"
+  },
+  {
+    "projectName": "深地層の研究施設を使用した試験研究成果に基づく当該施設の理解促進事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "放射性廃棄物対策課"
+  },
+  {
+    "projectName": "原子力発電の制度整備のための国際協力事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "原子力政策課　原子力国際協力推進室"
+  },
+  {
+    "projectName": "電源立地地域対策交付金",
+    "ministry": "経済産業省",
+    "bureau": "経済産業省　資源エネルギー庁　\n電力・ガス事業部",
+    "department": "電力基盤整備課"
+  },
+  {
+    "projectName": "広報・調査等交付金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "原子力立地政策室・原子力広報室"
+  },
+  {
+    "projectName": "交付金事務等交付金",
+    "ministry": "経済産業省",
+    "bureau": "経済産業省　資源エネルギー庁　\n電力・ガス事業部",
+    "department": "電力基盤整備課"
+  },
+  {
+    "projectName": "原子力発電施設等立地地域特別交付金",
+    "ministry": "経済産業省",
+    "bureau": "経済産業省　資源エネルギー庁　\n電力・ガス事業部",
+    "department": "電力基盤整備課"
+  },
+  {
+    "projectName": "原子力発電施設立地地域共生交付金",
+    "ministry": "経済産業省",
+    "bureau": "経済産業省　資源エネルギー庁　\n電力・ガス事業部",
+    "department": "電力基盤整備課"
+  },
+  {
+    "projectName": "核燃料サイクル交付金",
+    "ministry": "経済産業省",
+    "bureau": "経済産業省　資源エネルギー庁　\n電力・ガス事業部",
+    "department": "電力基盤整備課"
+  },
+  {
+    "projectName": "国際原子力機関拠出金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "原子力政策課　原子力国際協力推進室"
+  },
+  {
+    "projectName": "経済協力開発機構原子力機関拠出金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "原子力政策課 原子力国際協力推進室\n原子力発電所事故収束対応室"
+  },
+  {
+    "projectName": "原子力発電施設等立地地域基盤整備支援事業",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "原子力立地政策室・原子力広報室"
+  },
+  {
+    "projectName": "原子力に関する国民理解促進のための広聴・広報事業費",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "原子力立地政策室・原子力広報室\n核燃料サイクル産業立地対策室\n放射性廃棄物対策技術室\n原子力発電所事故収束対応室"
+  },
+  {
+    "projectName": "原子力損害賠償・廃炉等支援機構交付金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "電力産業・市場室"
+  },
+  {
+    "projectName": "福島特定原子力施設地域振興交付金",
+    "ministry": "経済産業省",
+    "bureau": "経済産業省　資源エネルギー庁　\n電力・ガス事業部",
+    "department": "電力基盤整備課"
+  },
+  {
+    "projectName": "電力市場環境調査事業",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "電力産業・市場室"
+  },
+  {
+    "projectName": "国連気候変動枠組条約拠出金",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "地球環境連携室"
+  },
+  {
+    "projectName": "資源有効利用促進等資金利子補給金",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "資源循環経済課"
+  },
+  {
+    "projectName": "気候変動適応効果可視化事業",
+    "ministry": "経済産業省",
+    "bureau": "経済産業省産業技術環境局",
+    "department": "地球環境連携室"
+  },
+  {
+    "projectName": "地球温暖化問題等対策調査",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "環境政策課"
+  },
+  {
+    "projectName": "産業公害防止対策推進調査・指導費",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "環境管理推進室"
+  },
+  {
+    "projectName": "中小企業等産業公害防止対策調査費（（積算）省資源・再資源化政策推進）",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "資源循環経済課"
+  },
+  {
+    "projectName": "低炭素技術を輸出するための人材育成支援事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "貿易経済協力局",
+    "department": "技術・人材協力課"
+  },
+  {
+    "projectName": "地球温暖化・資源循環対策等に資する調査委託費",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "環境政策課"
+  },
+  {
+    "projectName": "CCUS研究開発・実証関連事業（旧:CCS研究開発・実証関連事業）",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "地球環境対策室"
+  },
+  {
+    "projectName": "認証排出削減量等取得委託費",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "地球環境連携室"
+  },
+  {
+    "projectName": "二国間クレジット取得等のためのインフラ整備調査事業委託費",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "地球環境連携室"
+  },
+  {
+    "projectName": "地球温暖化対策における国際機関等連携事業委託費",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "地球環境対策室\n環境経済室\n国際室\nエネルギー・環境イノベーション戦略室"
+  },
+  {
+    "projectName": "国内における温室効果ガス排出削減・吸収量認証制度の実施委託費",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "環境経済室"
+  },
+  {
+    "projectName": "CO2貯留適地の調査事業",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "地球環境対策室"
+  },
+  {
+    "projectName": "CO2分離回収技術の研究開発事業",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "地球環境対策室"
+  },
+  {
+    "projectName": "気候変動対策に係る国際会議の開催等によるエネルギー・環境技術イノベーション創出のための国際連携推進事業",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "総務課　国際室"
+  },
+  {
+    "projectName": "民間主導によるJCM等を通じた低炭素技術国際展開事業",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "地球環境連携室"
+  },
+  {
+    "projectName": "省エネ型資源循環システムのアジア展開に向けた実証事業",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "資源循環経済課"
+  },
+  {
+    "projectName": "資源循環システム高度化促進事業（旧：高効率な資源循環システムを構築するためのリサイクル技術の研究開発事業 ）",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "資源循環経済課\n金属技術室\n情報産業課\n鉱物資源課"
+  },
+  {
+    "projectName": "国連気候変動枠組条約拠出金",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "地球環境連携室"
+  },
+  {
+    "projectName": "証券監督者国際機構（ＩＯＳＣＯ）分担金",
+    "ministry": "経済産業省",
+    "bureau": "商務・サービスグループ",
+    "department": "参事官室（商品市場整備担当）"
+  },
+  {
+    "projectName": "商取引・サービス環境の適正化に係る事業",
+    "ministry": "経済産業省",
+    "bureau": "商務・サービスグループ",
+    "department": "参事官室"
+  },
+  {
+    "projectName": "経済協力開発機構環境政策委員会化学品プロジェクト分担金",
+    "ministry": "経済産業省",
+    "bureau": "経済産業省",
+    "department": "化学物質管理課"
+  },
+  {
+    "projectName": "ロッテルダム条約事務局経費分担金",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "化学物質管理課"
+  },
+  {
+    "projectName": "ストックホルム条約事務局経費分担金",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "化学物質管理課"
+  },
+  {
+    "projectName": "経済協力開発機構環境政策委員会化学品プロジェクト拠出金",
+    "ministry": "経済産業省",
+    "bureau": "経済産業省",
+    "department": "化学物質管理課"
+  },
+  {
+    "projectName": "化学物質規制対策事業",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "化学物質管理課"
+  },
+  {
+    "projectName": "水銀に関する水俣条約事務局経費分担金",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "化学物質管理課"
+  },
+  {
+    "projectName": "政策評価業務",
+    "ministry": "経済産業省",
+    "bureau": "大臣官房",
+    "department": "政策評価広報課"
+  },
+  {
+    "projectName": "庁舎施設設備",
+    "ministry": "経済産業省",
+    "bureau": "大臣官房",
+    "department": "厚生企画室"
+  },
+  {
+    "projectName": "経済産業政策・第四次産業革命関係調査事業\n（旧：産業経済研究委託事業）",
+    "ministry": "経済産業省",
+    "bureau": "経済産業政策局\n電力・ガス取引監視等委員会",
+    "department": "総務課\n総務課"
+  },
+  {
+    "projectName": "市場競争環境評価調査費（事務費）",
+    "ministry": "経済産業省",
+    "bureau": "経済産業政策局",
+    "department": "競争環境整備室"
+  },
+  {
+    "projectName": "内外価格動向等調査（事務費）",
+    "ministry": "経済産業省",
+    "bureau": "経済産業政策局",
+    "department": "調査課"
+  },
+  {
+    "projectName": "独立行政法人経済産業研究所運営費交付金",
+    "ministry": "経済産業省",
+    "bureau": "経済産業政策局",
+    "department": "産業構造課"
+  },
+  {
+    "projectName": "独立行政法人日本貿易振興機構運営費交付金",
+    "ministry": "経済産業省",
+    "bureau": "通商政策局",
+    "department": "総務課"
+  },
+  {
+    "projectName": "国立研究開発法人産業技術総合研究所運営費交付金",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "産業技術総合研究所室"
+  },
+  {
+    "projectName": "国立研究開発法人産業技術総合研究所施設整備費補助金",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "研究開発課\n産業技術プロジェクト推進室\n産業技術総合研究所室"
+  },
+  {
+    "projectName": "国立研究開発法人新エネルギー・産業技術総合開発機構\n一般管理費",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "新エネルギー・産業技術総合開発機構室"
+  },
+  {
+    "projectName": "独立行政法人製品評価技術基盤機構運営費交付金",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "基準認証政策課\n製品評価技術基盤機構室"
+  },
+  {
+    "projectName": "独立行政法人製品評価技術基盤機構施設整備費補助金",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "基準認証政策課\n製品評価技術基盤機構室"
+  },
+  {
+    "projectName": "独立行政法人情報処理推進機構運営費交付金",
+    "ministry": "経済産業省",
+    "bureau": "商務情報政策局",
+    "department": "総務課"
+  },
+  {
+    "projectName": "独立行政法人石油天然ガス・金属鉱物資源機構運営費交付金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "鉱物資源課"
+  },
+  {
+    "projectName": "独立行政法人中小企業基盤整備機構運営費交付金",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁",
+    "department": "長官官房総務課"
+  },
+  {
+    "projectName": "国立研究開発法人新エネルギー・産業技術総合開発機構\n一般管理費（エネルギー需給勘定）",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "新エネルギー・産業技術総合開発機構室"
+  },
+  {
+    "projectName": "事務費（エネルギー需給勘定）",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "総務課会計室"
+  },
+  {
+    "projectName": "事務費（電源開発促進勘定）",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "総務課会計室"
+  },
+  {
+    "projectName": "独立行政法人石油天然ガス・金属鉱物資源機構運営費交付金（人件費及び管理費分）",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "政策課"
+  },
+  {
+    "projectName": "独立行政法人工業所有権情報・研修館運営費交付金",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "総務部　総務課\n(独)工業所有権情報・研修館室"
+  },
+  {
+    "projectName": "工業所有権研究等委託費\n（工業所有権研究推進事業）",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "総務部　企画調査課"
+  },
+  {
+    "projectName": "工業所有権調査等委託費\n（各国における知的財産権制度基盤整備事業）",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "総務部　国際協力課"
+  },
+  {
+    "projectName": "工業所有権調査等委託費\n（知的財産権ワーキング・グループ等侵害対策強化事業）",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局\n商務情報政策局",
+    "department": "模倣品対策室\nコンテンツ産業課"
+  },
+  {
+    "projectName": "工業所有権調査等委託費\n（台湾における知的財産権制度基盤整備事業）",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "総務部　国際協力課"
+  },
+  {
+    "projectName": "工業所有権調査等委託費\n（知的財産国際権利化戦略推進事業）",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "総務部　企画調査課"
+  },
+  {
+    "projectName": "知的財産保護包括協力推進事業",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "総務部国際政策課"
+  },
+  {
+    "projectName": "外国工業所有権制度支援事業委託費\n(産業財産権人材育成事業)",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "総務部　国際協力課"
+  },
+  {
+    "projectName": "世界知的所有権機関拠出金",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "総務部　国際協力課"
+  },
+  {
+    "projectName": "世界知的所有権機関事務局分担金",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "総務部　国際政策課"
+  },
+  {
+    "projectName": "経済協力開発機構拠出金",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "総務部　企画調査課"
+  },
+  {
+    "projectName": "特許微生物寄託等業務委託費",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "総務部　企画調査課"
+  },
+  {
+    "projectName": "賠償償還及払戻金",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "総務部　会計課"
+  },
+  {
+    "projectName": "東アジア経済統合研究協力拠出金",
+    "ministry": "経済産業省",
+    "bureau": "特許庁総務部",
+    "department": "国際協力課"
+  },
+  {
+    "projectName": "国際出願促進交付金",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "審査業務部出願課国際出願室"
+  },
+  {
+    "projectName": "中小企業知的財産活動支援事業費補助金\n(中小企業等外国出願支援事業)",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "総務部　普及支援課"
+  },
+  {
+    "projectName": "中小企業知的財産活動支援事業費補助金\n(中小企業等海外侵害対策支援事業)",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "総務部　普及支援課"
+  },
+  {
+    "projectName": "中小企業等知的財産活用支援事業委託費\n（中小企業知的財産金融促進事業）",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "総務部　普及支援課"
+  },
+  {
+    "projectName": "中小企業知的財産活動支援事業費補助金\n（日本発知的財産活用ビジネス化支援事業）",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "総務部　普及支援課"
+  },
+  {
+    "projectName": "中小企業知的財産活動支援事業費補助金\n（地域中小企業知的財産支援力強化事業）",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "総務部　普及支援課"
+  },
+  {
+    "projectName": "工業所有権制度問題研究費（事務費）",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "総務部　企画調査課"
+  },
+  {
+    "projectName": "知的財産活動統計調査費（事務費）",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "総務部　企画調査課"
+  },
+  {
+    "projectName": "Ｆターム等を用いた先行技術文献調査外注費",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "審査第一部調整課審査推進室"
+  },
+  {
+    "projectName": "特許出願技術動向調査分析費（事務費）",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "総務部　企画調査課"
+  },
+  {
+    "projectName": "分類・Ｆターム一元付与実施費（事務費）",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "審査第一部調整課審査推進室"
+  },
+  {
+    "projectName": "化学物質関係資料整備費（事務費）",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "審査第一部\n調整課審査推進室"
+  },
+  {
+    "projectName": "事務費（組織：特許庁）",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "総務課\n会計課"
+  },
+  {
+    "projectName": "システムインテグレーション実施費（事務費）",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "総務部　総務課　情報技術統括室"
+  },
+  {
+    "projectName": "成果重視事業特許事務機械化庁費（事務費）",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "総務部　総務課　情報技術統括室"
+  },
+  {
+    "projectName": "施設整備費",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "総務部会計課厚生管理室"
+  },
+  {
+    "projectName": "中小企業知的財産活用支援事業委託費\n（巡回特許庁支援事業）",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "総務部　普及支援課"
+  },
+  {
+    "projectName": "中小企業知的財産活動支援事業費補助金\n（海外知財訴訟保険事業）",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "総務部　普及支援課"
+  },
+  {
+    "projectName": "工業所有権研究等委託費\n（地方創生のための事業プロデューサー派遣事業）",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "総務部　企画調査課"
+  },
+  {
+    "projectName": "工業所有権研究等委託費（特許行政高度化調査事業）",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "総務部　総務課"
+  },
+  {
+    "projectName": "工業所有権研究等委託費\n（創業期ベンチャー企業に対する知財戦略構築等支援事業）",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "総務部　企画調査課"
+  },
+  {
+    "projectName": "IoT社会実現のための革新的センシング技術開発",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局、製造産業局、商務・サービスG",
+    "department": "産業技術プロジェクト推進室\n素材産業課\n生物化学産業課\n産業機械課"
+  },
+  {
+    "projectName": "積層造形部品開発の効率化のための基盤技術開発事業",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "素形材産業室"
+  },
+  {
+    "projectName": "水道施設情報整備促進事業",
+    "ministry": "経済産業省",
+    "bureau": "商務情報政策",
+    "department": "情報産業課"
+  },
+  {
+    "projectName": "製造業における外国人材受入れ支援事業",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局\n経済産業政策局",
+    "department": "製造産業局総務課\n産業人材政策室"
+  },
+  {
+    "projectName": "先進的医療機器・システム等技術開発事業",
+    "ministry": "経済産業省",
+    "bureau": "商務・サービスグループ",
+    "department": "ヘルスケア産業課医療・福祉機器産業室"
+  },
+  {
+    "projectName": "認知症対策官民イノベーション実証基盤整備事業費",
+    "ministry": "経済産業省",
+    "bureau": "商務・サービスグループ",
+    "department": "ヘルスケア産業課"
+  },
+  {
+    "projectName": "Connected Industries推進のための協調領域データ共有・AIシステム開発促進事業",
+    "ministry": "経済産業省",
+    "bureau": "商務情報政策局",
+    "department": "情報経済課"
+  },
+  {
+    "projectName": "学びと社会の連携促進事業",
+    "ministry": "経済産業省",
+    "bureau": "商務・サービスグループ",
+    "department": "サービス政策課 教育産業室"
+  },
+  {
+    "projectName": "ローカルクールジャパン推進事業",
+    "ministry": "経済産業省",
+    "bureau": "商務・サービスグループ",
+    "department": "クールジャパン政策課"
+  },
+  {
+    "projectName": "サイバー・フィジカル・セキュリティ対策促進事業",
+    "ministry": "経済産業省",
+    "bureau": "商務情報政策局",
+    "department": "サイバーセキュリティ課"
+  },
+  {
+    "projectName": "重要技術管理体制強化事業",
+    "ministry": "経済産業省",
+    "bureau": "貿易経済協力局貿易管理部\n経済産業政策局",
+    "department": "安全保障貿易管理政策課\n知的財産政策室"
+  },
+  {
+    "projectName": "ものづくり・商業・サービス高度連携促進事業",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁",
+    "department": "経営支援部技術・経営革新課"
+  },
+  {
+    "projectName": "地域創業機運醸成事業",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁",
+    "department": "創業・新事業促進課"
+  },
+  {
+    "projectName": "地方公共団体による小規模事業者支援推進事業",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁経営支援部",
+    "department": "小規模企業振興課"
+  },
+  {
+    "projectName": "地域小規模事業者支援人材育成委託費",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁\n地域経済産業グループ\n商務・サービスグループ",
+    "department": "小規模企業振興課\n中心市街地活性化室\nクールジャパン政策課"
+  },
+  {
+    "projectName": "地域まちなか活性化・魅力創出支援事業",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁\n地域経済産業グループ",
+    "department": "商業課\n中心市街地活性化室"
+  },
+  {
+    "projectName": "JAPANブランド育成支援等事業（旧　国内・海外販路開拓強化支援事業）",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁",
+    "department": "中小企業庁創業・新事業促進課\n中小企業庁財務課\n通商政策局総務課\n貿易経済協力局投資促進課"
+  },
+  {
+    "projectName": "商店街活性化・観光消費創出事業",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁",
+    "department": "商業課"
+  },
+  {
+    "projectName": "次世代燃料供給体制構築支援事業費",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　資源・燃料部",
+    "department": "石油流通課"
+  },
+  {
+    "projectName": "電力需要の低減に資する設備投資支援事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "省エネルギー課"
+  },
+  {
+    "projectName": "ネット・ゼロ・エネルギー・ハウスを活用したレジリエンス強化事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "省エネルギー課"
+  },
+  {
+    "projectName": "災害時に活用可能な家庭用蓄電システム導入促進事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "新エネルギーシステム課"
+  },
+  {
+    "projectName": "貨物輸送事業者と荷主の連携等による運輸部門省エネルギー化推進事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁省エネルギー・新エネルギー部、\n国土交通省自動車局、\n国土交通省海事局、",
+    "department": "省エネルギー課、\n自動車局貨物課、\n自動車局整備課、\n海事局海洋・環境政策課"
+  },
+  {
+    "projectName": "次世代電動航空機に関する技術開発事業",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "航空機武器宇宙産業課"
+  },
+  {
+    "projectName": "社会的要請に応える革新的な原子力技術開発支援事業",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "原子力政策課　原子力技術室"
+  },
+  {
+    "projectName": "キャッシュレス・消費者還元事業",
+    "ministry": "経済産業省",
+    "bureau": "商務・サービスグループ",
+    "department": "キャッシュレス推進室"
+  },
+  {
+    "projectName": "オゾン層を破壊する物質に関するモントリオール議定書多数国間基金分担金（2018-2020年増資分）",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "化学物質管理課オゾン層保護等推進室"
+  },
+  {
+    "projectName": "経済産業局施設費",
+    "ministry": "経済産業省",
+    "bureau": "地域経済産業グループ",
+    "department": "地方調整室"
+  },
+  {
+    "projectName": "中小企業知的財産活動支援事業費補助金\n(中小企業等海外出願・侵害対策支援事業)",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "総務部　普及支援課"
+  },
+  {
+    "projectName": "中小企業知的財産活動支援事業費補助金\n(戦略的知財活用型中小企業海外展開支援事業)",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "総務部　普及支援課"
+  },
+  {
+    "projectName": "中小企業等知的財産活用支援事業委託費\n（中小企業知財経営支援金融機能活用促進事業）",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "総務部　普及支援課"
+  },
+  {
+    "projectName": "工業所有権研究等委託費(大学等の革新的な研究成果の権利取得・活用支援事業)",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "総務部　企画調査課"
+  },
+  {
+    "projectName": "工業所有権研究等委託費（ベンチャー知財支援基盤整備事業）",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "総務部　企画調査課"
+  },
+  {
+    "projectName": "工業所有権研究等委託費(商標における民間調査者の活用可能性実証事業)",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "審査業務部商標課"
+  },
+  {
+    "projectName": "工業所有権研究等委託費(特許行政サービス改善調査委託事業)",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "総務課広報室"
+  },
+  {
+    "projectName": "官民による若手研究者発掘支援事業",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局\n商務・サービスグループ",
+    "department": "大学連携推進室\n医療・福祉機器産業室"
+  },
+  {
+    "projectName": "産学融合拠点創出事業",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "大学連携推進室"
+  },
+  {
+    "projectName": "革新的ロボット研究開発等基盤構築事業",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "ロボット政策室"
+  },
+  {
+    "projectName": "医工連携イノベーション推進事業",
+    "ministry": "経済産業省",
+    "bureau": "商務・サービスグループ",
+    "department": "ヘルスケア産業課医療・福祉機器産業室"
+  },
+  {
+    "projectName": "健康・医療分野におけるムーンショット型研究開発事業",
+    "ministry": "経済産業省",
+    "bureau": "商務・サービスグループ",
+    "department": "ヘルスケア産業課\nヘルスケア産業課医療・福祉機器産業室"
+  },
+  {
+    "projectName": "規制改革推進のための国際連携事業",
+    "ministry": "経済産業省",
+    "bureau": "商務情報政策局",
+    "department": "総務課国際室"
+  },
+  {
+    "projectName": "AI人材連携による中小企業課題解決促進事業",
+    "ministry": "経済産業省",
+    "bureau": "商務情報政策局",
+    "department": "情報技術利用促進課\n情報経済課\n中小企業庁　経営支援部　技術・経営革新課"
+  },
+  {
+    "projectName": "流通・物流の効率化・付加価値創出に係る基盤構築事業",
+    "ministry": "経済産業省",
+    "bureau": "商務・サービスグループ",
+    "department": "消費・流通政策課"
+  },
+  {
+    "projectName": "共創型サービスIT連携支援事業",
+    "ministry": "経済産業省",
+    "bureau": "商務・サービスグループ",
+    "department": "サービス政策課"
+  },
+  {
+    "projectName": "ヘルスケアサービス社会実装事業",
+    "ministry": "経済産業省",
+    "bureau": "商務・サービスグループ",
+    "department": "ヘルスケア産業課"
+  },
+  {
+    "projectName": "現地進出支援強化事業",
+    "ministry": "経済産業省",
+    "bureau": "通商政策局",
+    "department": "通商政策局総務課\n貿易経済協力局投資促進課"
+  },
+  {
+    "projectName": "中堅・中小企業輸出ビジネスモデル調査・実証事業",
+    "ministry": "経済産業省",
+    "bureau": "貿易経済協力局",
+    "department": "貿易振興課"
+  },
+  {
+    "projectName": "事業承継時の経営者保証解除に向けた専門家による支援事業費",
+    "ministry": "経済産業省",
+    "bureau": "中小企業庁",
+    "department": "事業環境部金融課"
+  },
+  {
+    "projectName": "地域・企業共生型ビジネス導入・創業促進事業",
+    "ministry": "経済産業省",
+    "bureau": "地域経済産業グループ、中小企業庁",
+    "department": "地域産業基盤整備課\n創業・新事業促進課\n技術・経営革新課\n商業課"
+  },
+  {
+    "projectName": "エネルギー・環境分野の官民による若手研究者発掘支援事業",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "大学連携推進室"
+  },
+  {
+    "projectName": "炭素循環社会に貢献するセルロースナノファイバー関連技術開発事業",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "素材産業課"
+  },
+  {
+    "projectName": "次世代複合材創製技術開発事業",
+    "ministry": "経済産業省",
+    "bureau": "製造産業局",
+    "department": "航空機武器宇宙産業課"
+  },
+  {
+    "projectName": "カーボンリサイクル実現を加速するバイオ由来製品生産技術の開発事業",
+    "ministry": "経済産業省",
+    "bureau": "商務・サービスグループ",
+    "department": "生物化学産業課"
+  },
+  {
+    "projectName": "クリーンエネルギー分野における革新的技術の国際共同研究開発事業",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "国際室"
+  },
+  {
+    "projectName": "水素社会実現に向けた革新的燃料電池技術等の活用のための研究開発事業",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "新エネルギーシステム課\n水素・燃料電池戦略室"
+  },
+  {
+    "projectName": "太陽光発電の導入可能量拡大等に向けた技術開発事業",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁　省エネルギー・新エネルギー部",
+    "department": "新エネルギー課"
+  },
+  {
+    "projectName": "再生可能エネルギー導入促進のための高度な配電系統安定化制御技術の開発実証等事業",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "新エネルギー課\n新エネルギーシステム課"
+  },
+  {
+    "projectName": "地域の系統線を活用したエネルギー面的利用事業費補助金",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+    "department": "新エネルギーシステム課"
+  },
+  {
+    "projectName": "原子力産業基盤強化事業",
+    "ministry": "経済産業省",
+    "bureau": "資源エネルギー庁",
+    "department": "原子力政策課\n原子力政策課　原子力技術室"
+  },
+  {
+    "projectName": "プラスチック有効利用高度化事業",
+    "ministry": "経済産業省",
+    "bureau": "産業技術環境局",
+    "department": "資源循環経済課"
+  },
+  {
+    "projectName": "独法等の監視に係る次期システム構築事業",
+    "ministry": "経済産業省",
+    "bureau": "商務情報政策局",
+    "department": "サイバーセキュリティ課"
+  },
+  {
+    "projectName": "中小企業知的財産活動支援事業費補助金\n（中小企業知的財産支援事業）",
+    "ministry": "経済産業省",
+    "bureau": "特許庁",
+    "department": "総務部　普及支援課"
+  },
+  {
+    "projectName": "行政管理実施事業",
+    "ministry": "総務省",
+    "bureau": "行政管理局",
+    "department": "企画調整課"
+  },
+  {
+    "projectName": "行政評価等実施事業（総務本省）",
+    "ministry": "総務省",
+    "bureau": "行政評価局",
+    "department": "総務課"
+  },
+  {
+    "projectName": "行政評価等実施事業（管区行政評価局）",
+    "ministry": "総務省",
+    "bureau": "行政評価局",
+    "department": "総務課"
+  },
+  {
+    "projectName": "地方行政制度の整備に必要な経費\n（地方分権振興経費、市町村合併円滑化経費等除く。）",
+    "ministry": "総務省",
+    "bureau": "自治行政局",
+    "department": "行政課総務室（公務員課）"
+  },
+  {
+    "projectName": "市町村の合併円滑化に必要な経費",
+    "ministry": "総務省",
+    "bureau": "自治行政局",
+    "department": "市町村課"
+  },
+  {
+    "projectName": "地方議会の活性化に要する経費",
+    "ministry": "総務省",
+    "bureau": "自治行政局",
+    "department": "行政課"
+  },
+  {
+    "projectName": "地方独立行政法人の支援に要する経費",
+    "ministry": "総務省",
+    "bureau": "自治行政局",
+    "department": "行政経営支援室"
+  },
+  {
+    "projectName": "圏域における広域連携の推進等に要する経費",
+    "ministry": "総務省",
+    "bureau": "自治行政局",
+    "department": "市町村課"
+  },
+  {
+    "projectName": "業務改革モデルプロジェクトの実施に要する経費",
+    "ministry": "総務省",
+    "bureau": "自治行政局",
+    "department": "行政経営支援室"
+  },
+  {
+    "projectName": "基幹統計として実施する地方公務員給与実態調査に要する経費",
+    "ministry": "総務省",
+    "bureau": "自治行政局",
+    "department": "給与能率推進室"
+  },
+  {
+    "projectName": "会計年度任用職員制度の円滑な制度導入に向けた支援事業",
+    "ministry": "総務省",
+    "bureau": "自治行政局公務員部",
+    "department": "公務員課"
+  },
+  {
+    "projectName": "被災市区町村応援職員確保システム構築事業",
+    "ministry": "総務省",
+    "bureau": "自治行政局公務員部",
+    "department": "応援派遣室"
+  },
+  {
+    "projectName": "高齢地方公務員の活用方策等研究会事業",
+    "ministry": "総務省",
+    "bureau": "自治行政局",
+    "department": "女性活躍・人材活用推進室"
+  },
+  {
+    "projectName": "地域振興に必要な経費\n（「地域経済循環の創造」の推進に要する経費、過疎地域振興対策に要する経費、定住自立圏構想推進費等除く。）",
+    "ministry": "総務省",
+    "bureau": "自治行政局",
+    "department": "行政課総務室（国際室）"
+  },
+  {
+    "projectName": "「地域経済循環の創造」の推進に要する経費",
+    "ministry": "総務省",
+    "bureau": "自治行政局",
+    "department": "地域政策課"
+  },
+  {
+    "projectName": "過疎地域振興対策等に要する経費",
+    "ministry": "総務省",
+    "bureau": "自治行政局",
+    "department": "過疎対策室"
+  },
+  {
+    "projectName": "定住自立圏構想推進費",
+    "ministry": "総務省",
+    "bureau": "自治行政局",
+    "department": "地域自立応援課"
+  },
+  {
+    "projectName": "都市・農山漁村の教育交流による地域活性化推進に要する経費",
+    "ministry": "総務省",
+    "bureau": "自治行政局",
+    "department": "人材力活性化・連携交流推進室"
+  },
+  {
+    "projectName": "地方への移住・交流の推進に要する経費",
+    "ministry": "総務省",
+    "bureau": "自治行政局",
+    "department": "地域自立応援課"
+  },
+  {
+    "projectName": "地域おこし協力隊の推進に要する経費",
+    "ministry": "総務省",
+    "bureau": "自治行政局",
+    "department": "地域自立応援課"
+  },
+  {
+    "projectName": "2020年オリンピック・パラリンピック東京大会及びラグビーワールドカップ2019を通じた地域活性化に要する経費",
+    "ministry": "総務省",
+    "bureau": "自治行政局",
+    "department": "地域振興室"
+  },
+  {
+    "projectName": "地域運営組織の形成及び持続的な運営に要する経費",
+    "ministry": "総務省",
+    "bureau": "自治行政局",
+    "department": "地域振興室"
+  },
+  {
+    "projectName": "中南米日系社会と国内自治体との連携促進事業",
+    "ministry": "総務省",
+    "bureau": "自治行政局",
+    "department": "国際室"
+  },
+  {
+    "projectName": "地方財政制度の整備に必要な経費",
+    "ministry": "総務省",
+    "bureau": "自治財政局",
+    "department": "財政課総務室"
+  },
+  {
+    "projectName": "地方税制度の整備に必要な経費",
+    "ministry": "総務省",
+    "bureau": "自治税務局",
+    "department": "企画課総務室"
+  },
+  {
+    "projectName": "選挙制度等の整備に必要な経費\n（参加・実践等を通じた政治意識向上に要する経費除く。）",
+    "ministry": "総務省",
+    "bureau": "自治行政局",
+    "department": "行政課総務室（管理課）"
+  },
+  {
+    "projectName": "参加・実践等を通じた政治意識向上に要する経費",
+    "ministry": "総務省",
+    "bureau": "自治行政局選挙部",
+    "department": "管理課"
+  },
+  {
+    "projectName": "マイナンバーカードの選挙事務への活用等に関する調査研究事業・政見放送手話通訳士研修会の事務委託事業",
+    "ministry": "総務省",
+    "bureau": "自治行政局選挙部",
+    "department": "管理課"
+  },
+  {
+    "projectName": "情報システム高度化等推進事業",
+    "ministry": "総務省",
+    "bureau": "大臣官房",
+    "department": "企画課サイバーセキュリティ・情報化推進室"
+  },
+  {
+    "projectName": "総務省ＬＡＮ整備・運用事業",
+    "ministry": "総務省",
+    "bureau": "大臣官房",
+    "department": "企画課サイバーセキュリティ・情報化推進室"
+  },
+  {
+    "projectName": "総務省共通基盤支援設備整備・運用等事業",
+    "ministry": "総務省",
+    "bureau": "大臣官房",
+    "department": "企画課サイバーセキュリティ・情報化推進室"
+  },
+  {
+    "projectName": "総務省ホームページ運営事業",
+    "ministry": "総務省",
+    "bureau": "大臣官房",
+    "department": "政策評価広報課広報室"
+  },
+  {
+    "projectName": "電子政府関連事業（政府情報システム基盤整備）",
+    "ministry": "総務省",
+    "bureau": "行政管理局",
+    "department": "行政情報システム企画課"
+  },
+  {
+    "projectName": "総務省所管府省共通情報システムの一元的な管理・運営",
+    "ministry": "総務省",
+    "bureau": "行政管理局",
+    "department": "行政情報システム企画課"
+  },
+  {
+    "projectName": "電子政府関連事業（ＩＣＴ人材育成）",
+    "ministry": "総務省",
+    "bureau": "行政管理局",
+    "department": "行政情報システム企画課"
+  },
+  {
+    "projectName": "電子政府関連事業（国民利便生向上・行政透明化）",
+    "ministry": "総務省",
+    "bureau": "行政管理局",
+    "department": "行政情報システム企画課"
+  },
+  {
+    "projectName": "住民基本台帳ネットワークシステムセキュリティ対策経費",
+    "ministry": "総務省",
+    "bureau": "自治行政局",
+    "department": "住民制度課"
+  },
+  {
+    "projectName": "地方行税政統計等・災害時等における情報通信メディアの活用に要する経費",
+    "ministry": "総務省",
+    "bureau": "自治行政局",
+    "department": "地域情報政策室"
+  },
+  {
+    "projectName": "電磁的記録式投票導入支援経費",
+    "ministry": "総務省",
+    "bureau": "自治行政局選挙部",
+    "department": "管理課"
+  },
+  {
+    "projectName": "政治資金・政党助成関係申請・届出オンラインシステム運営等経費",
+    "ministry": "総務省",
+    "bureau": "自治行政局選挙部",
+    "department": "政治資金課"
+  },
+  {
+    "projectName": "地方財政決算情報管理システム等運営経費",
+    "ministry": "総務省",
+    "bureau": "自治財政局",
+    "department": "公営企業課\n財務調査課"
+  },
+  {
+    "projectName": "自治体クラウドの取組の加速に向けた調査研究等",
+    "ministry": "総務省",
+    "bureau": "自治行政局",
+    "department": "地域情報政策室"
+  },
+  {
+    "projectName": "社会保障・税番号制度の導入及び利活用の検討に要する経費（個人番号カードの普及・利活用に要する経費）",
+    "ministry": "総務省",
+    "bureau": "自治行政局",
+    "department": "住民制度課"
+  },
+  {
+    "projectName": "電子調達システムの維持運用",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "情報流通振興課"
+  },
+  {
+    "projectName": "社会保障・税に関わる番号制度に関するシステム構築等に要する経費",
+    "ministry": "総務省",
+    "bureau": "自治行政局",
+    "department": "住民制度課"
+  },
+  {
+    "projectName": "番号制度の実施に必要なシステム整備等事業",
+    "ministry": "総務省",
+    "bureau": "大臣官房",
+    "department": "個人番号企画室"
+  },
+  {
+    "projectName": "電子行政サービスの改善方策に関する調査研究等に要する経費",
+    "ministry": "総務省",
+    "bureau": "自治行政局",
+    "department": "地域情報政策室"
+  },
+  {
+    "projectName": "女性活躍等に対応したマイナンバーカード等の記載事項の充実等に必要な経費",
+    "ministry": "総務省",
+    "bureau": "自治行政局",
+    "department": "住民制度課"
+  },
+  {
+    "projectName": "自治体情報セキュリティ強化対策事業",
+    "ministry": "総務省",
+    "bureau": "自治行政局",
+    "department": "地域情報政策室"
+  },
+  {
+    "projectName": "社会保障・税番号制度システム開発等委託費\n（電子証明書のスマートフォンへの格納に要する経費）",
+    "ministry": "総務省",
+    "bureau": "自治行政局",
+    "department": "住民制度課"
+  },
+  {
+    "projectName": "戦略的情報通信研究開発推進事業",
+    "ministry": "総務省",
+    "bureau": "国際戦略局",
+    "department": "技術政策課\n通信規格課"
+  },
+  {
+    "projectName": "情報通信分野の研究開発に関する調査研究",
+    "ministry": "総務省",
+    "bureau": "国際戦略局",
+    "department": "技術政策課"
+  },
+  {
+    "projectName": "情報通信分野における戦略的な標準化活動の推進",
+    "ministry": "総務省",
+    "bureau": "国際戦略局",
+    "department": "通信規格課"
+  },
+  {
+    "projectName": "ICTイノベーション創出チャレンジプログラム",
+    "ministry": "総務省",
+    "bureau": "国際戦略局",
+    "department": "技術政策課"
+  },
+  {
+    "projectName": "海洋資源調査のための次世代衛星通信技術に関する研究開発",
+    "ministry": "総務省",
+    "bureau": "国際戦略局",
+    "department": "宇宙通信政策課"
+  },
+  {
+    "projectName": "グローバルコミュニケーション計画の推進 -多言語音声翻訳技術の研究開発及び社会実証-",
+    "ministry": "総務省",
+    "bureau": "国際戦略局",
+    "department": "技術政策課　研究推進室"
+  },
+  {
+    "projectName": "IoT共通基盤技術の確立・実証",
+    "ministry": "総務省",
+    "bureau": "国際戦略局",
+    "department": "通信規格課\n技術政策課研究推進室"
+  },
+  {
+    "projectName": "医療・介護・健康データ利活用基盤高度化事業（医療研究開発推進事業費補助金）",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "情報流通高度化推進室"
+  },
+  {
+    "projectName": "ナショナルサイバートレーニングセンターの構築",
+    "ministry": "総務省",
+    "bureau": "サイバーセキュリティ統括官",
+    "department": "サイバーセキュリティ統括官（室）"
+  },
+  {
+    "projectName": "「IoT/BD/AI情報通信プラットフォーム」社会実装推進事業",
+    "ministry": "総務省",
+    "bureau": "国際戦略局",
+    "department": "技術政策課\n通信規格課"
+  },
+  {
+    "projectName": "次世代人工知能技術の研究開発",
+    "ministry": "総務省",
+    "bureau": "国際戦略局",
+    "department": "技術政策課研究推進室"
+  },
+  {
+    "projectName": "IoTセキュリティ総合対策の推進",
+    "ministry": "総務省",
+    "bureau": "サイバーセキュリティ統括官",
+    "department": "サイバーセキュリティ統括官（室）"
+  },
+  {
+    "projectName": "衛星通信における量子暗号技術の研究開発",
+    "ministry": "総務省",
+    "bureau": "国際戦略局",
+    "department": "宇宙通信政策課"
+  },
+  {
+    "projectName": "革新的AIネットワーク統合基盤技術の研究開発",
+    "ministry": "総務省",
+    "bureau": "総合通信基盤局",
+    "department": "電気通信技術システム課"
+  },
+  {
+    "projectName": "新たな社会インフラを担う革新的光ネットワーク技術の研究開発",
+    "ministry": "総務省",
+    "bureau": "国際戦略局\n総合通信基盤局",
+    "department": "技術政策課研究推進室\n電気通信技術システム課"
+  },
+  {
+    "projectName": "高度対話エージェント技術の研究開発・実証",
+    "ministry": "総務省",
+    "bureau": "国際戦略局",
+    "department": "技術政策課研究推進室"
+  },
+  {
+    "projectName": "災害時における多言語音声翻訳システムの高度化",
+    "ministry": "総務省",
+    "bureau": "国際戦略局",
+    "department": "技術政策課　研究推進室"
+  },
+  {
+    "projectName": "地域情報化の推進（本省）",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "地域通信振興課"
+  },
+  {
+    "projectName": "通信・放送分野における情報バリアフリー促進支援事業",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "情報流通振興課情報活用支援室"
+  },
+  {
+    "projectName": "字幕番組、解説番組、手話番組等の制作促進",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "地上放送課"
+  },
+  {
+    "projectName": "全省庁的統一資格審査実施経費",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "情報流通振興課"
+  },
+  {
+    "projectName": "電気通信行政情報システムの維持運用",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "情報流通振興課"
+  },
+  {
+    "projectName": "情報通信政策のための総合的な調査研究",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "情報通信政策課情報通信経済室"
+  },
+  {
+    "projectName": "情報通信技術の利活用に関する調査研究",
+    "ministry": "総務省",
+    "bureau": "総務省情報流通行政局\nサイバーセキュリティ統括官",
+    "department": "情報流通振興課\nサイバーセキュリティ統括官（室）"
+  },
+  {
+    "projectName": "地域情報化の推進（地方）",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "地域通信振興課"
+  },
+  {
+    "projectName": "ふるさとテレワーク推進事業",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "地域通信振興課"
+  },
+  {
+    "projectName": "ICTスマートシティ整備推進事業",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "地域通信振興課"
+  },
+  {
+    "projectName": "ウェブアクセシビリティ等に関する調査研究",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "情報流通振興課情報活用支援室"
+  },
+  {
+    "projectName": "公的個人認証サービス利活用推進事業",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "情報流通振興課"
+  },
+  {
+    "projectName": "地域防災等のためのＧ空間情報の利活用推進",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "地域通信振興課"
+  },
+  {
+    "projectName": "ＩＣＴ技術を活用した子育て・高齢者支援街づくり事業（テレワークの普及促進）",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "情報流通振興課\n情報流通高度化推進室"
+  },
+  {
+    "projectName": "IoTサービス創出支援事業",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "情報流通振興課"
+  },
+  {
+    "projectName": "医療・介護・健康データ利活用基盤高度化事業",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "情報流通高度化推進室"
+  },
+  {
+    "projectName": "IoTネットワーク運用人材育成事業",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "情報通信政策課"
+  },
+  {
+    "projectName": "スマートスクール・プラットフォーム実証事業",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "情報流通振興課情報活用支援室"
+  },
+  {
+    "projectName": "放送コンテンツ海外展開総合強化事業",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "情報通信作品振興課\n放送コンテンツ海外流通推進室"
+  },
+  {
+    "projectName": "競技会場におけるICT利活用促進事業",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "情報通信政策課"
+  },
+  {
+    "projectName": "次世代映像配信技術に関する実証",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "情報通信政策課/情報通信作品振興課/衛星・地域放送課/地域放送推進室"
+  },
+  {
+    "projectName": "地域ICTクラブ普及推進事業",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "情報流通振興課情報活用支援室"
+  },
+  {
+    "projectName": "視聴覚障害者等のための放送視聴支援事業",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "地上放送課"
+  },
+  {
+    "projectName": "地域オープンデータ推進事業",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "地域通信振興課地方情報化推進室"
+  },
+  {
+    "projectName": "放送コンテンツ海外展開強化事業",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "情報通信作品振興課\n放送コンテンツ海外流通推進室"
+  },
+  {
+    "projectName": "ブロックチェーン利活用推進事業",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "情報流通振興課"
+  },
+  {
+    "projectName": "情報信託機能活用促進事業",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "情報通信政策課"
+  },
+  {
+    "projectName": "地域IoT実装総合支援施策",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "地域通信振興課"
+  },
+  {
+    "projectName": "Ｌアラートを活用した災害対応支援システム構築に関する緊急対策事業",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "地域通信振興課"
+  },
+  {
+    "projectName": "パブリックビューイング会場等向けの避難情報の提供に係る緊急対策事業",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "情報通信政策課"
+  },
+  {
+    "projectName": "モバイル決済モデル推進事業",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "情報通信政策課"
+  },
+  {
+    "projectName": "革新的ビッグデータ処理技術導入推進事業",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "地域通信振興課\n地方情報化推進室"
+  },
+  {
+    "projectName": "地上基幹放送設備に関する緊急対策事業",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "地上放送課\n情報通信作品振興課"
+  },
+  {
+    "projectName": "放送ネットワーク整備支援事業",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "地上放送課\n地域放送推進室"
+  },
+  {
+    "projectName": "放送政策に関する調査研究",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "放送政策課"
+  },
+  {
+    "projectName": "国際放送の実施",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "放送政策課"
+  },
+  {
+    "projectName": "地域ＩＣＴ強靱化事業",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "地上放送課"
+  },
+  {
+    "projectName": "ケーブルテレビ事業者の光ケーブル化に関する緊急対策事業",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "地域放送推進室"
+  },
+  {
+    "projectName": "放送ネットワーク等災害復旧事業",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "地域放送推進室"
+  },
+  {
+    "projectName": "電気通信事業分野事業環境の整備のための調査研究",
+    "ministry": "総務省",
+    "bureau": "総合通信基盤局",
+    "department": "事業政策課\n料金サービス課\n番号企画室\nデータ通信課"
+  },
+  {
+    "projectName": "電気通信事業分野における消費者利益確保のための事務経費",
+    "ministry": "総務省",
+    "bureau": "総合通信基盤局",
+    "department": "消費者行政第一課\n消費者行政第二課"
+  },
+  {
+    "projectName": "電気通信事業分野における安全・信頼性確保のための事務経費",
+    "ministry": "総務省",
+    "bureau": "総合通信基盤局",
+    "department": "電気通信技術システム課\n電波環境課"
+  },
+  {
+    "projectName": "電気通信消費者権利の保障等推進経費（地方）",
+    "ministry": "総務省",
+    "bureau": "総合通信基盤局",
+    "department": "消費者行政第一課"
+  },
+  {
+    "projectName": "情報通信基盤整備推進事業",
+    "ministry": "総務省",
+    "bureau": "総合通信基盤局",
+    "department": "ブロードバンド整備推進室"
+  },
+  {
+    "projectName": "位置情報等のプライバシー情報の利活用モデル実証事業",
+    "ministry": "総務省",
+    "bureau": "総合通信基盤局",
+    "department": "消費者行政第二課"
+  },
+  {
+    "projectName": "国際ＶＨＦ周波数変更対策のための損失補償",
+    "ministry": "総務省",
+    "bureau": "総合通信基盤局電波部",
+    "department": "基幹・衛星移動通信課"
+  },
+  {
+    "projectName": "情報通信基盤災害復旧事業費補助金",
+    "ministry": "総務省",
+    "bureau": "総合通信基盤局",
+    "department": "ブロードバンド整備推進室"
+  },
+  {
+    "projectName": "迅速な応急復旧のための体制整備に関する緊急対策事業",
+    "ministry": "総務省",
+    "bureau": "総合通信基盤局",
+    "department": "電気通信技術システム課\n安全・信頼性対策室"
+  },
+  {
+    "projectName": "電波の監視等に必要な経費",
+    "ministry": "総務省",
+    "bureau": "総合通信基盤局",
+    "department": "電波環境課監視管理室"
+  },
+  {
+    "projectName": "総合無線局監理システムの構築と運用",
+    "ministry": "総務省",
+    "bureau": "総合通信基盤局電波部",
+    "department": "電波政策課電波利用料企画室"
+  },
+  {
+    "projectName": "総合無線局監理システムの制度改正等対応",
+    "ministry": "総務省",
+    "bureau": "総合通信基盤局電波部",
+    "department": "電波政策課電波利用料企画室"
+  },
+  {
+    "projectName": "電波の安全性に関する調査及び評価技術",
+    "ministry": "総務省",
+    "bureau": "総合通信基盤局",
+    "department": "電波環境課"
+  },
+  {
+    "projectName": "無線システム普及支援事業（携帯電話等エリア整備事業）",
+    "ministry": "総務省",
+    "bureau": "総合通信基盤局",
+    "department": "移動通信課\nブロードバンド整備推進室"
+  },
+  {
+    "projectName": "無線システム普及支援事業（地上デジタル放送への円滑な移行のための環境整備・支援）",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "地上放送課"
+  },
+  {
+    "projectName": "電波遮へい対策事業（トンネル等）",
+    "ministry": "総務省",
+    "bureau": "総合通信基盤局",
+    "department": "移動通信課\n電波環境課"
+  },
+  {
+    "projectName": "周波数の使用等に関するリテラシーの向上",
+    "ministry": "総務省",
+    "bureau": "総合通信基盤局",
+    "department": "電波環境課\n監視管理室"
+  },
+  {
+    "projectName": "電波資源拡大のための研究開発",
+    "ministry": "総務省",
+    "bureau": "総合通信基盤局",
+    "department": "電波政策課"
+  },
+  {
+    "projectName": "周波数逼迫対策技術試験事務",
+    "ministry": "総務省",
+    "bureau": "総合通信基盤局",
+    "department": "電波政策課"
+  },
+  {
+    "projectName": "無線技術等の国際標準化のための国際機関等との連絡調整事務",
+    "ministry": "総務省",
+    "bureau": "総合通信基盤局",
+    "department": "国際周波数政策室"
+  },
+  {
+    "projectName": "周波数の国際協調利用促進事業",
+    "ministry": "総務省",
+    "bureau": "総合通信基盤局",
+    "department": "基幹・衛星移動通信課"
+  },
+  {
+    "projectName": "標準電波による無線局への高精度周波数の提供",
+    "ministry": "総務省",
+    "bureau": "国際戦略局",
+    "department": "技術政策課"
+  },
+  {
+    "projectName": "無線システム普及支援事業(民放ラジオ難聴解消支援事業)",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "地上放送課"
+  },
+  {
+    "projectName": "IoT機器等の電波利用システムの適正利用のためのICT人材育成",
+    "ministry": "総務省",
+    "bureau": "国際戦略局\nサイバーセキュリティ統括官",
+    "department": "技術政策課\n宇宙通信政策課\nサイバーセキュリティ統括官（室）"
+  },
+  {
+    "projectName": "衛星放送用受信環境整備事業",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "放送技術課"
+  },
+  {
+    "projectName": "公衆無線LAN環境整備支援事業",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "地域通信振興課"
+  },
+  {
+    "projectName": "国際会議への対応",
+    "ministry": "総務省",
+    "bureau": "国際戦略局",
+    "department": "国際政策課"
+  },
+  {
+    "projectName": "国際電気通信連合（ITU）分担金・拠出金",
+    "ministry": "総務省",
+    "bureau": "国際戦略局",
+    "department": "国際政策課"
+  },
+  {
+    "projectName": "経済協力開発機構（ＯＥＣＤ）への拠出",
+    "ministry": "総務省",
+    "bureau": "国際戦略局",
+    "department": "国際経済課多国間経済室"
+  },
+  {
+    "projectName": "アジア・太平洋電気通信共同体（ＡＰＴ）分担金・拠出金",
+    "ministry": "総務省",
+    "bureau": "国際戦略局",
+    "department": "国際協力課"
+  },
+  {
+    "projectName": "ＩＣＴ発展に向けた日ＡＳＥＡＮ共同調査・研究事業",
+    "ministry": "総務省",
+    "bureau": "国際戦略局",
+    "department": "国際協力課"
+  },
+  {
+    "projectName": "国際情報収集・分析、戦略的な国際情報発信等の実施",
+    "ministry": "総務省",
+    "bureau": "国際戦略局",
+    "department": "国際政策課"
+  },
+  {
+    "projectName": "ＩＣＴ国際競争力強化パッケージ支援事業",
+    "ministry": "総務省",
+    "bureau": "国際戦略局",
+    "department": "国際政策課"
+  },
+  {
+    "projectName": "郵政行政における適正な監督",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局郵政行政部",
+    "department": "企画課"
+  },
+  {
+    "projectName": "郵政行政に係る国際政策の推進に必要な情報収集",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局郵政行政部",
+    "department": "郵便課国際企画室"
+  },
+  {
+    "projectName": "国際機関への貢献",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局郵政行政部",
+    "department": "郵便課国際企画室"
+  },
+  {
+    "projectName": "引揚者特別交付金支給事務費",
+    "ministry": "総務省",
+    "bureau": "大臣官房",
+    "department": "総務課管理室"
+  },
+  {
+    "projectName": "旧日本赤十字社救護看護婦処遇等経費",
+    "ministry": "総務省",
+    "bureau": "大臣官房",
+    "department": "総務課管理室"
+  },
+  {
+    "projectName": "不発弾等処理交付金",
+    "ministry": "総務省",
+    "bureau": "大臣官房",
+    "department": "総務課管理室"
+  },
+  {
+    "projectName": "一般戦災死没者の慰霊事業経費",
+    "ministry": "総務省",
+    "bureau": "大臣官房",
+    "department": "総務課管理室"
+  },
+  {
+    "projectName": "平和祈念展示等経費",
+    "ministry": "総務省",
+    "bureau": "大臣官房",
+    "department": "総務課管理室"
+  },
+  {
+    "projectName": "恩給支給事業",
+    "ministry": "総務省",
+    "bureau": "総務省政策統括官（恩給担当）",
+    "department": "総務省政策統括官付\n恩給企画管理官（室）"
+  },
+  {
+    "projectName": "統計調査の実施等事業（経常調査等）",
+    "ministry": "総務省",
+    "bureau": "統計局",
+    "department": "調査企画課"
+  },
+  {
+    "projectName": "統計調査の実施等事業（周期調査）",
+    "ministry": "総務省",
+    "bureau": "統計局",
+    "department": "調査企画課"
+  },
+  {
+    "projectName": "統計体系整備事業",
+    "ministry": "総務省",
+    "bureau": "総務省政策統括官（統計基準担当）",
+    "department": "総務省政策統括官付統計企画管理官室"
+  },
+  {
+    "projectName": "国連アジア太平洋統計研修所運営事業",
+    "ministry": "総務省",
+    "bureau": "総務省政策統括官（統計基準担当）",
+    "department": "国際統計管理官付国際研修協力官室"
+  },
+  {
+    "projectName": "統計調査等業務の最適化事業",
+    "ministry": "総務省",
+    "bureau": "統計局",
+    "department": "統計情報システム管理官"
+  },
+  {
+    "projectName": "緊急消防援助隊の機能強化",
+    "ministry": "総務省",
+    "bureau": "消防庁",
+    "department": "消防・救急課\n防災情報室\n参事官室\n消防研究センター\n広域応援室"
+  },
+  {
+    "projectName": "常備消防力の強化等地方公共団体における消防防災体制の充実強化",
+    "ministry": "総務省",
+    "bureau": "消防庁",
+    "department": "総務課\n消防・救急課\n救急企画室\n参事官室\n防災課\n防災情報室\n\n消防大学校"
+  },
+  {
+    "projectName": "消防団等地域防災力の充実強化",
+    "ministry": "総務省",
+    "bureau": "消防庁国民保護・防災部",
+    "department": "地域防災室"
+  },
+  {
+    "projectName": "Jアラートによる緊急情報の伝達体制の強化",
+    "ministry": "総務省",
+    "bureau": "消防庁",
+    "department": "国民保護室"
+  },
+  {
+    "projectName": "消防庁危機管理機能の充実・確保",
+    "ministry": "総務省",
+    "bureau": "消防庁",
+    "department": "総務課　ほか"
+  },
+  {
+    "projectName": "火災予防対策の推進",
+    "ministry": "総務省",
+    "bureau": "消防庁",
+    "department": "予防課"
+  },
+  {
+    "projectName": "危険物事故防止対策の推進",
+    "ministry": "総務省",
+    "bureau": "消防庁",
+    "department": "危険物保安室"
+  },
+  {
+    "projectName": "コンビナート災害対策等の推進",
+    "ministry": "総務省",
+    "bureau": "消防庁",
+    "department": "特殊災害室"
+  },
+  {
+    "projectName": "消防防災分野の研究開発に必要な経費",
+    "ministry": "総務省",
+    "bureau": "消防庁",
+    "department": "総務課\n予防課\n消防研究センター"
+  },
+  {
+    "projectName": "公害紛争処理等に必要な経費",
+    "ministry": "総務省",
+    "bureau": "公害等調整委員会",
+    "department": "事務局総務課"
+  },
+  {
+    "projectName": "国際行政学会等分担金",
+    "ministry": "総務省",
+    "bureau": "行政管理局",
+    "department": "管理官\n行政情報システム企画課"
+  },
+  {
+    "projectName": "国際統計協会分担金",
+    "ministry": "総務省",
+    "bureau": "政策統括官（統計基準担当）",
+    "department": "国際統計管理官室"
+  },
+  {
+    "projectName": "アジア地域行政会議等分担金",
+    "ministry": "総務省",
+    "bureau": "自治大学校",
+    "department": "研究部"
+  },
+  {
+    "projectName": "総務本省施設整備費（沿岸測定用簡易型鉄塔施設）",
+    "ministry": "総務省",
+    "bureau": "総合通信基盤局",
+    "department": "電波環境課認証推進室"
+  },
+  {
+    "projectName": "国立研究開発法人情報通信研究機構運営費交付金",
+    "ministry": "総務省",
+    "bureau": "国際戦略局",
+    "department": "技術政策課"
+  },
+  {
+    "projectName": "国立研究開発法人情報通信研究機構施設整備費補助金",
+    "ministry": "総務省",
+    "bureau": "国際戦略局",
+    "department": "技術政策課"
+  },
+  {
+    "projectName": "独立行政法人統計センター運営事業",
+    "ministry": "総務省",
+    "bureau": "統計局",
+    "department": "総務課"
+  },
+  {
+    "projectName": "政党助成事務委託費",
+    "ministry": "総務省",
+    "bureau": "自治行政局選挙部",
+    "department": "政党助成室"
+  },
+  {
+    "projectName": "四国総合通信局新営工事",
+    "ministry": "総務省",
+    "bureau": "四国総合通信局",
+    "department": "総務部財務室"
+  },
+  {
+    "projectName": "情報通信政策研究所オイルタンク増設工事",
+    "ministry": "総務省",
+    "bureau": "情報通信政策研究所",
+    "department": "総務部総務課"
+  },
+  {
+    "projectName": "自治体行政スマートプロジェクトの実施に要する経費",
+    "ministry": "総務省",
+    "bureau": "自治行政局",
+    "department": "行政経営支援室"
+  },
+  {
+    "projectName": "参議院議員通常選挙に必要な経費",
+    "ministry": "総務省",
+    "bureau": "自治行政局選挙部",
+    "department": "管理課"
+  },
+  {
+    "projectName": "ICTの利活用による投票環境向上に係る調査研究・政見放送手話通訳士研修会の事務委託事業",
+    "ministry": "総務省",
+    "bureau": "自治行政局選挙部",
+    "department": "管理課"
+  },
+  {
+    "projectName": "国民投票制度にかかる投開票速報システム改修に要する経費",
+    "ministry": "総務省",
+    "bureau": "自治行政局選挙部",
+    "department": "管理課"
+  },
+  {
+    "projectName": "在外選挙人の投票環境の向上のための調査・検証事業",
+    "ministry": "総務省",
+    "bureau": "自治行政局選挙部",
+    "department": "管理課"
+  },
+  {
+    "projectName": "マイナンバーカードを活用したプレミアムポイントに係る準備経費",
+    "ministry": "総務省",
+    "bureau": "自治行政局",
+    "department": "地域情報政策室"
+  },
+  {
+    "projectName": "電子委任状活用促進事業",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "情報通信政策課"
+  },
+  {
+    "projectName": "テレワーク普及展開推進事業",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "情報流通振興課\n情報流通高度化推進室"
+  },
+  {
+    "projectName": "障害者・高齢者のためのインクルーシブ社会推進事業",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "情報流通振興課\n情報活用支援室"
+  },
+  {
+    "projectName": "ＡＩネットワーク化の進展等に関する調査研究",
+    "ministry": "総務省",
+    "bureau": "情報通信政策研究所",
+    "department": "調査研究部"
+  },
+  {
+    "projectName": "サイバーセキュリティ情報共有推進事業",
+    "ministry": "総務省",
+    "bureau": "サイバーセキュリティ統括官",
+    "department": "サイバーセキュリティ統括官室"
+  },
+  {
+    "projectName": "諸外国におけるサイバーセキュリティ動向の調査研究",
+    "ministry": "総務省",
+    "bureau": "サイバーセキュリティ統括官",
+    "department": "サイバーセキュリティ統括官（室）"
+  },
+  {
+    "projectName": "放送コンテンツ製作取引における相談・紛争解決促進事業",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "情報通信作品振興課"
+  },
+  {
+    "projectName": "異システム間の周波数共用技術の高度化",
+    "ministry": "総務省",
+    "bureau": "総合通信基盤局電波部",
+    "department": "電波政策課"
+  },
+  {
+    "projectName": "公共安全LTEの実現に向けた総合実証",
+    "ministry": "総務省",
+    "bureau": "総合通信基盤局",
+    "department": "基幹・衛星移動通信課重要無線室"
+  },
+  {
+    "projectName": "電波伝搬の観測・分析等の推進",
+    "ministry": "総務省",
+    "bureau": "国際戦略局",
+    "department": "技術政策課\n研究推進室\n宇宙通信政策課"
+  },
+  {
+    "projectName": "無線システム普及支援事業（高度無線環境整備推進事業）",
+    "ministry": "総務省",
+    "bureau": "総合通信基盤局\n情報流通行政局",
+    "department": "ブロードバンド整備推進室\n地域放送推進室"
+  },
+  {
+    "projectName": "無線システム普及支援事業（地上基幹放送等に関する耐災害性強化支援事業）",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "地上放送課"
+  },
+  {
+    "projectName": "IoTの安心・安全かつ適正な利用環境の構築",
+    "ministry": "総務省",
+    "bureau": "サイバーセキュリティ統括官\n情報流通行政局\n総合通信基盤局",
+    "department": "サイバーセキュリティ統括官（室）\n情報流通振興課\nデータ通信課"
+  },
+  {
+    "projectName": "５Ｇ導入に向けた電波の利用状況調査",
+    "ministry": "総務省",
+    "bureau": "総合通信基盤局",
+    "department": "電波政策課"
+  },
+  {
+    "projectName": "G20貿易・デジタル経済大臣会合開催経費",
+    "ministry": "総務省",
+    "bureau": "国際戦略局",
+    "department": "国際政策課"
+  },
+  {
+    "projectName": "ＡＰＰＵ（アジア＝太平洋郵便連合）執行理事会の開催",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局郵政行政部",
+    "department": "郵便課国際企画室"
+  },
+  {
+    "projectName": "郵便局活性化推進事業（郵便局×地方自治体等×ICT）",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局　郵政行政部",
+    "department": "企画課"
+  },
+  {
+    "projectName": "被災地に対する応援職員の派遣に係る訓練・研修等経費",
+    "ministry": "総務省",
+    "bureau": "自治行政局公務員部",
+    "department": "公務員課応援派遣室"
+  },
+  {
+    "projectName": "自治体における情報システムの標準化に要する経費",
+    "ministry": "総務省",
+    "bureau": "自治行政局",
+    "department": "行政経営支援室"
+  },
+  {
+    "projectName": "マイナンバーカード・公的個人認証の海外継続利用に要する経費",
+    "ministry": "総務省",
+    "bureau": "自治行政局",
+    "department": "住民制度課"
+  },
+  {
+    "projectName": "RPAの導入に要する経費",
+    "ministry": "総務省",
+    "bureau": "自治財政局\n自治税務局",
+    "department": "財政課総務室\n企画課総務室"
+  },
+  {
+    "projectName": "研究開発型ICTスタートアップ支援プログラム",
+    "ministry": "総務省",
+    "bureau": "国際戦略局",
+    "department": "技術政策課"
+  },
+  {
+    "projectName": "グローバル量子暗号通信網構築のための研究開発",
+    "ministry": "総務省",
+    "bureau": "国際戦略局",
+    "department": "技術政策課研究推進室\n宇宙通信政策課"
+  },
+  {
+    "projectName": "多言語翻訳技術の高度化に関する研究開発",
+    "ministry": "総務省",
+    "bureau": "国際戦略局",
+    "department": "技術政策課　研究推進室"
+  },
+  {
+    "projectName": "トラストサービスの制度化に係る調査研究",
+    "ministry": "総務省",
+    "bureau": "サイバーセキュリティ統括官",
+    "department": "サイバーセキュリティ統括官（室）"
+  },
+  {
+    "projectName": "国際見本市を通じた放送コンテンツの海外展開",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "情報通信作品振興課\n放送コンテンツ海外流通推進室"
+  },
+  {
+    "projectName": "ネット同時配信時代におけるコンテンツ権利処理円滑化事業",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "情報通信作品振興課"
+  },
+  {
+    "projectName": "高度伝送技術の標準化等によるネットワークの有効活用に関する調査研究",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "衛星・地域放送課地域放送推進室"
+  },
+  {
+    "projectName": "地域IX・CDN等を活用したローカルコンテンツ配信効率化等促進事業",
+    "ministry": "総務省",
+    "bureau": "総合通信基盤局　電気通信事業部\n情報流通行政局",
+    "department": "データ通信課\n情報通信作品振興課"
+  },
+  {
+    "projectName": "ICT人材育成・教育基盤構築事業",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "情報流通振興課情報活用支援室"
+  },
+  {
+    "projectName": "自治体AI共同開発推進事業",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "地域通信振興課"
+  },
+  {
+    "projectName": "地域課題解決型ローカル５Ｇ等の実現に向けた開発実証",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "地域通信振興課"
+  },
+  {
+    "projectName": "デジタル活用支援員推進事業",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "情報流通振興課\n情報活用支援室"
+  },
+  {
+    "projectName": "情報アクセシビリティ確保のための環境整備",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "情報流通振興課\n情報活用支援室"
+  },
+  {
+    "projectName": "多言語翻訳の普及推進",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "情報流通振興課"
+  },
+  {
+    "projectName": "高度映像配信プラットフォームに関する実証",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "情報通信政策課"
+  },
+  {
+    "projectName": "共聴施設統合・再編促進事業",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "地域放送推進室"
+  },
+  {
+    "projectName": "BS右旋帯域の再編等に係る経費",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局",
+    "department": "衛星・地域放送課"
+  },
+  {
+    "projectName": "インターネット上の海賊版サイト対策に係る検討経費",
+    "ministry": "総務省",
+    "bureau": "総合通信基盤局",
+    "department": "消費者行政第二課"
+  },
+  {
+    "projectName": "仮想空間における電波模擬システム技術の高度化",
+    "ministry": "総務省",
+    "bureau": "総合通信基盤局電波部",
+    "department": "電波政策課\n基幹通信室"
+  },
+  {
+    "projectName": "地域課題解決型ローカル5G等の実現に向けた開発実証",
+    "ministry": "総務省",
+    "bureau": "総合通信基盤局電波部",
+    "department": "移動通信課"
+  },
+  {
+    "projectName": "無線システム普及支援事業（公共用無線局の周波数有効利用促進事業）",
+    "ministry": "総務省",
+    "bureau": "総合通信基盤局",
+    "department": "重要無線室"
+  },
+  {
+    "projectName": "電波の利用状況調査・公表",
+    "ministry": "総務省",
+    "bureau": "総合通信基盤局",
+    "department": "電波政策課"
+  },
+  {
+    "projectName": "グローバルICTインフラの構築の促進に向けた諸外国との戦略的連携の推進",
+    "ministry": "総務省",
+    "bureau": "国際戦略局",
+    "department": "国際政策課"
+  },
+  {
+    "projectName": "第27回万国郵便大会議対策",
+    "ministry": "総務省",
+    "bureau": "情報流通行政局郵政行政部",
+    "department": "郵便課国際企画室"
+  }
+]

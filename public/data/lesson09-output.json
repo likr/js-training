@@ -1,0 +1,139 @@
+{
+  "children": [
+    {
+      "name": "経済産業省",
+      "children": [
+        {
+          "name": "資源エネルギー庁　資源・燃料部",
+          "children": [
+            { "name": "石油精製備蓄課", "count": 16 },
+            { "name": "石油流通課", "count": 14 },
+            { "name": "その他", "count": 22 }
+          ]
+        },
+        {
+          "name": "産業技術環境局",
+          "children": [{ "name": "その他", "count": 49 }]
+        },
+        {
+          "name": "資源エネルギー庁",
+          "children": [{ "name": "その他", "count": 48 }]
+        },
+        {
+          "name": "製造産業局",
+          "children": [{ "name": "その他", "count": 47 }]
+        },
+        {
+          "name": "資源エネルギー庁\n省エネルギー・新エネルギー部",
+          "children": [
+            { "name": "新エネルギー課", "count": 17 },
+            { "name": "その他", "count": 24 }
+          ]
+        },
+        { "name": "特許庁", "children": [{ "name": "その他", "count": 41 }] },
+        {
+          "name": "商務・サービスグループ",
+          "children": [{ "name": "その他", "count": 28 }]
+        },
+        {
+          "name": "商務情報政策局",
+          "children": [{ "name": "その他", "count": 26 }]
+        },
+        {
+          "name": "中小企業庁",
+          "children": [{ "name": "その他", "count": 23 }]
+        },
+        {
+          "name": "通商政策局",
+          "children": [{ "name": "その他", "count": 15 }]
+        },
+        {
+          "name": "貿易経済協力局",
+          "children": [{ "name": "その他", "count": 12 }]
+        },
+        { "name": "その他", "count": 109 }
+      ]
+    },
+    {
+      "name": "文部科学省",
+      "children": [
+        {
+          "name": "総合教育政策局",
+          "children": [
+            { "name": "地域学習推進課", "count": 15 },
+            { "name": "生涯学習推進課", "count": 14 },
+            { "name": "調査企画課", "count": 13 },
+            { "name": "その他", "count": 29 }
+          ]
+        },
+        {
+          "name": "初等中等教育局",
+          "children": [{ "name": "その他", "count": 65 }]
+        },
+        {
+          "name": "文化庁",
+          "children": [
+            { "name": "企画調整課", "count": 15 },
+            { "name": "その他", "count": 50 }
+          ]
+        },
+        {
+          "name": "研究開発局",
+          "children": [
+            { "name": "原子力課", "count": 15 },
+            { "name": "その他", "count": 40 }
+          ]
+        },
+        {
+          "name": "高等教育局",
+          "children": [
+            { "name": "学生・留学生課", "count": 14 },
+            { "name": "その他", "count": 39 }
+          ]
+        },
+        {
+          "name": "スポーツ庁",
+          "children": [{ "name": "その他", "count": 53 }]
+        },
+        {
+          "name": "科学技術・学術政策局",
+          "children": [{ "name": "その他", "count": 36 }]
+        },
+        {
+          "name": "研究振興局",
+          "children": [{ "name": "その他", "count": 34 }]
+        },
+        {
+          "name": "大臣官房国際課",
+          "children": [
+            { "name": "大臣官房国際課", "count": 12 },
+            { "name": "その他", "count": 0 }
+          ]
+        },
+        { "name": "その他", "count": 35 }
+      ]
+    },
+    {
+      "name": "総務省",
+      "children": [
+        {
+          "name": "情報流通行政局",
+          "children": [{ "name": "その他", "count": 61 }]
+        },
+        {
+          "name": "自治行政局",
+          "children": [{ "name": "その他", "count": 32 }]
+        },
+        {
+          "name": "国際戦略局",
+          "children": [{ "name": "その他", "count": 28 }]
+        },
+        {
+          "name": "総合通信基盤局",
+          "children": [{ "name": "その他", "count": 24 }]
+        },
+        { "name": "その他", "count": 79 }
+      ]
+    }
+  ]
+}
