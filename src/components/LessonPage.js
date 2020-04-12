@@ -67,7 +67,7 @@ const LessonPage = ({
               {data && <Chart data={data} />}
             </div>
           </IonItem>
-          <IonItem href={answerUrl}>表示例を見る</IonItem>
+          <IonItem routerLink={answerUrl}>表示例を見る</IonItem>
         </IonList>
       </IonContent>
     </IonPage>

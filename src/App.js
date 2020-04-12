@@ -49,17 +49,17 @@ const App = () => {
             </IonHeader>
             <IonContent>
               <IonList>
-                <IonItem href="/">Introduction</IonItem>
-                <IonItem href="/lesson01">Lesson 01</IonItem>
-                <IonItem href="/lesson02">Lesson 02</IonItem>
-                <IonItem href="/lesson03">Lesson 03</IonItem>
-                <IonItem href="/lesson04">Lesson 04</IonItem>
-                <IonItem href="/lesson05">Lesson 05</IonItem>
-                <IonItem href="/lesson06">Lesson 06</IonItem>
-                <IonItem href="/lesson07">Lesson 07</IonItem>
-                <IonItem href="/lesson08">Lesson 08</IonItem>
-                <IonItem href="/lesson09">Lesson 09</IonItem>
-                <IonItem href="/lesson10">Lesson 10</IonItem>
+                <IonItem routerLink="/">Introduction</IonItem>
+                <IonItem routerLink="/lesson01">Lesson 01</IonItem>
+                <IonItem routerLink="/lesson02">Lesson 02</IonItem>
+                <IonItem routerLink="/lesson03">Lesson 03</IonItem>
+                <IonItem routerLink="/lesson04">Lesson 04</IonItem>
+                <IonItem routerLink="/lesson05">Lesson 05</IonItem>
+                <IonItem routerLink="/lesson06">Lesson 06</IonItem>
+                <IonItem routerLink="/lesson07">Lesson 07</IonItem>
+                <IonItem routerLink="/lesson08">Lesson 08</IonItem>
+                <IonItem routerLink="/lesson09">Lesson 09</IonItem>
+                <IonItem routerLink="/lesson10">Lesson 10</IonItem>
               </IonList>
             </IonContent>
           </IonMenu>
