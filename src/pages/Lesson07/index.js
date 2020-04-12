@@ -12,6 +12,7 @@ const Lesson = () => {
     <LessonPage
       answerUrl="/answer07"
       convertData={convertData}
+      dataUrl="data/covid19-tweets.json"
       instruction={instruction}
       title="Lesson 07"
       Chart={Chart}
