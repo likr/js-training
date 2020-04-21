@@ -3,8 +3,16 @@ import LessonPage from "../../components/LessonPage";
 import Chart from "../../components/Chart01";
 import instruction from "./instruction.md";
 
+/*
 const convertData = (input) => {
   return []; // ここを作りましょう！
+};*/
+
+const convertData = (input) => {
+  return input.map(([name, count]) => ({
+    name,
+    count,
+  }));
 };
 
 const Lesson = () => {
