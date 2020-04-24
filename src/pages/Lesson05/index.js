@@ -11,7 +11,7 @@ const convertData = (input) => {
   const bin_max = Math.round(Math.max(...input.map(({ y }) => y)));
   const bin_min = Math.round(Math.min(...input.map(({ y }) => y)));
   //要素数nの配列をつくる Array.from({length:n})
-  //引数の_これは何？
+  //引数の_は、いらない引数で二番目の引数のindexを使うから置いてるみたいな感じ
   const bins = Array.from({ length: bin_max - bin_min + 1 }).map((_, i) => {
     const obj = {
       bin: (bin_min + i).toString(), //目標のbinが文字列型だから変換
