@@ -15,6 +15,7 @@
 ```javascript
 const convertData = (input) => {
   const ratio = 0.01;
+  const ministryCount = {};
   const ministries = Array.from(
     new Set(input.map(({ ministry }) => ministry))
   ).map((ministry) => {
@@ -47,10 +48,7 @@ const convertData = (input) => {
             bureauProjects.length -
             departments.reduce((a, { count }) => a + count, 0),
         });
-        bureauCount[bureau] = 0;
-        for (const { count } of departments) {
-          bureauCount[bureau] += count;
-        }
+        bureauCount[bureau] = bureauProjects.length;
         return {
           name: bureau,
           children: departments,
@@ -66,11 +64,15 @@ const convertData = (input) => {
         ministryProjects.length -
         bureaus.reduce((a, { name }) => a + bureauCount[name], 0),
     });
+    ministryCount[ministry] = ministryProjects.length;
     return {
       name: ministry,
       children: bureaus,
     };
   });
+  ministries.sort(
+    (item1, item2) => ministryCount[item2.name] - ministryCount[item1.name]
+  );
   return {
     children: ministries,
   };
