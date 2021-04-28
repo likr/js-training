@@ -4,8 +4,9 @@ import Chart from "../../components/Chart02";
 import instruction from "./instruction.md";
 
 const convertData = (input) => {
-  input.sort((a, b) => b.count - a.count); //a-bだと昇順
-  return input.slice(0, 20);
+  /*https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Array/sort*/ 
+  const data = input.sort((a, b)=>b.count-a.count);//a,b逆だと小さい順
+  return data.slice(0, 20);
 };
 
 const Lesson = () => {
