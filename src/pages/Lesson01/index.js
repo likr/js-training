@@ -9,10 +9,8 @@ const convertData = (input) => {
 };*/
 
 const convertData = (input) => {
-  return input.map(([name, count]) => ({
-    name,
-    count,
-  }));
+  const data = input.map(([name, value])=> ({"name": name, "count":value}));
+  return data;
 };
 
 const Lesson = () => {
