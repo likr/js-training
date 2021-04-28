@@ -19,20 +19,14 @@ const convertData = (input) => {
   return obj; // ここを作りましょう！
 };*/
 
-const convertData = (input) => {
-  // setはオブジェクトダメだから配列に←setで重複してるのを省く←mapで種類名だけにしたやつ
-  const species = Array.from(new Set(input.map(({ species }) => species)));
-  //種類ごとでreturnしたい
-  return species.map((species) => {
-    //中身
-    return {
-      id: species,
-      data: input //inputのデータの中でspeciesが一致するものをfilterでひろう
-        .filter((item) => item.species === species)
-        .map(({ sepalLength: x, petalWidth: y }) => ({ x, y })),
-    };
-  });
-};
+const convertData = (input)=>{
+  //名前を取ってきてセットで重複を削除, 種類の配列データを作る
+  const species_name = Array.from(new Set(input.map((item)=>item.species)));
+  //種類->それに当てはまるもののデータの変形のループを回す
+  const data = species_name.map((species)=>{return{"id":species, "data":input.filter((item)=>item.species===species).map((item)=>({"x":item.sepalLength, "y":item.petalWidth}))}})
+  console.log(data)
+  return data;
+}
 
 const Lesson = () => {
   return (
