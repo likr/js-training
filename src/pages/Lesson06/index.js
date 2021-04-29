@@ -3,6 +3,7 @@ import LessonPage from "../../components/LessonPage";
 import Chart from "../../components/Chart06";
 import instruction from "./instruction.md";
 
+/* 2020
 const convertData = (input) => {
   const data = Array.from(
     input.map(({ gender, y, x }) => {
@@ -24,9 +25,8 @@ const convertData = (input) => {
   );
   return data;
 };
-
-//模範解答
-/*
+*/
+/* 模範解答
 const convertData = (input) =>{
   const colors = { //colorでgenderをkeyで取れるようにobj作る
     男性: "blue",
@@ -42,6 +42,15 @@ const convertData = (input) =>{
     };
   });
 };*/
+
+const convertData = (input)=>{
+  const color ={
+    "男性":"blue",
+    "女性":"red"
+  }
+  const data = input.map((item)=>({"color":color[item.gender],gender:item.gender, "bmi":item.x/(item.y/100)**2, "weight":item.x, "height":item.y}))
+  return data;
+}
 
 const Lesson = () => {
   return (
