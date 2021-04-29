@@ -2,7 +2,7 @@ import React from "react";
 import LessonPage from "../../components/LessonPage";
 import Chart from "../../components/Chart05";
 import instruction from "./instruction.md";
-
+/*
 const convertData = (input) => {
   //objのプロパティは{}付ける(多分
   const genders = Array.from(new Set(input.map(({ gender }) => gender)));
@@ -28,31 +28,25 @@ const convertData = (input) => {
     bins[i][gender] += 1;
   }
   return bins;
-};
-
-/*始めかいたやつ　間抜けてる　警告出てる
-const convertData = (input) => {
-  const height = Array.from(new Set(input.map((item) => Math.round(item.y))));
-  height.sort();
-  return height.map((height) => {
-    let man = 0;
-    let woman = 0;
-    for (let item of input) {
-      if (Math.round(item.y) === height) {
-        if (item.gender === "男性") {
-          man += 1;
-        } else {
-          woman += 1;
-        }
-      }
-    }
-    return {
-      bin: height,
-      男性: man,
-      女性: woman,
-    };
-  });
 };*/
+
+const convertData = (input) =>{
+  const gender = Array.from(new Set(input.map((item)=>item.gender)));
+  const y_max = Math.round(Math.max.apply([],input.map((item)=> item.y)))
+  const y_min = Math.round(Math.min.apply([],input.map((item)=> item.y)))
+  /*連番の生成：https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Array/from */
+  const data =  Array.from({length:y_max-y_min+1}).map((_, i)=> {
+    const obj = {"bin":y_min+i};
+    for(const g of gender){
+      obj[g] = 0;
+    }
+    return obj});
+    input.map((item)=>{
+    const i = Math.round(item.y)-y_min;
+    data[i][item.gender] += 1;
+  })
+  return data;
+}
 
 const Lesson = () => {
   return (
