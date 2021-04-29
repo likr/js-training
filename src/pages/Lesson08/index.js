@@ -48,7 +48,7 @@ const convertData = (input) => {
   return { nodes: nodes_data, links: link_data }; // ここを作りましょう！
 };
 
-/*
+/* 模範
 const convertData = (input) => {
   for (const item of input) {
     item.tags.sort();

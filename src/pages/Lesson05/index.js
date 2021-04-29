@@ -40,11 +40,13 @@ const convertData = (input) =>{
     for(const g of gender){
       obj[g] = 0;
     }
-    return obj});
-    input.map((item)=>{
+    return obj
+  });
+  
+  for(const item of input){
     const i = Math.round(item.y)-y_min;
     data[i][item.gender] += 1;
-  })
+  }
   return data;
 }
 
