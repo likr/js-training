@@ -52,7 +52,6 @@ const convertData = (input) => {
     count[m]["その他"] = total_c;
   }
 
-  //データの形を作る
   const data = []
   for (const m of ministries) {
     const obj = { "name": m, "children": [] }
