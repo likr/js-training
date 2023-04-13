@@ -25,12 +25,12 @@
 [GitHub](https://github.com/) のアカウントを持っていない人は、はじめにアカウントを作成しましょう。
 詳しくは以下のページを読んでください。
 
-- [GitHub へのサインアップ](https://help.github.com/ja/github/getting-started-with-github/signing-up-for-github)
+- [GitHub へのサインアップ](https://docs.github.com/ja/get-started/signing-up-for-github/signing-up-for-a-new-github-account)
 
 [このリポジトリ](https://github.com/likr/js-training) をフォークしましょう。
 フォークの詳細は以下のページを読んでください。
 
-- [リポジトリをフォークする](https://help.github.com/ja/github/getting-started-with-github/fork-a-repo)
+- [リポジトリをフォークする](https://docs.github.com/ja/get-started/quickstart/fork-a-repo)
 
 次に、GitHub から手元の作業環境にクローンします。
 Visual Studio Code からリポジトリのクローンを行えます。
