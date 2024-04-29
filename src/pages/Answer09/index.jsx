@@ -1,29 +1,29 @@
 import React from "react";
 import AnswerPage from "../../components/AnswerPage";
 import Chart from "../../components/Chart09";
-import answer from "./answer.md";
+import answer from "./answer.md?raw";
 
 const convertData = (input) => {
   const ratio = 0.01;
   const ministryCount = {};
   const ministries = Array.from(
-    new Set(input.map(({ ministry }) => ministry))
+    new Set(input.map(({ ministry }) => ministry)),
   ).map((ministry) => {
     const ministryProjects = input.filter((item) => item.ministry === ministry);
     const bureauCount = {};
     const bureaus = Array.from(
-      new Set(ministryProjects.map(({ bureau }) => bureau))
+      new Set(ministryProjects.map(({ bureau }) => bureau)),
     )
       .map((bureau) => {
         const bureauProjects = ministryProjects.filter(
-          (item) => item.bureau === bureau
+          (item) => item.bureau === bureau,
         );
         const departments = Array.from(
-          new Set(bureauProjects.map(({ department }) => department))
+          new Set(bureauProjects.map(({ department }) => department)),
         )
           .map((department) => {
             const departmentProjects = bureauProjects.filter(
-              (item) => item.department === department
+              (item) => item.department === department,
             );
             return {
               name: department,
@@ -46,7 +46,7 @@ const convertData = (input) => {
       })
       .filter(({ name }) => bureauCount[name] / input.length >= ratio);
     bureaus.sort(
-      (item1, item2) => bureauCount[item2.name] - bureauCount[item1.name]
+      (item1, item2) => bureauCount[item2.name] - bureauCount[item1.name],
     );
     bureaus.push({
       name: "その他",
@@ -61,7 +61,7 @@ const convertData = (input) => {
     };
   });
   ministries.sort(
-    (item1, item2) => ministryCount[item2.name] - ministryCount[item1.name]
+    (item1, item2) => ministryCount[item2.name] - ministryCount[item1.name],
   );
   return {
     children: ministries,

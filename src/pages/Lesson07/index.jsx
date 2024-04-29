@@ -1,7 +1,7 @@
 import React from "react";
 import LessonPage from "../../components/LessonPage";
-import Chart from "../../components/Chart05";
-import instruction from "./instruction.md";
+import Chart from "../../components/Chart07";
+import instruction from "./instruction.md?raw";
 
 const convertData = (input) => {
   return []; // ここを作りましょう！
@@ -10,11 +10,11 @@ const convertData = (input) => {
 const Lesson = () => {
   return (
     <LessonPage
-      answerUrl="/answer05"
+      answerUrl="/answer07"
       convertData={convertData}
-      dataUrl="data/size-and-weight.json"
+      dataUrl="data/covid19-tweets.json"
       instruction={instruction}
-      title="Lesson 05"
+      title="Lesson 07"
       Chart={Chart}
     />
   );

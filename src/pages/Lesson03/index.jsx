@@ -1,16 +1,16 @@
 import React from "react";
-import AnswerPage from "../../components/AnswerPage";
+import LessonPage from "../../components/LessonPage";
 import Chart from "../../components/Chart03";
-import answer from "./answer.md";
+import instruction from "./instruction.md?raw";
 
 const convertData = (input) => {
-  return input.filter((item) => item.gender === "男性");
+  return []; // ここを作りましょう！
 };
 
-const Answer = () => {
+const Lesson = () => {
   return (
-    <AnswerPage
-      answer={answer}
+    <LessonPage
+      answerUrl="/answer03"
       dataUrl="data/size-and-weight.json"
       convertData={(input) => {
         return [
@@ -20,11 +20,11 @@ const Answer = () => {
           },
         ];
       }}
-      lessonUrl="/lesson03"
-      title="Lesson 03 - Answer"
+      instruction={instruction}
+      title="Lesson 03"
       Chart={Chart}
     />
   );
 };
 
-export default Answer;
+export default Lesson;
