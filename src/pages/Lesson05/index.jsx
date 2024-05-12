@@ -1,20 +1,20 @@
 import React from "react";
 import LessonPage from "../../components/LessonPage";
-import Chart from "../../components/Chart09";
-import instruction from "./instruction.md";
+import Chart from "../../components/Chart05";
+import instruction from "./instruction.md?raw";
 
 const convertData = (input) => {
-  return { children: [] }; // ここを作りましょう！
+  return []; // ここを作りましょう！
 };
 
 const Lesson = () => {
   return (
     <LessonPage
-      answerUrl="/answer09"
+      answerUrl="/answer05"
       convertData={convertData}
-      dataUrl="data/judgit-departments.json"
+      dataUrl="data/size-and-weight.json"
       instruction={instruction}
-      title="Lesson 09"
+      title="Lesson 05"
       Chart={Chart}
     />
   );

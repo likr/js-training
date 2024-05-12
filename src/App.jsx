@@ -1,4 +1,3 @@
-import React from "react";
 import { Route } from "react-router-dom";
 import {
   IonApp,
@@ -36,7 +35,7 @@ import Answer08 from "./pages/Answer08";
 import Answer09 from "./pages/Answer09";
 import Answer10 from "./pages/Answer10";
 
-const App = () => {
+export default function App() {
   return (
     <IonApp>
       <IonReactRouter>
@@ -90,6 +89,4 @@ const App = () => {
       </IonReactRouter>
     </IonApp>
   );
-};
-
-export default App;
+}

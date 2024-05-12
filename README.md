@@ -51,7 +51,7 @@ npm ci
 次に、以下のコマンドで開発サーバーを起動します。
 
 ```shell-session
-NODE_OPTIONS='--openssl-legacy-provider' npm start
+npm run dev
 ```
 
 正常に開発サーバーが起動すると、Web ブラウザでページが開かれます。

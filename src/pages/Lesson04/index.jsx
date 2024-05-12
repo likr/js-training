@@ -1,7 +1,7 @@
 import React from "react";
 import LessonPage from "../../components/LessonPage";
 import Chart from "../../components/Chart04";
-import instruction from "./instruction.md";
+import instruction from "./instruction.md?raw";
 
 const convertData = (input) => {
   return []; // ここを作りましょう！

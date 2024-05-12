@@ -25,7 +25,6 @@ const AnswerPage = ({
 }) => {
   const [data, setData] = useState(null);
   const [showAnswer, setShowAnswer] = useState(false);
-  const [text, setText] = useState(null);
 
   useIonViewWillEnter(() => {
     if (dataUrl) {
@@ -36,16 +35,6 @@ const AnswerPage = ({
         });
     }
   }, [dataUrl, convertData]);
-
-  useIonViewWillEnter(() => {
-    if (answer) {
-      fetch(answer)
-        .then((response) => response.text())
-        .then((text) => {
-          setText(text);
-        });
-    }
-  }, [answer]);
 
   return (
     <IonPage>
@@ -77,7 +66,7 @@ const AnswerPage = ({
             <IonItem>
               <IonLabel position="stacked">解答例</IonLabel>
 
-              <Markdown text={text} />
+              <Markdown text={answer} />
             </IonItem>
           )}
         </IonList>

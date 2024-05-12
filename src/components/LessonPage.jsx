@@ -23,27 +23,16 @@ const LessonPage = ({
   Chart,
 }) => {
   const [data, setData] = useState(null);
-  const [text, setText] = useState("");
 
   useIonViewWillEnter(() => {
     if (dataUrl) {
       fetch(dataUrl)
         .then((response) => response.json())
         .then((data) => {
-          setData(convertData(data));
+          setData(data);
         });
     }
-  }, [dataUrl, convertData]);
-
-  useIonViewWillEnter(() => {
-    if (instruction) {
-      fetch(instruction)
-        .then((response) => response.text())
-        .then((text) => {
-          setText(text);
-        });
-    }
-  }, [instruction]);
+  });
 
   return (
     <IonPage>
@@ -59,12 +48,12 @@ const LessonPage = ({
         <IonList>
           <IonItem>
             <IonLabel position="stacked">説明</IonLabel>
-            <Markdown text={text} />
+            <Markdown text={instruction} />
           </IonItem>
           <IonItem>
             <IonLabel position="stacked">実行結果</IonLabel>
             <div style={{ width: "100%", height: "500px" }}>
-              {data && <Chart data={data} />}
+              {data && <Chart data={data && convertData(data)} />}
             </div>
           </IonItem>
           <IonItem routerLink={answerUrl}>表示例を見る</IonItem>

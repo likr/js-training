@@ -1,7 +1,7 @@
 import React from "react";
 import AnswerPage from "../../components/AnswerPage";
 import Chart from "../../components/Chart10";
-import answer from "./answer.md";
+import answer from "./answer.md?raw";
 
 const convertData = (input) => {
   const degree = {};
@@ -14,11 +14,12 @@ const convertData = (input) => {
   }
 
   const removedTags = new Set(
-    input.nodes.map(({ id }) => id).filter((tag) => degree[tag] <= 1)
+    input.nodes.map(({ id }) => id).filter((tag) => degree[tag] <= 1),
   );
   const nodes = input.nodes.filter(({ id }) => !removedTags.has(id));
   const links = input.links.filter(
-    ({ source, target }) => !removedTags.has(source) && !removedTags.has(target)
+    ({ source, target }) =>
+      !removedTags.has(source) && !removedTags.has(target),
   );
 
   const neighbors = {};
@@ -43,7 +44,7 @@ const convertData = (input) => {
   }
 
   const maxFrequency = Math.max(
-    ...input.nodes.map(({ frequency }) => frequency)
+    ...input.nodes.map(({ frequency }) => frequency),
   );
   for (const node of nodes) {
     node.radius = Math.sqrt(node.frequency / maxFrequency) * 20;

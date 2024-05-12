@@ -1,7 +1,7 @@
 import React from "react";
 import AnswerPage from "../../components/AnswerPage";
 import Chart from "../../components/Chart06";
-import answer from "./answer.md";
+import answer from "./answer.md?raw";
 
 const convertData = (input) => {
   const colors = {
