@@ -31,10 +31,10 @@ const AnswerPage = ({
       fetch(dataUrl)
         .then((response) => response.json())
         .then((data) => {
-          setData(convertData(data));
+          setData(data);
         });
     }
-  }, [dataUrl, convertData]);
+  });
 
   return (
     <IonPage>
@@ -51,16 +51,17 @@ const AnswerPage = ({
           <IonItem>
             <IonLabel position="stacked">実行結果</IonLabel>
             <div style={{ width: "100%", height: "500px" }}>
-              {data && <Chart data={data} />}
+              {data && <Chart data={data && convertData(data)} />}
             </div>
           </IonItem>
           <IonItem>
-            <IonLabel>解答例を表示</IonLabel>
             <IonCheckbox
               slot="end"
               checked={showAnswer}
               onIonChange={(e) => setShowAnswer(e.detail.checked)}
-            />
+            >
+              解答例を表示
+            </IonCheckbox>
           </IonItem>
           {showAnswer && (
             <IonItem>
