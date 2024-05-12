@@ -2,6 +2,7 @@
   "name": "js-training",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "scripts": {
     "build": "vite build",
     "dev": "vite"
@@ -29,7 +30,7 @@
     "@nivo/parallel-coordinates": "^0.84.0",
     "@nivo/scatterplot": "^0.84.0",
     "@nivo/sunburst": "^0.84.0",
-    "highlight.js": "^9.18.1",
+    "highlight.js": "^11.9.0",
     "markdown-it": "^10.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
