@@ -31,13 +31,23 @@ const Chart = ({ data }) => {
       data={data}
       margin={{ top: 0, right: 0, bottom: 0, left: 0 }}
       linkDistance={10}
-      centeringStrength={0.8}
+      centeringStrength={0.5}
       repulsivity={15}
-      iterations={300}
+      distanceMin={30}
+      distanceMax={150} // Set maximum distance between connected nodes
+      iterations={500} // Increased for better layout stability
       nodeColor={() => "green"}
       nodeBorderColor={() => "none"}
       linkColor={() => "gray"}
       animate={true}
+      motionConfig={{
+        mass: 2,
+        tension: 170,
+        friction: 30,
+        clamp: true,
+        precision: 0.01,
+        velocity: 0,
+      }}
     />
   );
 };
