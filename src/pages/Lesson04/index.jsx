@@ -4,6 +4,7 @@ import Chart from "../../components/Chart04";
 import instruction from "./instruction.md?raw";
 
 const convertData = (input) => {
+  const ayame = Array.from(new Set(input.map(({species}) => species))) ;
   return []; // ここを作りましょう！
 };
 
