@@ -4,8 +4,15 @@ import Chart from "../../components/Chart04";
 import instruction from "./instruction.md?raw";
 
 const convertData = (input) => {
-  const ayame = Array.from(new Set(input.map(({species}) => species))) ;
-  return []; // ここを作りましょう！
+  const species = Array.from(new Set(input.map(({species}) => species))) ;
+  return species.map((species) => {
+    return{
+      id: species,
+      data: input
+        .filter((item) => item.species === species)
+        .map(({sepalLength: x, petalWidth: y}) => ({x,y})),
+    };
+  });
 };
 
 const Lesson = () => {
