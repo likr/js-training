@@ -20,19 +20,19 @@ const Chart = ({ data }) => {
       return cmp(link1.source, link2.source);
     }
   });
+
   return (
     <ResponsiveNetwork
-      nodes={data.nodes}
-      links={data.links}
+      data={data}
       margin={{ top: 0, right: 0, bottom: 0, left: 0 }}
-      linkDistance={() => 50}
+      linkDistance={50}
       repulsivity={50}
       iterations={300}
+      nodeSize={(node) => node.radius || 5}
       nodeColor={(node) => node.color}
       nodeBorderColor={() => "none"}
       linkColor={() => "gray"}
-      motionStiffness={160}
-      motionDamping={12}
+      animate={true}
     />
   );
 };

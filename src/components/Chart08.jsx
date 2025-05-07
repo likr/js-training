@@ -20,22 +20,34 @@ const Chart = ({ data }) => {
       return cmp(link1.source, link2.source);
     }
   });
+
+  // Set node size for all nodes
   for (const node of data.nodes) {
-    node.radius = 5;
+    node.size = 5;
   }
+
   return (
     <ResponsiveNetwork
-      nodes={data.nodes}
-      links={data.links}
+      data={data}
       margin={{ top: 0, right: 0, bottom: 0, left: 0 }}
-      linkDistance={() => 10}
+      linkDistance={10}
+      centeringStrength={0.5}
       repulsivity={15}
-      iterations={300}
+      distanceMin={30}
+      distanceMax={150} // Set maximum distance between connected nodes
+      iterations={500} // Increased for better layout stability
       nodeColor={() => "green"}
       nodeBorderColor={() => "none"}
       linkColor={() => "gray"}
-      motionStiffness={160}
-      motionDamping={12}
+      animate={true}
+      motionConfig={{
+        mass: 2,
+        tension: 170,
+        friction: 30,
+        clamp: true,
+        precision: 0.01,
+        velocity: 0,
+      }}
     />
   );
 };
